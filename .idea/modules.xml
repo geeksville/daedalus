@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/pilotpal.iml" filepath="$PROJECT_DIR$/pilotpal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pilotpal_main.iml" filepath="$PROJECT_DIR$/.idea/modules/pilotpal_main.iml" group="pilotpal" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pilotpal_test.iml" filepath="$PROJECT_DIR$/.idea/modules/pilotpal_test.iml" group="pilotpal" />
     </modules>
   </component>
 </project>
