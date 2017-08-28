@@ -1,0 +1,122 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JavaToKotlinClassMap kotlin.reflect.jvm.internal.impl.name.ClassId mapKotlinToJava(kotlin.reflect.jvm.internal.impl.name.FqNameUnsafe) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.MappingUtilKt kotlin.reflect.jvm.internal.impl.types.TypeConstructorSubstitution createMappedTypeParametersSubstitution(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JavaToKotlinClassMap kotlin.reflect.jvm.internal.impl.name.ClassId mapJavaToKotlin(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JavaToKotlinClassMap kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor mapJavaToKotlin(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JvmBuiltIns boolean access$isAdditionalBuiltInsFeatureSupported$p(kotlin.reflect.jvm.internal.impl.platform.JvmBuiltIns) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JvmBuiltIns kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor access$getOwnerModuleDescriptor$p(kotlin.reflect.jvm.internal.impl.platform.JvmBuiltIns) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JavaToKotlinClassMap kotlin.reflect.jvm.internal.impl.name.ClassId access$classId(kotlin.reflect.jvm.internal.impl.platform.JavaToKotlinClassMap, java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JavaToKotlinClassMap.PlatformMutabilityMapping PlatformMutabilityMapping(kotlin.reflect.jvm.internal.impl.name.ClassId, kotlin.reflect.jvm.internal.impl.name.ClassId, kotlin.reflect.jvm.internal.impl.name.ClassId) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JvmBuiltIns java.lang.Iterable getClassDescriptorFactories()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JavaToKotlinClassMap kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor convertMutableToReadOnly(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JavaToKotlinClassMap boolean isReadOnly(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JvmBuiltIns java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt; getClassDescriptorFactories()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JvmBuiltIns JvmBuiltIns(kotlin.reflect.jvm.internal.impl.storage.StorageManager, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JavaToKotlinClassMap boolean isMutable(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JvmBuiltIns kotlin.reflect.jvm.internal.impl.load.kotlin.JvmBuiltInsSettings getSettings()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JavaToKotlinClassMap java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor&gt; mapPlatformClass(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JvmBuiltIns void initialize(kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JavaToKotlinClassMap INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JavaToKotlinClassMap kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor convertReadOnlyToMutable(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JavaToKotlinClassMap.PlatformMutabilityMapping kotlin.reflect.jvm.internal.impl.name.ClassId component2()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JavaToKotlinClassMap java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor&gt; mapPlatformClass(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JvmBuiltIns kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter getPlatformDependentDeclarationFilter()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.MappingUtilKt kotlin.reflect.jvm.internal.impl.types.TypeConstructorSubstitution createMappedTypeParametersSubstitution(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JavaToKotlinClassMap kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor mapJavaToKotlin(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JavaToKotlinClassMap.PlatformMutabilityMapping kotlin.reflect.jvm.internal.impl.name.ClassId component3()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JavaToKotlinClassMap.PlatformMutabilityMapping kotlin.reflect.jvm.internal.impl.name.ClassId getJavaClass()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JavaToKotlinClassMap kotlin.reflect.jvm.internal.impl.name.ClassId access$classId(kotlin.reflect.jvm.internal.impl.platform.JavaToKotlinClassMap, java.lang.Class) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JavaToKotlinClassMap.PlatformMutabilityMapping kotlin.reflect.jvm.internal.impl.name.ClassId component1()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JvmBuiltIns kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider getAdditionalClassPartsProvider()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JvmBuiltIns JvmBuiltIns(kotlin.reflect.jvm.internal.impl.storage.StorageManager, boolean, int, kotlin.jvm.internal.DefaultConstructorMarker) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.MappingUtilKt kotlin.reflect.jvm.internal.impl.types.TypeConstructorSubstitution createMappedTypeParametersSubstitution(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JavaToKotlinClassMap.PlatformMutabilityMapping PlatformMutabilityMapping(kotlin.reflect.jvm.internal.impl.name.ClassId, kotlin.reflect.jvm.internal.impl.name.ClassId, kotlin.reflect.jvm.internal.impl.name.ClassId) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JavaToKotlinClassMap java.util.List&lt;kotlin.reflect.jvm.internal.impl.platform.JavaToKotlinClassMap.PlatformMutabilityMapping&gt; getMutabilityMappings()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JavaToKotlinClassMap boolean isMutable(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JavaToKotlinClassMap kotlin.reflect.jvm.internal.impl.name.ClassId access$classId(kotlin.reflect.jvm.internal.impl.platform.JavaToKotlinClassMap, java.lang.Class)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JavaToKotlinClassMap boolean isReadOnly(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JavaToKotlinClassMap.PlatformMutabilityMapping PlatformMutabilityMapping(kotlin.reflect.jvm.internal.impl.name.ClassId, kotlin.reflect.jvm.internal.impl.name.ClassId, kotlin.reflect.jvm.internal.impl.name.ClassId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JavaToKotlinClassMap kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor convertReadOnlyToMutable(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JavaToKotlinClassMap java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor&gt; mapPlatformClass(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.platform.JavaToKotlinClassMap kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor convertMutableToReadOnly(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

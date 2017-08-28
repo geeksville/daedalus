@@ -1,0 +1,938 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.MemberDeserializer kotlin.reflect.jvm.internal.impl.descriptors.TypeAliasDescriptor loadTypeAlias(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.TypeAlias)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer kotlin.reflect.jvm.internal.impl.types.KotlinType type$default(kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer kotlin.reflect.jvm.internal.impl.types.SimpleType simpleType$default(kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter void reportIncompleteHierarchy(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, java.util.List&lt;java.lang.String&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializedPackageFragmentImpl kotlin.reflect.jvm.internal.impl.serialization.deserialization.descriptors.DeserializedPackageMemberScope computeMemberScope()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoaderImpl java.lang.Object loadPropertyConstant(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Property, kotlin.reflect.jvm.internal.impl.types.KotlinType) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializedPackageFragmentImpl kotlin.reflect.jvm.internal.impl.serialization.deserialization.ClassDataFinder getClassDataFinder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer kotlin.reflect.jvm.internal.impl.types.SimpleType simpleType$default(kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ClassDeserializer kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor access$createClass(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ClassDeserializer, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ClassDeserializer.ClassKey) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoaderImpl AnnotationAndConstantLoaderImpl(kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses, kotlin.reflect.jvm.internal.impl.serialization.SerializerExtensionProtocol) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.IncompatibleVersionErrorData IncompatibleVersionErrorData(T, T, java.lang.String, kotlin.reflect.jvm.internal.impl.name.ClassId) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.FlexibleTypeDeserializer.ThrowException kotlin.reflect.jvm.internal.impl.types.KotlinType create(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type, java.lang.String, kotlin.reflect.jvm.internal.impl.types.SimpleType, kotlin.reflect.jvm.internal.impl.types.SimpleType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.Deserialization.WhenMappings $EnumSwitchMapping$4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoaderImpl AnnotationAndConstantLoaderImpl(kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses, kotlin.reflect.jvm.internal.impl.serialization.SerializerExtensionProtocol) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoaderImpl kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt; loadPropertyConstant(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Property, kotlin.reflect.jvm.internal.impl.types.KotlinType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.MemberDeserializer kotlin.reflect.jvm.internal.impl.descriptors.TypeAliasDescriptor loadTypeAlias(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.TypeAlias) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents DeserializationComponents(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationConfiguration, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ClassDataFinder, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor,? extends kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt;,kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationWithTarget&gt;, kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider, kotlin.reflect.jvm.internal.impl.serialization.deserialization.LocalClassifierTypeSettings, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter, kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker, kotlin.reflect.jvm.internal.impl.serialization.deserialization.FlexibleTypeDeserializer, java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt;, kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.FlexibleTypeDeserializer.ThrowException kotlin.reflect.jvm.internal.impl.types.KotlinType create(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type, java.lang.String, kotlin.reflect.jvm.internal.impl.types.SimpleType, kotlin.reflect.jvm.internal.impl.types.SimpleType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type type(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type.Argument, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type receiverType(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Function, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor getModuleDescriptor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt java.util.List&lt;kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type&gt; upperBounds(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.TypeParameter, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer kotlin.reflect.jvm.internal.impl.types.SimpleType simpleType$default(kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.BinaryVersion int[] toArray()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter void reportIncompleteHierarchy(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.IncompatibleVersionErrorData IncompatibleVersionErrorData(T, T, java.lang.String, kotlin.reflect.jvm.internal.impl.name.ClassId) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor getContainingDeclaration()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoaderImpl java.lang.Object loadPropertyConstant(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Property, kotlin.reflect.jvm.internal.impl.types.KotlinType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer.Package kotlin.reflect.jvm.internal.impl.name.FqName debugFqName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoaderImpl AnnotationAndConstantLoaderImpl(kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses, kotlin.reflect.jvm.internal.impl.serialization.SerializerExtensionProtocol) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationDeserializer.WhenMappings $EnumSwitchMapping$1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker getLookupTracker()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type flexibleUpperBound(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents kotlin.reflect.jvm.internal.impl.serialization.deserialization.LocalClassifierTypeSettings getLocalClassifierTypeSettings()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoBasedClassDataFinder kotlin.reflect.jvm.internal.impl.serialization.ClassDataWithSource findClassData(kotlin.reflect.jvm.internal.impl.name.ClassId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.Deserialization.WhenMappings $EnumSwitchMapping$3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.MemberDeserializer kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext access$getC$p(kotlin.reflect.jvm.internal.impl.serialization.deserialization.MemberDeserializer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext childContext(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, java.util.List&lt;kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.TypeParameter&gt;, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer getTypeDeserializer()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter DO_NOTHING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolverImpl java.lang.String getString(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoaderImpl kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt; loadPropertyConstant(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Property, kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider getPackageFragmentProvider()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.FlexibleTypeDeserializer.ThrowException kotlin.reflect.jvm.internal.impl.types.KotlinType create(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type, java.lang.String, kotlin.reflect.jvm.internal.impl.types.SimpleType, kotlin.reflect.jvm.internal.impl.types.SimpleType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents DeserializationComponents(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationConfiguration, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ClassDataFinder, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor,? extends kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt;,kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationWithTarget&gt;, kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider, kotlin.reflect.jvm.internal.impl.serialization.deserialization.LocalClassifierTypeSettings, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter, kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker, kotlin.reflect.jvm.internal.impl.serialization.deserialization.FlexibleTypeDeserializer, java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt;, kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt java.util.List&lt;kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type&gt; upperBounds(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.TypeParameter, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type type(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type.Argument, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type get(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type type(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.ValueParameter, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer kotlin.reflect.jvm.internal.impl.types.SimpleType simpleType(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type receiverType(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Property, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializedPackageFragment boolean hasTopLevelClass(kotlin.reflect.jvm.internal.impl.name.Name) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.BinaryVersion.Companion int access$getUNKNOWN$p(kotlin.reflect.jvm.internal.impl.serialization.deserialization.BinaryVersion.Companion) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer kotlin.reflect.jvm.internal.impl.types.KotlinType type$default(kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationDeserializer.WhenMappings $EnumSwitchMapping$0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoaderImpl java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor&gt; loadValueParameterAnnotations(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.protobuf.MessageLite, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotatedCallableKind, int, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.ValueParameter) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationDeserializer kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor deserializeAnnotation(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Annotation, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolverImpl kotlin.reflect.jvm.internal.impl.name.Name getName(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type returnType(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Function, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.FlexibleTypeDeserializer.ThrowException INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext access$getC$p(kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationDeserializer kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor deserializeAnnotation(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Annotation, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolverImpl.WhenMappings $EnumSwitchMapping$0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver java.lang.String getString(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.MemberDeserializer kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext access$getC$p(kotlin.reflect.jvm.internal.impl.serialization.deserialization.MemberDeserializer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt java.util.List&lt;kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type&gt; upperBounds(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.TypeParameter, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.Deserialization.WhenMappings $EnumSwitchMapping$2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type receiverType(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Property, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoaderImpl java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor&gt; loadClassAnnotations(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer.Class)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable getTypeTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer kotlin.reflect.jvm.internal.impl.types.SimpleType simpleType$default(kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer kotlin.reflect.jvm.internal.impl.types.SimpleType simpleType(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer kotlin.reflect.jvm.internal.impl.types.KotlinType type$default(kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoaderImpl java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor&gt; loadEnumEntryAnnotations(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.EnumEntry)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.IncompatibleVersionErrorData IncompatibleVersionErrorData(T, T, java.lang.String, kotlin.reflect.jvm.internal.impl.name.ClassId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotatedCallableKind PROPERTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ClassDeserializer kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor access$createClass(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ClassDeserializer, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ClassDeserializer.ClassKey) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationDeserializer AnnotationDeserializer(kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type underlyingType(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.TypeAlias, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor,kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt;,kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationWithTarget&gt; getAnnotationAndConstantLoader()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.Deserialization.WhenMappings $EnumSwitchMapping$1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.Deserialization kotlin.reflect.jvm.internal.impl.types.Variance variance(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.TypeParameter.Variance)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type receiverType(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Function, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotatedCallableKind FUNCTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationConfiguration.Default INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver getNameResolver()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoaderImpl java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor&gt; loadValueParameterAnnotations(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.protobuf.MessageLite, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotatedCallableKind, int, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.ValueParameter) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.MemberDeserializer kotlin.reflect.jvm.internal.impl.descriptors.ClassConstructorDescriptor loadConstructor(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Constructor, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents DeserializationComponents(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationConfiguration, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ClassDataFinder, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor,? extends kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt;,kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationWithTarget&gt;, kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider, kotlin.reflect.jvm.internal.impl.serialization.deserialization.LocalClassifierTypeSettings, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter, kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker, kotlin.reflect.jvm.internal.impl.serialization.deserialization.FlexibleTypeDeserializer, java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt;, kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter) 13'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotatedCallableKind PROPERTY_SETTER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext DeserializationContext(kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable, kotlin.reflect.jvm.internal.impl.serialization.deserialization.descriptors.SinceKotlinInfoTable, kotlin.reflect.jvm.internal.impl.serialization.deserialization.descriptors.DeserializedContainerSource, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer, java.util.List&lt;kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.TypeParameter&gt;) 7'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext childContext(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, java.util.List&lt;kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.TypeParameter&gt;, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type underlyingType(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.TypeAlias, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader java.util.List&lt;T&gt; loadCallableAnnotations(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.protobuf.MessageLite, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotatedCallableKind) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolverImpl kotlin.reflect.jvm.internal.impl.name.ClassId getClassId(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.MemberDeserializer kotlin.reflect.jvm.internal.impl.descriptors.ClassConstructorDescriptor loadConstructor(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Constructor, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializedPackageFragmentImpl DeserializedPackageFragmentImpl(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.PackageFragment, kotlin.reflect.jvm.internal.impl.serialization.deserialization.descriptors.DeserializedContainerSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer.Class kotlin.reflect.jvm.internal.impl.name.FqName debugFqName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoaderImpl java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor&gt; loadValueParameterAnnotations(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.protobuf.MessageLite, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotatedCallableKind, int, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.ValueParameter) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolverImpl NameResolverImpl(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.StringTable, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.QualifiedNameTable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents DeserializationComponents(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationConfiguration, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ClassDataFinder, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor,? extends kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt;,kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationWithTarget&gt;, kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider, kotlin.reflect.jvm.internal.impl.serialization.deserialization.LocalClassifierTypeSettings, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter, kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker, kotlin.reflect.jvm.internal.impl.serialization.deserialization.FlexibleTypeDeserializer, java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt;, kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter) 12'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader java.util.List&lt;A&gt; loadClassAnnotations(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer.Class)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.MemberDeserializer kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer access$asProtoContainer(kotlin.reflect.jvm.internal.impl.serialization.deserialization.MemberDeserializer, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationDeserializer kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor deserializeAnnotation(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Annotation, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader java.util.List&lt;T&gt; loadCallableAnnotations(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.protobuf.MessageLite, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotatedCallableKind)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents kotlin.reflect.jvm.internal.impl.serialization.deserialization.ClassDataFinder getClassDataFinder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolverImpl NameResolverImpl(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.StringTable, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.QualifiedNameTable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer.Class kotlin.reflect.jvm.internal.impl.name.ClassId getClassId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotatedCallableKind PROPERTY_GETTER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type expandedType(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.TypeAlias, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type returnType(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Function, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents kotlin.reflect.jvm.internal.impl.serialization.deserialization.ClassDeserializer getClassDeserializer()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializedPackageFragmentImpl DeserializedPackageFragmentImpl(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.PackageFragment, kotlin.reflect.jvm.internal.impl.serialization.deserialization.descriptors.DeserializedContainerSource) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type outerType(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationDeserializer kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt; resolveValue(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Annotation.Argument.Value, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.IncompatibleVersionErrorData IncompatibleVersionErrorData(T, T, java.lang.String, kotlin.reflect.jvm.internal.impl.name.ClassId) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoBasedClassDataFinder java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.name.ClassId&gt; getAllClassIds$kotlin_reflection()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoaderImpl java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor&gt; loadValueParameterAnnotations(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.protobuf.MessageLite, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotatedCallableKind, int, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.ValueParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor deserializeClass(kotlin.reflect.jvm.internal.impl.name.ClassId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationConfiguration getConfiguration()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.MemberDeserializer kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor loadFunction(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Function)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents DeserializationComponents(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationConfiguration, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ClassDataFinder, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor,? extends kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt;,kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationWithTarget&gt;, kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider, kotlin.reflect.jvm.internal.impl.serialization.deserialization.LocalClassifierTypeSettings, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter, kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker, kotlin.reflect.jvm.internal.impl.serialization.deserialization.FlexibleTypeDeserializer, java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt;, kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter) 11'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.BinaryVersion Companion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader java.util.List&lt;A&gt; loadEnumEntryAnnotations(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.EnumEntry)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoaderImpl java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor&gt; loadTypeAnnotations(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializedPackageFragment kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope getMemberScope()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.FlexibleTypeDeserializer.ThrowException kotlin.reflect.jvm.internal.impl.types.KotlinType create(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type, java.lang.String, kotlin.reflect.jvm.internal.impl.types.SimpleType, kotlin.reflect.jvm.internal.impl.types.SimpleType) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoaderImpl java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationWithTarget&gt; loadCallableAnnotations(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.protobuf.MessageLite, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotatedCallableKind)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type outerType(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.FlexibleTypeDeserializer kotlin.reflect.jvm.internal.impl.types.KotlinType create(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type, java.lang.String, kotlin.reflect.jvm.internal.impl.types.SimpleType, kotlin.reflect.jvm.internal.impl.types.SimpleType) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext createContext(kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable, kotlin.reflect.jvm.internal.impl.serialization.deserialization.descriptors.SinceKotlinInfoTable, kotlin.reflect.jvm.internal.impl.serialization.deserialization.descriptors.DeserializedContainerSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.LocalClassifierTypeSettings.Default INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializedPackageFragmentImpl DeserializedPackageFragmentImpl(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.PackageFragment, kotlin.reflect.jvm.internal.impl.serialization.deserialization.descriptors.DeserializedContainerSource) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents getComponents()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.Deserialization.WhenMappings $EnumSwitchMapping$5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents DeserializationComponents(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationConfiguration, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ClassDataFinder, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor,? extends kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt;,kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationWithTarget&gt;, kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider, kotlin.reflect.jvm.internal.impl.serialization.deserialization.LocalClassifierTypeSettings, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter, kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker, kotlin.reflect.jvm.internal.impl.serialization.deserialization.FlexibleTypeDeserializer, java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt;, kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter) 10'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.MemberDeserializer kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor loadProperty(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Property)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents kotlin.reflect.jvm.internal.impl.storage.StorageManager getStorageManager()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoaderImpl kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt; loadPropertyConstant(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Property, kotlin.reflect.jvm.internal.impl.types.KotlinType) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoaderImpl java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor&gt; loadTypeAnnotations(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.FlexibleTypeDeserializer.ThrowException kotlin.reflect.jvm.internal.impl.types.KotlinType create(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type, java.lang.String, kotlin.reflect.jvm.internal.impl.types.SimpleType, kotlin.reflect.jvm.internal.impl.types.SimpleType) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type underlyingType(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.TypeAlias, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable getTypeTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader java.util.List&lt;A&gt; loadEnumEntryAnnotations(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.EnumEntry) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.FlexibleTypeDeserializer kotlin.reflect.jvm.internal.impl.types.KotlinType create(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type, java.lang.String, kotlin.reflect.jvm.internal.impl.types.SimpleType, kotlin.reflect.jvm.internal.impl.types.SimpleType) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext createContext(kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable, kotlin.reflect.jvm.internal.impl.serialization.deserialization.descriptors.SinceKotlinInfoTable, kotlin.reflect.jvm.internal.impl.serialization.deserialization.descriptors.DeserializedContainerSource) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ClassDeserializer java.util.Set access$getBLACK_LIST$cp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt boolean hasReceiver(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Function) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader java.util.List&lt;A&gt; loadExtensionReceiverParameterAnnotations(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.protobuf.MessageLite, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotatedCallableKind) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializedPackageFragmentImpl DeserializedPackageFragmentImpl(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.PackageFragment, kotlin.reflect.jvm.internal.impl.serialization.deserialization.descriptors.DeserializedContainerSource) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer kotlin.reflect.jvm.internal.impl.types.KotlinType type(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader java.util.List&lt;A&gt; loadValueParameterAnnotations(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.protobuf.MessageLite, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotatedCallableKind, int, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.ValueParameter)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents DeserializationComponents(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationConfiguration, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ClassDataFinder, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor,? extends kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt;,kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationWithTarget&gt;, kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider, kotlin.reflect.jvm.internal.impl.serialization.deserialization.LocalClassifierTypeSettings, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter, kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker, kotlin.reflect.jvm.internal.impl.serialization.deserialization.FlexibleTypeDeserializer, java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt;, kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter) 9'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext childContext$default(kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, java.util.List, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type varargElementType(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.ValueParameter, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext DeserializationContext(kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable, kotlin.reflect.jvm.internal.impl.serialization.deserialization.descriptors.SinceKotlinInfoTable, kotlin.reflect.jvm.internal.impl.serialization.deserialization.descriptors.DeserializedContainerSource, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer, java.util.List&lt;kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.TypeParameter&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoaderImpl java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor&gt; loadExtensionReceiverParameterAnnotations(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.protobuf.MessageLite, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotatedCallableKind) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer kotlin.reflect.jvm.internal.impl.types.KotlinType type(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type abbreviatedType(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.Deserialization kotlin.reflect.jvm.internal.impl.types.Variance variance(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type.Argument.Projection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer TypeDeserializer(kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer, java.util.List&lt;kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.TypeParameter&gt;, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext createContext(kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable, kotlin.reflect.jvm.internal.impl.serialization.deserialization.descriptors.SinceKotlinInfoTable, kotlin.reflect.jvm.internal.impl.serialization.deserialization.descriptors.DeserializedContainerSource) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoaderImpl java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationWithTarget&gt; loadCallableAnnotations(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.protobuf.MessageLite, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotatedCallableKind) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.FlexibleTypeDeserializer kotlin.reflect.jvm.internal.impl.types.KotlinType create(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type, java.lang.String, kotlin.reflect.jvm.internal.impl.types.SimpleType, kotlin.reflect.jvm.internal.impl.types.SimpleType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor access$computeClassDescriptor(kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ClassDeserializer kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor deserializeClass$default(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ClassDeserializer, kotlin.reflect.jvm.internal.impl.name.ClassId, kotlin.reflect.jvm.internal.impl.serialization.ClassDataWithSource, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext childContext$default(kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, java.util.List, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type varargElementType(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.ValueParameter, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents DeserializationComponents(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationConfiguration, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ClassDataFinder, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor,? extends kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt;,kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationWithTarget&gt;, kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider, kotlin.reflect.jvm.internal.impl.serialization.deserialization.LocalClassifierTypeSettings, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter, kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker, kotlin.reflect.jvm.internal.impl.serialization.deserialization.FlexibleTypeDeserializer, java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt;, kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter) 8'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext DeserializationContext(kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable, kotlin.reflect.jvm.internal.impl.serialization.deserialization.descriptors.SinceKotlinInfoTable, kotlin.reflect.jvm.internal.impl.serialization.deserialization.descriptors.DeserializedContainerSource, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer, java.util.List&lt;kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.TypeParameter&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoaderImpl java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationWithTarget&gt; loadCallableAnnotations(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.protobuf.MessageLite, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotatedCallableKind) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.FlexibleTypeDeserializer kotlin.reflect.jvm.internal.impl.types.KotlinType create(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type, java.lang.String, kotlin.reflect.jvm.internal.impl.types.SimpleType, kotlin.reflect.jvm.internal.impl.types.SimpleType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoaderImpl java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor&gt; loadExtensionReceiverParameterAnnotations(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.protobuf.MessageLite, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotatedCallableKind) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializedPackageFragment DeserializedPackageFragment(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer kotlin.reflect.jvm.internal.impl.types.KotlinType type(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver kotlin.reflect.jvm.internal.impl.name.ClassId getClassId(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializedPackageFragment kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope computeMemberScope()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter void reportCannotInferVisibility(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type returnType(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Property, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader java.util.List&lt;A&gt; loadExtensionReceiverParameterAnnotations(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.protobuf.MessageLite, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotatedCallableKind)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext createContext(kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable, kotlin.reflect.jvm.internal.impl.serialization.deserialization.descriptors.SinceKotlinInfoTable, kotlin.reflect.jvm.internal.impl.serialization.deserialization.descriptors.DeserializedContainerSource) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader java.util.List&lt;A&gt; loadValueParameterAnnotations(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.protobuf.MessageLite, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotatedCallableKind, int, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.ValueParameter) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoBasedClassDataFinder ProtoBasedClassDataFinder(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.PackageFragment, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.ClassId,? extends kotlin.reflect.jvm.internal.impl.descriptors.SourceElement&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer ProtoContainer(kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable, kotlin.reflect.jvm.internal.impl.descriptors.SourceElement, kotlin.jvm.internal.DefaultConstructorMarker) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader java.util.List&lt;A&gt; loadExtensionReceiverParameterAnnotations(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.protobuf.MessageLite, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotatedCallableKind) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ClassDeserializer kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor deserializeClass$default(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ClassDeserializer, kotlin.reflect.jvm.internal.impl.name.ClassId, kotlin.reflect.jvm.internal.impl.serialization.ClassDataWithSource, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.MemberDeserializer kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer access$asProtoContainer(kotlin.reflect.jvm.internal.impl.serialization.deserialization.MemberDeserializer, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents DeserializationComponents(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationConfiguration, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ClassDataFinder, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor,? extends kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt;,kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationWithTarget&gt;, kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider, kotlin.reflect.jvm.internal.impl.serialization.deserialization.LocalClassifierTypeSettings, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter, kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker, kotlin.reflect.jvm.internal.impl.serialization.deserialization.FlexibleTypeDeserializer, java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt;, kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter) 7'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.MemberDeserializer kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor loadFunction(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Function) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt; getOwnTypeParameters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext createContext(kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable, kotlin.reflect.jvm.internal.impl.serialization.deserialization.descriptors.SinceKotlinInfoTable, kotlin.reflect.jvm.internal.impl.serialization.deserialization.descriptors.DeserializedContainerSource)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader java.util.List&lt;A&gt; loadValueParameterAnnotations(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.protobuf.MessageLite, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotatedCallableKind, int, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.ValueParameter) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoaderImpl java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor&gt; loadExtensionReceiverParameterAnnotations(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.protobuf.MessageLite, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotatedCallableKind) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoaderImpl java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationWithTarget&gt; loadCallableAnnotations(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.protobuf.MessageLite, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotatedCallableKind) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoaderImpl java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor&gt; loadValueParameterAnnotations(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.protobuf.MessageLite, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotatedCallableKind, int, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.ValueParameter)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader java.util.List&lt;T&gt; loadCallableAnnotations(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.protobuf.MessageLite, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotatedCallableKind) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext DeserializationContext(kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable, kotlin.reflect.jvm.internal.impl.serialization.deserialization.descriptors.SinceKotlinInfoTable, kotlin.reflect.jvm.internal.impl.serialization.deserialization.descriptors.DeserializedContainerSource, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer, java.util.List&lt;kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.TypeParameter&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.MemberDeserializer kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor loadProperty(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Property) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext kotlin.reflect.jvm.internal.impl.serialization.deserialization.descriptors.SinceKotlinInfoTable getSinceKotlinInfoTable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext kotlin.reflect.jvm.internal.impl.serialization.deserialization.MemberDeserializer getMemberDeserializer()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializedPackageFragmentImpl kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoBasedClassDataFinder getClassDataFinder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer TypeDeserializer(kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer, java.util.List&lt;kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.TypeParameter&gt;, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader java.util.List&lt;A&gt; loadEnumEntryAnnotations(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.EnumEntry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter getErrorReporter()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type returnType(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Property, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoaderImpl java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor&gt; loadTypeAnnotations(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.MemberDeserializer MemberDeserializer(kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializedPackageFragmentImpl kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope computeMemberScope()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader java.util.List&lt;A&gt; loadValueParameterAnnotations(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.protobuf.MessageLite, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotatedCallableKind, int, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.ValueParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoBasedClassDataFinder ProtoBasedClassDataFinder(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.PackageFragment, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.ClassId,? extends kotlin.reflect.jvm.internal.impl.descriptors.SourceElement&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer ProtoContainer(kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable, kotlin.reflect.jvm.internal.impl.descriptors.SourceElement, kotlin.jvm.internal.DefaultConstructorMarker) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader java.util.List&lt;A&gt; loadExtensionReceiverParameterAnnotations(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.protobuf.MessageLite, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotatedCallableKind) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver kotlin.reflect.jvm.internal.impl.name.Name getName(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoaderImpl java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor&gt; loadExtensionReceiverParameterAnnotations(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.protobuf.MessageLite, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotatedCallableKind)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptor access$computeTypeAliasDescriptor(kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext childContext$default(kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, java.util.List, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable, int, java.lang.Object) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents DeserializationComponents(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationConfiguration, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ClassDataFinder, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor,? extends kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt;,kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationWithTarget&gt;, kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider, kotlin.reflect.jvm.internal.impl.serialization.deserialization.LocalClassifierTypeSettings, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter, kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker, kotlin.reflect.jvm.internal.impl.serialization.deserialization.FlexibleTypeDeserializer, java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt;, kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter) 6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializedClassDataFinder DeserializedClassDataFinder(kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider getAdditionalClassPartsProvider()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader java.util.List&lt;A&gt; loadTypeAnnotations(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext DeserializationContext(kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable, kotlin.reflect.jvm.internal.impl.serialization.deserialization.descriptors.SinceKotlinInfoTable, kotlin.reflect.jvm.internal.impl.serialization.deserialization.descriptors.DeserializedContainerSource, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer, java.util.List&lt;kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.TypeParameter&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader java.util.List&lt;T&gt; loadCallableAnnotations(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.protobuf.MessageLite, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotatedCallableKind) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext childContext$default(kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, java.util.List, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializedPackageFragment kotlin.reflect.jvm.internal.impl.serialization.deserialization.ClassDataFinder getClassDataFinder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type abbreviatedType(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader java.util.List&lt;A&gt; loadTypeParameterAnnotations(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.TypeParameter, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type expandedType(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.TypeAlias, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer TypeDeserializer(kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer, java.util.List&lt;kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.TypeParameter&gt;, java.lang.String) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ClassDeserializer Companion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializedPackageFragment void setComponents(kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable TypeTable(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.TypeTable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoaderImpl java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor&gt; loadTypeParameterAnnotations(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.TypeParameter, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver getNameResolver()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader C loadPropertyConstant(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Property, kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializedPackageFragmentImpl kotlin.reflect.jvm.internal.impl.serialization.deserialization.descriptors.DeserializedContainerSource access$getContainerSource$p(kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializedPackageFragmentImpl) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer.Class kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Class getClassProto()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationDeserializer AnnotationDeserializer(kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.Deserialization kotlin.reflect.jvm.internal.impl.descriptors.ClassKind classKind(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Class.Kind)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationDeserializer kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt; resolveValue(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Annotation.Argument.Value, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext kotlin.reflect.jvm.internal.impl.storage.StorageManager getStorageManager()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents DeserializationComponents(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationConfiguration, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ClassDataFinder, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor,? extends kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt;,kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationWithTarget&gt;, kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider, kotlin.reflect.jvm.internal.impl.serialization.deserialization.LocalClassifierTypeSettings, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter, kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker, kotlin.reflect.jvm.internal.impl.serialization.deserialization.FlexibleTypeDeserializer, java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt;, kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader java.util.List&lt;A&gt; loadValueParameterAnnotations(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.protobuf.MessageLite, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotatedCallableKind, int, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.ValueParameter) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter getPlatformDependentDeclarationFilter()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader java.util.List&lt;A&gt; loadTypeAnnotations(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoaderImpl java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor&gt; loadTypeParameterAnnotations(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.TypeParameter, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses getNotFoundClasses()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer.Package Package(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable, kotlin.reflect.jvm.internal.impl.descriptors.SourceElement) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.Deserialization.WhenMappings $EnumSwitchMapping$0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader java.util.List&lt;A&gt; loadTypeAnnotations(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt boolean hasReceiver(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Property) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader java.util.List&lt;A&gt; loadTypeParameterAnnotations(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.TypeParameter, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents kotlin.reflect.jvm.internal.impl.serialization.deserialization.FlexibleTypeDeserializer getFlexibleTypeDeserializer()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type expandedType(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.TypeAlias, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader java.util.List&lt;A&gt; loadTypeParameterAnnotations(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.TypeParameter, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt java.util.List&lt;kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type&gt; supertypes(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Class, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializedClassDataFinder kotlin.reflect.jvm.internal.impl.serialization.ClassDataWithSource findClassData(kotlin.reflect.jvm.internal.impl.name.ClassId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ClassDeserializer ClassDeserializer(kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoBasedClassDataFinder ProtoBasedClassDataFinder(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.PackageFragment, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.ClassId,? extends kotlin.reflect.jvm.internal.impl.descriptors.SourceElement&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ClassDataFinder kotlin.reflect.jvm.internal.impl.serialization.ClassDataWithSource findClassData(kotlin.reflect.jvm.internal.impl.name.ClassId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type type(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.ValueParameter, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer.Class kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Class.Kind getKind()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationDeserializer kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt; resolveValue(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Annotation.Argument.Value, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt java.util.List&lt;kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type&gt; supertypes(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Class, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoaderImpl java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor&gt; loadEnumEntryAnnotations(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.EnumEntry) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoaderImpl java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor&gt; loadTypeParameterAnnotations(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.TypeParameter, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.Deserialization kotlin.reflect.jvm.internal.impl.descriptors.Visibility visibility(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Visibility)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents DeserializationComponents(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationConfiguration, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ClassDataFinder, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor,? extends kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt;,kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationWithTarget&gt;, kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider, kotlin.reflect.jvm.internal.impl.serialization.deserialization.LocalClassifierTypeSettings, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter, kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker, kotlin.reflect.jvm.internal.impl.serialization.deserialization.FlexibleTypeDeserializer, java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt;, kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext access$getC$p(kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext DeserializationContext(kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable, kotlin.reflect.jvm.internal.impl.serialization.deserialization.descriptors.SinceKotlinInfoTable, kotlin.reflect.jvm.internal.impl.serialization.deserialization.descriptors.DeserializedContainerSource, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer, java.util.List&lt;kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.TypeParameter&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer.Class Class(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Class, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable, kotlin.reflect.jvm.internal.impl.descriptors.SourceElement, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer.Package Package(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable, kotlin.reflect.jvm.internal.impl.descriptors.SourceElement) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.FlexibleTypeDeserializer kotlin.reflect.jvm.internal.impl.types.KotlinType create(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type, java.lang.String, kotlin.reflect.jvm.internal.impl.types.SimpleType, kotlin.reflect.jvm.internal.impl.types.SimpleType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt java.util.List&lt;kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type&gt; supertypes(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Class, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoaderImpl java.lang.Object loadPropertyConstant(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Property, kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.Deserialization kotlin.reflect.jvm.internal.impl.types.Variance variance(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.TypeParameter.Variance) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type flexibleUpperBound(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type returnType(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Function, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader java.util.List&lt;A&gt; loadClassAnnotations(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoaderImpl java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor&gt; loadEnumEntryAnnotations(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.EnumEntry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents java.lang.Iterable&lt;kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt; getFictitiousClassDescriptorFactories()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.BinaryVersion java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader C loadPropertyConstant(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Property, kotlin.reflect.jvm.internal.impl.types.KotlinType) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext childContext$default(kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, java.util.List, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.Deserialization kotlin.reflect.jvm.internal.impl.types.Variance variance(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type.Argument.Projection)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents DeserializationComponents(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationConfiguration, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ClassDataFinder, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor,? extends kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt;,kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationWithTarget&gt;, kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider, kotlin.reflect.jvm.internal.impl.serialization.deserialization.LocalClassifierTypeSettings, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter, kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker, kotlin.reflect.jvm.internal.impl.serialization.deserialization.FlexibleTypeDeserializer, java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt;, kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext childContext(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, java.util.List&lt;kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.TypeParameter&gt;, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.Deserialization kotlin.reflect.jvm.internal.impl.descriptors.Modality modality(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Modality)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer.Class Class(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Class, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable, kotlin.reflect.jvm.internal.impl.descriptors.SourceElement, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer.Class) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer.Package Package(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable, kotlin.reflect.jvm.internal.impl.descriptors.SourceElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type type(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.ValueParameter, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ClassDeserializer kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor deserializeClass(kotlin.reflect.jvm.internal.impl.name.ClassId, kotlin.reflect.jvm.internal.impl.serialization.ClassDataWithSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializedPackageFragment DeserializedPackageFragment(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.BinaryVersion boolean isCompatibleTo(kotlin.reflect.jvm.internal.impl.serialization.deserialization.BinaryVersion) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.BinaryVersion BinaryVersion(int...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ClassDeserializer.Companion java.util.Set&lt;kotlin.reflect.jvm.internal.impl.name.ClassId&gt; getBLACK_LIST()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.Deserialization kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor.Kind memberKind(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.MemberKind)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext childContext(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, java.util.List&lt;kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.TypeParameter&gt;, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoaderImpl java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor&gt; loadClassAnnotations(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer kotlin.reflect.jvm.internal.impl.name.FqName debugFqName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader C loadPropertyConstant(kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Property, kotlin.reflect.jvm.internal.impl.types.KotlinType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationDeserializer kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt; resolveValue(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Annotation.Argument.Value, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext childContext$default(kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, java.util.List, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer kotlin.reflect.jvm.internal.impl.types.KotlinType type$default(kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer, kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationContext childContext(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, java.util.List&lt;kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.TypeParameter&gt;, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationComponents DeserializationComponents(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializationConfiguration, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ClassDataFinder, kotlin.reflect.jvm.internal.impl.serialization.deserialization.AnnotationAndConstantLoader&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor,? extends kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt;,kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationWithTarget&gt;, kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider, kotlin.reflect.jvm.internal.impl.serialization.deserialization.LocalClassifierTypeSettings, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter, kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker, kotlin.reflect.jvm.internal.impl.serialization.deserialization.FlexibleTypeDeserializer, java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt;, kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.Deserialization INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer.Class Class(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Class, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable, kotlin.reflect.jvm.internal.impl.descriptors.SourceElement, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoContainer.Class) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.DeserializedPackageFragment DeserializedPackageFragment(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.ProtoTypeTableUtilKt kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type returnType(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Property, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeDeserializer kotlin.reflect.jvm.internal.impl.types.SimpleType simpleType(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Type, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

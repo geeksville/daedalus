@@ -1,0 +1,542 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.TypeIntersectionScope kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope getWorkerScope()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.InnerClassesScopeWrapper java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptor&gt; getContributedDescriptors(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScopeImpl java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor&gt; getContributedVariables(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.ResolutionScope.DefaultImpls java.util.Collection getContributedDescriptors$default(kotlin.reflect.jvm.internal.impl.resolve.scopes.ResolutionScope, kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindExclude.TopLevelPackages INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.AbstractScopeAdapter java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor&gt; getContributedVariables(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.SubstitutingScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor&gt; getContributedDescriptors(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.StaticScopeForKotlinEnum java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor&gt; getContributedDescriptors(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter CLASSIFIERS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScopeImpl java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor&gt; getContributedFunctions(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.TypeIntersectionScope kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope create(java.lang.String, java.util.Collection&lt;? extends kotlin.reflect.jvm.internal.impl.types.KotlinType&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.StaticScopeForKotlinEnum java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor&gt; getContributedDescriptors(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter ALL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.TypeIntersectionScope kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope create(java.lang.String, java.util.Collection&lt;? extends kotlin.reflect.jvm.internal.impl.types.KotlinType&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope java.util.Set&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt; getFunctionNames()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.AbstractScopeAdapter java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor&gt; getContributedVariables(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.GivenFunctionsMemberScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor&gt; getContributedFunctions(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.ChainedMemberScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor&gt; getContributedDescriptors(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.ChainedMemberScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor&gt; getContributedVariables(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.GivenFunctionsMemberScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor&gt; getContributedFunctions(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScopeImpl java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor&gt; getContributedFunctions(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.StaticScopeForKotlinEnum java.util.ArrayList&lt;kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor&gt; getContributedFunctions(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.SubstitutingScope java.util.Set&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt; getVariableNames()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.GivenFunctionsMemberScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor&gt; getContributedVariables(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter VALUES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScopeImpl java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor&gt; getContributedVariables(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.InnerClassesScopeWrapper kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptor getContributedClassifier(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.InnerClassesScopeWrapper java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptor&gt; getContributedDescriptors(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter CALLABLES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.ResolutionScope.DefaultImpls java.util.Collection getContributedDescriptors$default(kotlin.reflect.jvm.internal.impl.resolve.scopes.ResolutionScope, kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.SubstitutingScope kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptor getContributedClassifier(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.TypeIntersectionScope kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope create(java.lang.String, java.util.Collection&lt;? extends kotlin.reflect.jvm.internal.impl.types.KotlinType&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope.Empty java.util.Set&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt; getVariableNames()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.StaticScopeForKotlinEnum java.util.Collection getContributedDescriptors(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.GivenFunctionsMemberScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor&gt; getContributedFunctions(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.AbstractScopeAdapter java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor&gt; getContributedFunctions(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.ChainedMemberScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor&gt; getContributedVariables(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope java.util.Set&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt; getVariableNames()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.GivenFunctionsMemberScope GivenFunctionsMemberScope(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.InnerClassesScopeWrapper java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptor&gt; getContributedDescriptors(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.ResolutionScope.DefaultImpls java.util.Collection getContributedDescriptors$default(kotlin.reflect.jvm.internal.impl.resolve.scopes.ResolutionScope, kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.ResolutionScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor&gt; getContributedDescriptors(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.StaticScopeForKotlinEnum java.util.ArrayList&lt;kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor&gt; getContributedFunctions(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.SubstitutingScope java.util.Set&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt; getFunctionNames()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScopeImpl java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor&gt; getContributedFunctions(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.AbstractScopeAdapter java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor&gt; getContributedFunctions(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindExclude.NonExtensions INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter java.util.List&lt;kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindExclude&gt; getExcludes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.SubstitutingScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor&gt; getContributedDescriptors(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter Companion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.ChainedMemberScope java.util.Set&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt; getVariableNames()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.GivenFunctionsMemberScope.createFakeOverrides.4 void conflict(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.GivenFunctionsMemberScope java.util.List access$createFakeOverrides(kotlin.reflect.jvm.internal.impl.resolve.scopes.GivenFunctionsMemberScope, java.util.List) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter.Companion java.util.List access$getDEBUG_PREDEFINED_FILTERS_MASK_NAMES$p(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter.Companion) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor&gt; getContributedVariables(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter PACKAGES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.TypeIntersectionScope Companion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.TypeIntersectionScope.Companion kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope create(java.lang.String, java.util.Collection&lt;? extends kotlin.reflect.jvm.internal.impl.types.KotlinType&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScopeImpl java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor&gt; getContributedDescriptors(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.StaticScopeForKotlinEnum java.util.Collection getContributedFunctions(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.SubstitutingScope java.util.Collection access$substitute(kotlin.reflect.jvm.internal.impl.resolve.scopes.SubstitutingScope, java.util.Collection)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope.Empty INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope.Empty java.util.Set&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt; getFunctionNames()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.ChainedMemberScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor&gt; getContributedFunctions(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.TypeIntersectionScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor&gt; getContributedDescriptors(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.AbstractScopeAdapter java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor&gt; getContributedDescriptors(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.StaticScopeForKotlinEnum java.util.ArrayList&lt;kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor&gt; getContributedFunctions(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.ResolutionScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor&gt; getContributedDescriptors(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.AbstractScopeAdapter java.util.Set&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt; getFunctionNames()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.AbstractScopeAdapter java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor&gt; getContributedFunctions(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.StaticScopeForKotlinEnum kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptor getContributedClassifier(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.StaticScopeForKotlinEnum java.util.Collection getContributedDescriptors(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.StaticScopeForKotlinEnum kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor access$getContainingClass$p(kotlin.reflect.jvm.internal.impl.resolve.scopes.StaticScopeForKotlinEnum)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.SubstitutingScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor&gt; getContributedDescriptors(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.GivenFunctionsMemberScope java.util.List access$createFakeOverrides(kotlin.reflect.jvm.internal.impl.resolve.scopes.GivenFunctionsMemberScope, java.util.List) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.TypeIntersectionScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor&gt; getContributedFunctions(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.TypeIntersectionScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor&gt; getContributedVariables(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.GivenFunctionsMemberScope kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getContainingClass()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.SubstitutingScope kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope access$getWorkerScope$p(kotlin.reflect.jvm.internal.impl.resolve.scopes.SubstitutingScope)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScopeImpl java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor&gt; getContributedVariables(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter VARIABLES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.ChainedMemberScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor&gt; getContributedFunctions(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.SubstitutingScope SubstitutingScope(kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope, kotlin.reflect.jvm.internal.impl.types.TypeSubstitutor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.ChainedMemberScope java.util.Set&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt; getFunctionNames()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.StaticScopeForKotlinEnum java.util.Collection getContributedFunctions(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.SubstitutingScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor&gt; getContributedVariables(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.GivenFunctionsMemberScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor&gt; getContributedDescriptors(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.AbstractScopeAdapter java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor&gt; getContributedDescriptors(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.ChainedMemberScope kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptor getContributedClassifier(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.ChainedMemberScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor&gt; getContributedDescriptors(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter FUNCTIONS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.GivenFunctionsMemberScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor&gt; getContributedVariables(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.StaticScopeForKotlinEnum kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptor getContributedClassifier(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.StaticScopeForKotlinEnum java.util.Collection getContributedDescriptors(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.ResolutionScope kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptor getContributedClassifier(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.StaticScopeForKotlinEnum StaticScopeForKotlinEnum(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter.Companion java.util.List access$getDEBUG_MASK_BIT_NAMES$p(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter.Companion)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope.Companion kotlin.jvm.functions.Function1&lt;kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt; getALL_NAME_FILTER()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.SubstitutingScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor&gt; getContributedFunctions(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.TypeIntersectionScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor&gt; getContributedVariables(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor&gt; getContributedFunctions(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.SubstitutingScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor&gt; getContributedVariables(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.AbstractScopeAdapter kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptor getContributedClassifier(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.LazyScopeAdapter kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope getWorkerScope()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.GivenFunctionsMemberScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor&gt; getContributedDescriptors(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.SubstitutingScope SubstitutingScope(kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope, kotlin.reflect.jvm.internal.impl.types.TypeSubstitutor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.ChainedMemberScope kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptor getContributedClassifier(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.InnerClassesScopeWrapper java.util.Collection getContributedDescriptors(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope Companion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.SubstitutingScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor&gt; getContributedFunctions(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.InnerClassesScopeWrapper java.util.Collection getContributedDescriptors(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScopeImpl java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor&gt; getContributedDescriptors(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.InnerClassesScopeWrapper java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.ChainedMemberScope ChainedMemberScope(java.lang.String, java.util.List&lt;? extends kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.TypeIntersectionScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor&gt; getContributedVariables(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScopeImpl java.util.Set&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt; getVariableNames()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor&gt; getContributedVariables(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScopeImpl java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor&gt; getContributedDescriptors(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor&gt; getContributedFunctions(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.SubstitutingScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor&gt; getContributedFunctions(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor&gt; getContributedFunctions(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScopeImpl kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptor getContributedClassifier(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.TypeIntersectionScope kotlin.reflect.jvm.internal.impl.resolve.scopes.ChainedMemberScope getWorkerScope()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.AbstractScopeAdapter java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor&gt; getContributedDescriptors(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.GivenFunctionsMemberScope.createFakeOverrides.4 void conflict(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.ResolutionScope kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptor getContributedClassifier(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.StaticScopeForKotlinEnum StaticScopeForKotlinEnum(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter DescriptorKindFilter(int, java.util.List&lt;? extends kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindExclude&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.AbstractScopeAdapter kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptor getContributedClassifier(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.LazyScopeAdapter LazyScopeAdapter(kotlin.reflect.jvm.internal.impl.storage.NotNullLazyValue&lt;? extends kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.StaticScopeForKotlinEnum kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor access$getContainingClass$p(kotlin.reflect.jvm.internal.impl.resolve.scopes.StaticScopeForKotlinEnum) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.TypeIntersectionScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor&gt; getContributedDescriptors(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.ChainedMemberScope ChainedMemberScope(java.lang.String, java.util.List&lt;? extends kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.ChainedMemberScope java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter DescriptorKindFilter(int, java.util.List, int, kotlin.jvm.internal.DefaultConstructorMarker) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter.Companion int access$nextMask(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter.Companion) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.GivenFunctionsMemberScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor&gt; getContributedDescriptors(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScopeImpl java.util.Set&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt; getFunctionNames()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.SubstitutingScope java.util.Collection access$substitute(kotlin.reflect.jvm.internal.impl.resolve.scopes.SubstitutingScope, java.util.Collection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.AbstractScopeAdapter java.util.Set&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt; getVariableNames()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.InnerClassesScopeWrapper kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptor getContributedClassifier(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.ChainedMemberScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor&gt; getContributedDescriptors(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.GivenFunctionsMemberScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor&gt; getContributedVariables(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.ResolutionScope.DefaultImpls java.util.Collection getContributedDescriptors$default(kotlin.reflect.jvm.internal.impl.resolve.scopes.ResolutionScope, kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.GivenFunctionsMemberScope java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor&gt; computeDeclaredFunctions()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.TypeIntersectionScope TypeIntersectionScope(kotlin.reflect.jvm.internal.impl.resolve.scopes.ChainedMemberScope, kotlin.jvm.internal.DefaultConstructorMarker) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.TypeIntersectionScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor&gt; getContributedFunctions(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.InnerClassesScopeWrapper InnerClassesScopeWrapper(kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.SubstitutingScope kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptor getContributedClassifier(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScopeImpl kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptor getContributedClassifier(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter java.util.List access$getDEBUG_PREDEFINED_FILTERS_MASK_NAMES$cp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.TypeIntersectionScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor&gt; getContributedDescriptors(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.ChainedMemberScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor&gt; getContributedVariables(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.SubstitutingScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor&gt; getContributedVariables(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.ResolutionScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor&gt; getContributedDescriptors(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.AbstractScopeAdapter kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope getWorkerScope()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.GivenFunctionsMemberScope GivenFunctionsMemberScope(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.TypeIntersectionScope.Companion kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope create(java.lang.String, java.util.Collection&lt;? extends kotlin.reflect.jvm.internal.impl.types.KotlinType&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.StaticScopeForKotlinEnum java.lang.Void getContributedClassifier(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.ChainedMemberScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor&gt; getContributedFunctions(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter NON_SINGLETON_CLASSIFIERS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter.Companion java.util.List access$getDEBUG_PREDEFINED_FILTERS_MASK_NAMES$p(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter.Companion)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.StaticScopeForKotlinEnum java.util.Collection getContributedFunctions(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.SubstitutingScope java.util.Collection access$substitute(kotlin.reflect.jvm.internal.impl.resolve.scopes.SubstitutingScope, java.util.Collection) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter java.util.List access$getDEBUG_MASK_BIT_NAMES$cp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter TYPE_ALIASES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.TypeIntersectionScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor&gt; getContributedFunctions(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.GivenFunctionsMemberScope java.util.List access$createFakeOverrides(kotlin.reflect.jvm.internal.impl.resolve.scopes.GivenFunctionsMemberScope, java.util.List)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter.Companion java.util.List access$getDEBUG_MASK_BIT_NAMES$p(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter.Companion) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.StaticScopeForKotlinEnum java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor&gt; getContributedDescriptors(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter SINGLETON_CLASSIFIERS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.AbstractScopeAdapter java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor&gt; getContributedVariables(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.StaticScopeForKotlinEnum java.lang.Void getContributedClassifier(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.TypeIntersectionScope.Companion kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope create(java.lang.String, java.util.Collection&lt;? extends kotlin.reflect.jvm.internal.impl.types.KotlinType&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor&gt; getContributedVariables(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.SubstitutingScope kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope access$getWorkerScope$p(kotlin.reflect.jvm.internal.impl.resolve.scopes.SubstitutingScope) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.ChainedMemberScope Companion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.GivenFunctionsMemberScope.createFakeOverrides.4 void addFakeOverride(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.scopes.InnerClassesScopeWrapper java.util.Collection getContributedDescriptors(kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter, kotlin.jvm.functions.Function1) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,20 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.CapturedTypeApproximationKt.WhenMappings $EnumSwitchMapping$0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.CapturedTypeApproximationKt.WhenMappings $EnumSwitchMapping$1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.CapturedTypeApproximationKt kotlin.reflect.jvm.internal.impl.types.typesApproximation.ApproximationBounds&lt;kotlin.reflect.jvm.internal.impl.types.KotlinType&gt; approximateCapturedTypes(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.CapturedTypeApproximationKt.substituteCapturedTypesWithProjections.typeSubstitutor.1 kotlin.reflect.jvm.internal.impl.types.TypeProjection get(kotlin.reflect.jvm.internal.impl.types.TypeConstructor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.CapturedTypeApproximationKt kotlin.reflect.jvm.internal.impl.types.typesApproximation.ApproximationBounds&lt;kotlin.reflect.jvm.internal.impl.types.KotlinType&gt; approximateCapturedTypes(kotlin.reflect.jvm.internal.impl.types.KotlinType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.typesApproximation.CapturedTypeApproximationKt.substituteCapturedTypesWithProjections.typeSubstitutor.1 kotlin.reflect.jvm.internal.impl.types.TypeProjection get(kotlin.reflect.jvm.internal.impl.types.TypeConstructor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

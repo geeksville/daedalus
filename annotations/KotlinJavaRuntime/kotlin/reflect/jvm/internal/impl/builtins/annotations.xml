@@ -1,0 +1,851 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames set'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getRepeatableAnnotation()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.PrimitiveType CHAR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.JvmBuiltInClassDescriptorFactory java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor&gt; getAllContributedClassesIfPossible(kotlin.reflect.jvm.internal.impl.name.FqName)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.FunctionTypesKt kotlin.reflect.jvm.internal.impl.types.SimpleType createFunctionType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, kotlin.reflect.jvm.internal.impl.types.KotlinType, java.util.List&lt;? extends kotlin.reflect.jvm.internal.impl.types.KotlinType&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt;, kotlin.reflect.jvm.internal.impl.types.KotlinType, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsInitializer BuiltInsInitializer(kotlin.jvm.functions.Function0&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.FunctionTypesKt kotlin.reflect.jvm.internal.impl.builtins.functions.FunctionClassDescriptor.Kind getFunctionalClassKind(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getCollection()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.FunctionTypesKt boolean isBuiltinFunctionalType(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames mutableSet'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.JvmBuiltInClassDescriptorFactory JvmBuiltInClassDescriptorFactory(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.jvm.functions.Function1, int, kotlin.jvm.internal.DefaultConstructorMarker) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoader kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider createPackageFragmentProvider(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt;, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentDescriptor getBuiltInsPackageFragment()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns boolean isPrimitiveArray(kotlin.reflect.jvm.internal.impl.name.FqNameUnsafe) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.ReflectionTypes ReflectionTypes(kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.FunctionTypesKt kotlin.reflect.jvm.internal.impl.types.SimpleType createFunctionType$default(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, kotlin.reflect.jvm.internal.impl.types.KotlinType, java.util.List, java.util.List, kotlin.reflect.jvm.internal.impl.types.KotlinType, boolean, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getFunction(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoaderImpl kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider createBuiltInPackageFragmentProvider(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, java.util.Set&lt;kotlin.reflect.jvm.internal.impl.name.FqName&gt;, java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt;, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider, kotlin.jvm.functions.Function1&lt;? super java.lang.String,? extends java.io.InputStream&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.types.SimpleType getNullableAnyType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames _long'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoader kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider createPackageFragmentProvider(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt;, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns boolean isUnit(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInSerializerProtocol java.lang.String getBuiltInsFilePath(kotlin.reflect.jvm.internal.impl.name.FqName)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.types.SimpleType getNullableNothingType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.PrimitiveType SHORT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.JvmBuiltInClassDescriptorFactory kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor createClass(kotlin.reflect.jvm.internal.impl.name.ClassId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames deprecationLevel'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames kMutableProperty0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.JvmBuiltInClassDescriptorFactory JvmBuiltInClassDescriptorFactory(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.jvm.functions.Function1, int, kotlin.jvm.internal.DefaultConstructorMarker) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.JvmBuiltInClassDescriptorFactory java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor&gt; getAllContributedClassesIfPossible(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.storage.StorageManager getStorageManager()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames kProperty'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInSerializerProtocol java.lang.String getBuiltInsFilePath(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.builtins.PrimitiveType getPrimitiveType(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoaderImpl kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider createBuiltInPackageFragmentProvider(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, java.util.Set&lt;kotlin.reflect.jvm.internal.impl.name.FqName&gt;, java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt;, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider, kotlin.jvm.functions.Function1&lt;? super java.lang.String,? extends java.io.InputStream&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.FunctionTypesKt java.util.List&lt;kotlin.reflect.jvm.internal.impl.types.TypeProjection&gt; getValueParameterTypesFromFunctionType(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames mutableListIterator'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames map'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsBinaryVersion.Companion kotlin.reflect.jvm.internal.impl.builtins.BuiltInsBinaryVersion readFrom(java.io.InputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames nothing'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames _int'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.types.SimpleType getDoubleType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames cloneable'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames kMutableProperty1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.FunctionTypesKt boolean isBuiltinExtensionFunctionalType(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.FunctionTypesKt kotlin.reflect.jvm.internal.impl.types.SimpleType createFunctionType$default(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, kotlin.reflect.jvm.internal.impl.types.KotlinType, java.util.List, java.util.List, kotlin.reflect.jvm.internal.impl.types.KotlinType, boolean, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns FQ_NAMES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.types.SimpleType getStringType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.types.SimpleType getCharType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoaderImpl kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider createPackageFragmentProvider(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt;, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns boolean isNothing(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.FunctionTypesKt kotlin.reflect.jvm.internal.impl.types.SimpleType createFunctionType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, kotlin.reflect.jvm.internal.impl.types.KotlinType, java.util.List&lt;? extends kotlin.reflect.jvm.internal.impl.types.KotlinType&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt;, kotlin.reflect.jvm.internal.impl.types.KotlinType, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns COLLECTIONS_PACKAGE_FQ_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames retention'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInSerializerProtocol INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames annotation'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.types.SimpleType getUnitType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames kProperty0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames mapEntry'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames kMutableProperty2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.JvmBuiltInClassDescriptorFactory JvmBuiltInClassDescriptorFactory(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.jvm.functions.Function1, int, kotlin.jvm.internal.DefaultConstructorMarker) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames repeatable'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoaderImpl kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider createBuiltInPackageFragmentProvider(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, java.util.Set&lt;kotlin.reflect.jvm.internal.impl.name.FqName&gt;, java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt;, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider, kotlin.jvm.functions.Function1&lt;? super java.lang.String,? extends java.io.InputStream&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getRetentionAnnotation()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.DefaultBuiltIns Companion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames primitiveArrayTypeShortNames'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.types.SimpleType getAnyType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames mutableList'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns boolean isPrimitiveType(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsPackageFragmentImpl BuiltInsPackageFragmentImpl(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, java.io.InputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.ReflectionTypes.Companion kotlin.reflect.jvm.internal.impl.types.KotlinType createKPropertyStarType(kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoaderImpl kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider createBuiltInPackageFragmentProvider$default(kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoaderImpl, kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, java.util.Set, java.lang.Iterable, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider, kotlin.jvm.functions.Function1, int, java.lang.Object) 6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns java.lang.Iterable&lt;kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt; getClassDescriptorFactories()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames arrayClassFqNameToPrimitiveType'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames comparable'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.builtins.PrimitiveType getPrimitiveArrayType(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoaderImpl kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider createBuiltInPackageFragmentProvider(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, java.util.Set&lt;kotlin.reflect.jvm.internal.impl.name.FqName&gt;, java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt;, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider, kotlin.jvm.functions.Function1&lt;? super java.lang.String,? extends java.io.InputStream&gt;) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.FunctionTypesKt java.util.List&lt;kotlin.reflect.jvm.internal.impl.types.TypeProjection&gt; getFunctionTypeArgumentProjections(kotlin.reflect.jvm.internal.impl.types.KotlinType, java.util.List&lt;? extends kotlin.reflect.jvm.internal.impl.types.KotlinType&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt;, kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoader.Companion kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoader getInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.CloneableClassScope java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor&gt; computeDeclaredFunctions()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.JvmBuiltInClassDescriptorFactory kotlin.jvm.functions.Function1 access$getComputeContainingDeclaration$p(kotlin.reflect.jvm.internal.impl.builtins.JvmBuiltInClassDescriptorFactory) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames primitiveTypeShortNames'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.types.SimpleType getBooleanType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.JvmBuiltInClassDescriptorFactory.Companion kotlin.reflect.jvm.internal.impl.name.FqName access$getKOTLIN_FQ_NAME$p(kotlin.reflect.jvm.internal.impl.builtins.JvmBuiltInClassDescriptorFactory.Companion) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoader kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider createPackageFragmentProvider(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt;, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.PrimitiveType BYTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInSerializerProtocol java.lang.String getBuiltInsFileName(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoaderImpl kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider createBuiltInPackageFragmentProvider$default(kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoaderImpl, kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, java.util.Set, java.lang.Iterable, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider, kotlin.jvm.functions.Function1, int, java.lang.Object) 7'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.FunctionTypesKt kotlin.reflect.jvm.internal.impl.types.SimpleType createFunctionType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, kotlin.reflect.jvm.internal.impl.types.KotlinType, java.util.List&lt;? extends kotlin.reflect.jvm.internal.impl.types.KotlinType&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt;, kotlin.reflect.jvm.internal.impl.types.KotlinType, boolean) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsBinaryVersion INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.FunctionTypesKt kotlin.reflect.jvm.internal.impl.types.SimpleType createFunctionType$default(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, kotlin.reflect.jvm.internal.impl.types.KotlinType, java.util.List, java.util.List, kotlin.reflect.jvm.internal.impl.types.KotlinType, boolean, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames unit'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns boolean isAny(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns BUILT_INS_PACKAGE_FQ_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.JvmBuiltInClassDescriptorFactory boolean shouldCreateClass(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.reflect.jvm.internal.impl.name.Name) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider getAdditionalClassPartsProvider()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoaderImpl kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider createBuiltInPackageFragmentProvider(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, java.util.Set&lt;kotlin.reflect.jvm.internal.impl.name.FqName&gt;, java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt;, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider, kotlin.jvm.functions.Function1&lt;? super java.lang.String,? extends java.io.InputStream&gt;) 6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.CompanionObjectMapping boolean isMappedIntrinsicCompanionObject(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.FunctionTypesKt java.util.List&lt;kotlin.reflect.jvm.internal.impl.types.TypeProjection&gt; getFunctionTypeArgumentProjections(kotlin.reflect.jvm.internal.impl.types.KotlinType, java.util.List&lt;? extends kotlin.reflect.jvm.internal.impl.types.KotlinType&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt;, kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns java.lang.String getFunctionName(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.CloneableClassScope kotlin.reflect.jvm.internal.impl.name.Name access$getCLONE_NAME$cp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.FunctionTypesKt kotlin.reflect.jvm.internal.impl.types.SimpleType createFunctionType$default(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, kotlin.reflect.jvm.internal.impl.types.KotlinType, java.util.List, java.util.List, kotlin.reflect.jvm.internal.impl.types.KotlinType, boolean, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.types.SimpleType getNothingType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.JvmBuiltInClassDescriptorFactory.Companion kotlin.reflect.jvm.internal.impl.name.FqName access$getKOTLIN_FQ_NAME$p(kotlin.reflect.jvm.internal.impl.builtins.JvmBuiltInClassDescriptorFactory.Companion)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.types.SimpleType getByteType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.types.SimpleType getPrimitiveKotlinType(kotlin.reflect.jvm.internal.impl.builtins.PrimitiveType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames publishedApi'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsPackageFragmentImpl BuiltInsPackageFragmentImpl(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, java.io.InputStream) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoaderImpl kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider createBuiltInPackageFragmentProvider$default(kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoaderImpl, kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, java.util.Set, java.lang.Iterable, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider, kotlin.jvm.functions.Function1, int, java.lang.Object) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames any'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getBuiltInClassByFqName(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getTargetAnnotation()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns boolean isUnderKotlinPackage(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames extensionFunctionType'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.types.SimpleType getFloatType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getNothing()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsPackageFragmentImpl BuiltInsPackageFragmentImpl(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, java.io.InputStream) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.PrimitiveType INT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.ReflectionTypes kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor access$find(kotlin.reflect.jvm.internal.impl.builtins.ReflectionTypes, java.lang.String, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoaderImpl kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider createBuiltInPackageFragmentProvider(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, java.util.Set&lt;kotlin.reflect.jvm.internal.impl.name.FqName&gt;, java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt;, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider, kotlin.jvm.functions.Function1&lt;? super java.lang.String,? extends java.io.InputStream&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsPackageFragmentImpl BuiltInsPackageFragmentImpl(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, java.io.InputStream) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoaderImpl kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider createBuiltInPackageFragmentProvider$default(kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoaderImpl, kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, java.util.Set, java.lang.Iterable, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider, kotlin.jvm.functions.Function1, int, java.lang.Object) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames kCallable'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.FunctionTypesKt kotlin.reflect.jvm.internal.impl.types.SimpleType createFunctionType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, kotlin.reflect.jvm.internal.impl.types.KotlinType, java.util.List&lt;? extends kotlin.reflect.jvm.internal.impl.types.KotlinType&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt;, kotlin.reflect.jvm.internal.impl.types.KotlinType, boolean) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames charRange'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns boolean isDefaultBound(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames _enum'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoaderImpl kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider createBuiltInPackageFragmentProvider(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, java.util.Set&lt;kotlin.reflect.jvm.internal.impl.name.FqName&gt;, java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt;, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider, kotlin.jvm.functions.Function1&lt;? super java.lang.String,? extends java.io.InputStream&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.FunctionTypesKt java.util.List&lt;kotlin.reflect.jvm.internal.impl.types.TypeProjection&gt; getFunctionTypeArgumentProjections(kotlin.reflect.jvm.internal.impl.types.KotlinType, java.util.List&lt;? extends kotlin.reflect.jvm.internal.impl.types.KotlinType&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt;, kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames string'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns boolean isAnyOrNullableAny(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getSuspendFunction(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoaderImpl kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider createPackageFragmentProvider(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt;, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.FunctionTypesKt boolean isSuspendFunctionType(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames _float'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getAnnotationTargetEnumEntry(kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.FunctionTypesKt kotlin.reflect.jvm.internal.impl.types.KotlinType getReturnTypeFromFunctionType(kotlin.reflect.jvm.internal.impl.types.KotlinType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getAnnotationRetentionEnumEntry(kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinRetention) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.ReflectionTypes ReflectionTypes(kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames listIterator'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getBuiltInClassByName(kotlin.reflect.jvm.internal.impl.name.Name) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.types.SimpleType getLongType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.types.SimpleType getPrimitiveArrayKotlinType(kotlin.reflect.jvm.internal.impl.builtins.PrimitiveType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames _char'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.PrimitiveType kotlin.reflect.jvm.internal.impl.name.Name getTypeName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoader Companion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames collection'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.types.SimpleType getPrimitiveArrayKotlinType(kotlin.reflect.jvm.internal.impl.builtins.PrimitiveType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.name.FqName getPrimitiveFqName(kotlin.reflect.jvm.internal.impl.builtins.PrimitiveType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.types.KotlinType getArrayElementType(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoaderImpl kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider createBuiltInPackageFragmentProvider$default(kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoaderImpl, kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, java.util.Set, java.lang.Iterable, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider, kotlin.jvm.functions.Function1, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns KotlinBuiltIns(kotlin.reflect.jvm.internal.impl.storage.StorageManager) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames intRange'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns boolean isArray(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.name.FqName getPrimitiveFqName(kotlin.reflect.jvm.internal.impl.builtins.PrimitiveType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.PrimitiveType LONG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames array'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames _double'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns boolean isArrayOrPrimitiveArray(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames annotationTarget'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames _short'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns BUILT_INS_PACKAGE_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames mutableIterable'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns boolean isPrimitiveTypeOrNullablePrimitiveType(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoaderImpl kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider createBuiltInPackageFragmentProvider$default(kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoaderImpl, kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, java.util.Set, java.lang.Iterable, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.DefaultBuiltIns kotlin.reflect.jvm.internal.impl.builtins.BuiltInsInitializer access$getInitializer$cp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.JvmBuiltInClassDescriptorFactory kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor access$getModuleDescriptor$p(kotlin.reflect.jvm.internal.impl.builtins.JvmBuiltInClassDescriptorFactory)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.types.SimpleType getArrayType(kotlin.reflect.jvm.internal.impl.types.Variance, kotlin.reflect.jvm.internal.impl.types.KotlinType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.JvmBuiltInClassDescriptorFactory Companion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getUnit()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.FunctionTypesKt kotlin.reflect.jvm.internal.impl.types.KotlinType getReturnTypeFromFunctionType(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.FunctionTypesKt kotlin.reflect.jvm.internal.impl.name.Name extractParameterNameFromFunctionTypeArgument(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.types.SimpleType getArrayType(kotlin.reflect.jvm.internal.impl.types.Variance, kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames annotationRetention'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames mutableCollection'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.JvmBuiltInClassDescriptorFactory kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor access$getModuleDescriptor$p(kotlin.reflect.jvm.internal.impl.builtins.JvmBuiltInClassDescriptorFactory) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.ReflectionTypes kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor access$find(kotlin.reflect.jvm.internal.impl.builtins.ReflectionTypes, java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getDeprecatedAnnotation()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames longRange'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.JvmBuiltInClassDescriptorFactory.Companion kotlin.reflect.jvm.internal.impl.name.Name access$getCLONEABLE_NAME$p(kotlin.reflect.jvm.internal.impl.builtins.JvmBuiltInClassDescriptorFactory.Companion) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames throwable'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames fqNameToPrimitiveType'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getDeprecationLevelEnumEntry(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoaderImpl kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider createBuiltInPackageFragmentProvider$default(kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoaderImpl, kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, java.util.Set, java.lang.Iterable, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames deprecated'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames list'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.JvmBuiltInClassDescriptorFactory boolean shouldCreateClass(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.reflect.jvm.internal.impl.name.Name) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getAny()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.SuspendFunctionTypesKt kotlin.reflect.jvm.internal.impl.types.SimpleType transformSuspendFunctionToRuntimeFunctionType(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.ReflectionTypesKt kotlin.reflect.jvm.internal.impl.name.FqName getKOTLIN_REFLECT_FQ_NAME()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.JvmBuiltInClassDescriptorFactory kotlin.reflect.jvm.internal.impl.name.FqName access$getKOTLIN_FQ_NAME$cp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.types.KotlinType getArrayElementType(kotlin.reflect.jvm.internal.impl.types.KotlinType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getBuiltInClassByName(kotlin.reflect.jvm.internal.impl.name.Name)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.types.SimpleType getArrayType(kotlin.reflect.jvm.internal.impl.types.Variance, kotlin.reflect.jvm.internal.impl.types.KotlinType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.CloneableClassScope Companion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsBinaryVersion INVALID_VERSION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames iterator'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.ReflectionTypes kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor access$find(kotlin.reflect.jvm.internal.impl.builtins.ReflectionTypes, java.lang.String, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns TEXT_PACKAGE_FQ_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns BUILTINS_MODULE_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoaderImpl kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider createBuiltInPackageFragmentProvider$default(kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoaderImpl, kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, java.util.Set, java.lang.Iterable, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.types.SimpleType getPrimitiveKotlinType(kotlin.reflect.jvm.internal.impl.builtins.PrimitiveType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.FunctionTypesKt java.util.List&lt;kotlin.reflect.jvm.internal.impl.types.TypeProjection&gt; getFunctionTypeArgumentProjections(kotlin.reflect.jvm.internal.impl.types.KotlinType, java.util.List&lt;? extends kotlin.reflect.jvm.internal.impl.types.KotlinType&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt;, kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.SuspendFunctionTypesKt kotlin.reflect.jvm.internal.impl.descriptors.impl.MutableClassDescriptor getFAKE_CONTINUATION_CLASS_DESCRIPTOR()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.JvmBuiltInClassDescriptorFactory kotlin.jvm.functions.Function1 access$getComputeContainingDeclaration$p(kotlin.reflect.jvm.internal.impl.builtins.JvmBuiltInClassDescriptorFactory)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.ReflectionTypes kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getKClass()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns boolean isPrimitiveClass(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.SuspendFunctionTypesKt kotlin.reflect.jvm.internal.impl.types.SimpleType transformRuntimeFunctionTypeToSuspendFunction(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoaderImpl kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider createPackageFragmentProvider(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt;, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.JvmBuiltInClassDescriptorFactory JvmBuiltInClassDescriptorFactory(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor,? extends kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames mutableMapEntry'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames kClass'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoaderImpl java.lang.ClassLoader access$getClassLoader$p(kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoaderImpl) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.FunctionTypesKt kotlin.reflect.jvm.internal.impl.types.KotlinType getReceiverTypeFromFunctionType(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames kProperty1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns boolean isNothingOrNullableNothing(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.JvmBuiltInClassDescriptorFactory kotlin.reflect.jvm.internal.impl.name.Name access$getCLONEABLE_NAME$cp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames number'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.name.ClassId getFunctionClassId(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getMustBeDocumentedAnnotation()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns boolean isBuiltIn(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames unsafeVariance'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInSerializerProtocol java.lang.String getBuiltInsFileName(kotlin.reflect.jvm.internal.impl.name.FqName)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.JvmBuiltInClassDescriptorFactory JvmBuiltInClassDescriptorFactory(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor,? extends kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoaderImpl kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider createPackageFragmentProvider(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt;, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.CompanionObjectMapping java.util.Set&lt;kotlin.reflect.jvm.internal.impl.name.ClassId&gt; allClassesWithIntrinsicCompanions()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.JvmBuiltInClassDescriptorFactory.Companion kotlin.reflect.jvm.internal.impl.name.ClassId getCLONEABLE_CLASS_ID()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames mutableIterator'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames parameterName'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns boolean isKClass(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames kProperty2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoader kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider createPackageFragmentProvider(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt;, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.JvmBuiltInClassDescriptorFactory kotlin.reflect.jvm.internal.impl.name.ClassId access$getCLONEABLE_CLASS_ID$cp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.ReflectionTypes Companion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.JvmBuiltInClassDescriptorFactory.Companion kotlin.reflect.jvm.internal.impl.name.Name access$getCLONEABLE_NAME$p(kotlin.reflect.jvm.internal.impl.builtins.JvmBuiltInClassDescriptorFactory.Companion)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns boolean isConstructedFromGivenClass(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.name.FqNameUnsafe) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsBinaryVersion Companion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames _byte'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsBinaryVersion BuiltInsBinaryVersion(int...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames _boolean'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns boolean isPrimitiveArray(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.JvmBuiltInClassDescriptorFactory JvmBuiltInClassDescriptorFactory(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor,? extends kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.CloneableClassScope CloneableClassScope(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsBinaryVersion.Companion kotlin.reflect.jvm.internal.impl.builtins.BuiltInsBinaryVersion readFrom(java.io.InputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoaderImpl kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider createPackageFragmentProvider(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt;, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.CompanionObjectMapping INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.FunctionTypesKt boolean isFunctionType(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns RANGES_PACKAGE_FQ_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.types.SimpleType getPrimitiveArrayKotlinTypeByPrimitiveKotlinType(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames mustBeDocumented'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.SuspendFunctionTypesKt kotlin.reflect.jvm.internal.impl.types.SimpleType transformSuspendFunctionToRuntimeFunctionType(kotlin.reflect.jvm.internal.impl.types.KotlinType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns boolean isDeprecated(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames suppress'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns boolean isSpecialClassWithNoSupertypes(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter getPlatformDependentDeclarationFilter()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoader kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider createPackageFragmentProvider(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt;, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.descriptors.impl.ModuleDescriptorImpl getBuiltInsModule()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.types.SimpleType getIntType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns boolean isConstructedFromGivenClass(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.name.FqNameUnsafe) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames iterable'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns boolean isNullableAny(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames mutableMap'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.PrimitiveType BOOLEAN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.FunctionTypesKt kotlin.reflect.jvm.internal.impl.types.SimpleType createFunctionType$default(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, kotlin.reflect.jvm.internal.impl.types.KotlinType, java.util.List, java.util.List, kotlin.reflect.jvm.internal.impl.types.KotlinType, boolean, int, java.lang.Object) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getNumber()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoaderImpl kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider createBuiltInPackageFragmentProvider$default(kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoaderImpl, kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, java.util.Set, java.lang.Iterable, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.CloneableClassScope CloneableClassScope(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.CloneableClassScope.Companion kotlin.reflect.jvm.internal.impl.name.Name getCLONE_NAME$kotlin_reflection()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.types.SimpleType getDefaultBound()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames target'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoaderImpl kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider createBuiltInPackageFragmentProvider(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, java.util.Set&lt;kotlin.reflect.jvm.internal.impl.name.FqName&gt;, java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt;, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider, kotlin.jvm.functions.Function1&lt;? super java.lang.String,? extends java.io.InputStream&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.FunctionTypesKt kotlin.reflect.jvm.internal.impl.types.SimpleType createFunctionType(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, kotlin.reflect.jvm.internal.impl.types.KotlinType, java.util.List&lt;? extends kotlin.reflect.jvm.internal.impl.types.KotlinType&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt;, kotlin.reflect.jvm.internal.impl.types.KotlinType, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoader kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider createPackageFragmentProvider(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt;, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.FunctionTypesKt java.util.List&lt;kotlin.reflect.jvm.internal.impl.types.TypeProjection&gt; getValueParameterTypesFromFunctionType(kotlin.reflect.jvm.internal.impl.types.KotlinType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.types.SimpleType getShortType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.PrimitiveType FLOAT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.BuiltInsLoaderImpl kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider createPackageFragmentProvider(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory&gt;, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter, kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getArray()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getBuiltInClassByFqNameNullable(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns.FqNames charSequence'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.PrimitiveType DOUBLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.builtins.PrimitiveType kotlin.reflect.jvm.internal.impl.name.Name getArrayTypeName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

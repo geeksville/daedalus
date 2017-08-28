@@ -1,0 +1,149 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancementBuilder.ClassEnhancementBuilder.FunctionEnhancementBuilder void returns(kotlin.reflect.jvm.internal.impl.resolve.jvm.JvmPrimitiveType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.NotNullTypeParameter kotlin.reflect.jvm.internal.impl.types.UnwrappedType replaceAnnotations(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancement kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.NullabilityQualifier extractNullability(kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.TypeEnhancementKt.WhenMappings $EnumSwitchMapping$1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.TypeEnhancementKt kotlin.reflect.jvm.internal.impl.types.KotlinType enhance(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.jvm.functions.Function1&lt;? super java.lang.Integer,kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.JavaTypeQualifiers&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.NotNullTypeParameter kotlin.reflect.jvm.internal.impl.types.UnwrappedType replaceAnnotations(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancement java.util.Collection&lt;D&gt; enhanceSignatures(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, java.util.Collection&lt;? extends D&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.JavaTypeQualifiers Companion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancementBuilder.ClassEnhancementBuilder java.lang.String getClassName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.PredefinedEnhancementInfoKt java.util.Map&lt;java.lang.String,kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.PredefinedFunctionEnhancementInfo&gt; getPREDEFINED_FUNCTION_ENHANCEMENT_INFO_BY_SIGNATURE()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancement java.util.Collection&lt;D&gt; enhanceSignatures(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, java.util.Collection&lt;? extends D&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancementBuilder.ClassEnhancementBuilder.FunctionEnhancementBuilder void returns(java.lang.String, kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.JavaTypeQualifiers...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.PredefinedEnhancementInfoKt kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.JavaTypeQualifiers access$getNOT_PLATFORM$p()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.NotNullTypeParameter kotlin.reflect.jvm.internal.impl.types.UnwrappedType makeNullableAsSpecified(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancementBuilder.ClassEnhancementBuilder.FunctionEnhancementBuilder kotlin.Pair&lt;java.lang.String,kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.PredefinedFunctionEnhancementInfo&gt; build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.TypeEnhancementKt.WhenMappings $EnumSwitchMapping$0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancement java.util.Collection&lt;D&gt; enhanceSignatures(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, java.util.Collection&lt;? extends D&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.JavaTypeQualifiers.Companion kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.JavaTypeQualifiers getNONE()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.TypeEnhancementKt boolean hasEnhancedNullability(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.PredefinedEnhancementInfoKt kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.JavaTypeQualifiers access$getNULLABLE$p()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.TypeEnhancementKt kotlin.reflect.jvm.internal.impl.types.KotlinType enhance(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.jvm.functions.Function1&lt;? super java.lang.Integer,kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.JavaTypeQualifiers&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancementBuilder.ClassEnhancementBuilder.FunctionEnhancementBuilder FunctionEnhancementBuilder(java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancementBuilder.ClassEnhancementBuilder void function(java.lang.String, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancementBuilder.ClassEnhancementBuilder.FunctionEnhancementBuilder,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancement SignatureEnhancement(kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancementBuilder.ClassEnhancementBuilder.FunctionEnhancementBuilder void returns(java.lang.String, kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.JavaTypeQualifiers...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.NotNullTypeParameter kotlin.reflect.jvm.internal.impl.types.SimpleType makeNullableAsSpecified(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.PredefinedFunctionEnhancementInfo PredefinedFunctionEnhancementInfo(kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.TypeEnhancementInfo, java.util.List&lt;kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.TypeEnhancementInfo&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.NotNullTypeParameter kotlin.reflect.jvm.internal.impl.types.SimpleType replaceAnnotations(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancementBuilder.ClassEnhancementBuilder.FunctionEnhancementBuilder void parameter(java.lang.String, kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.JavaTypeQualifiers...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.JavaTypeQualifiers kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.JavaTypeQualifiers access$getNONE$cp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.PredefinedFunctionEnhancementInfo java.util.List&lt;kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.TypeEnhancementInfo&gt; getParametersInfo()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.MutabilityQualifier MUTABLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.PredefinedEnhancementInfoKt kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.JavaTypeQualifiers access$getNOT_NULLABLE$p()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.PredefinedFunctionEnhancementInfo PredefinedFunctionEnhancementInfo(kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.TypeEnhancementInfo, java.util.List, int, kotlin.jvm.internal.DefaultConstructorMarker) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.NullabilityQualifier NULLABLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.NotNullTypeParameter kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.NotNullTypeParameter replaceAnnotations(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.NotNullTypeParameter kotlin.reflect.jvm.internal.impl.types.KotlinType substitutionResult(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancementBuilder.ClassEnhancementBuilder void function(java.lang.String, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancementBuilder.ClassEnhancementBuilder.FunctionEnhancementBuilder,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.NullabilityQualifier NOT_NULL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.NotNullTypeParameter kotlin.reflect.jvm.internal.impl.types.SimpleType getDelegate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.NotNullTypeParameter kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.NotNullTypeParameter replaceAnnotations(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.NotNullTypeParameter NotNullTypeParameter(kotlin.reflect.jvm.internal.impl.types.SimpleType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancementBuilder.ClassEnhancementBuilder.FunctionEnhancementBuilder void parameter(java.lang.String, kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.JavaTypeQualifiers...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.MutabilityQualifier READ_ONLY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.TypeEnhancementInfo java.util.Map&lt;java.lang.Integer,kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.JavaTypeQualifiers&gt; getMap()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.NotNullTypeParameter kotlin.reflect.jvm.internal.impl.types.SimpleType replaceAnnotations(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.NotNullTypeParameter kotlin.reflect.jvm.internal.impl.types.KotlinType substitutionResult(kotlin.reflect.jvm.internal.impl.types.KotlinType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancementBuilder.ClassEnhancementBuilder ClassEnhancementBuilder(java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.TypeEnhancementInfo TypeEnhancementInfo(java.util.Map&lt;java.lang.Integer,kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.JavaTypeQualifiers&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

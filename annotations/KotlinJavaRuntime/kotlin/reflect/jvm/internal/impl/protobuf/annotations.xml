@@ -1,0 +1,416 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.ByteString kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream newCodedInput()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite boolean parseUnknownField(kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream, kotlin.reflect.jvm.internal.impl.protobuf.CodedOutputStream, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite, int) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.CodedOutputStream void writeRawBytes(kotlin.reflect.jvm.internal.impl.protobuf.ByteString, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.WireFormat.JavaType STRING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream void readMessage(kotlin.reflect.jvm.internal.impl.protobuf.MessageLite.Builder, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.Parser MessageType parseDelimitedFrom(java.io.InputStream, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.MessageLite kotlin.reflect.jvm.internal.impl.protobuf.MessageLite.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.UnmodifiableLazyStringList java.util.ListIterator&lt;java.lang.String&gt; listIterator(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.AbstractMessageLite.Builder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.GeneratedExtension ContainingType getContainingTypeDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.ExtendableBuilder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.UnmodifiableLazyStringList kotlin.reflect.jvm.internal.impl.protobuf.LazyStringList getUnmodifiableView()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.Builder BuilderType setUnknownFields(kotlin.reflect.jvm.internal.impl.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.Internal java.lang.String toStringUtf8(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.WireFormat.JavaType DOUBLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.WireFormat.FieldType ENUM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.WireFormat.FieldType SINT64'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.WireFormat.JavaType FLOAT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.ByteString java.lang.String toString(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.ExtendableBuilder void mergeExtensionFields(MessageType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream newInstance(java.io.InputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.UnmodifiableLazyStringList java.util.Iterator&lt;java.lang.String&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream kotlin.reflect.jvm.internal.impl.protobuf.ByteString readBytes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.ExtendableMessage boolean parseUnknownField(kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream, kotlin.reflect.jvm.internal.impl.protobuf.CodedOutputStream, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.WireFormat.FieldType FIXED64'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.WireFormat.FieldType SFIXED64'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite boolean parseUnknownField(kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream, kotlin.reflect.jvm.internal.impl.protobuf.CodedOutputStream, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.Parser MessageType parseFrom(kotlin.reflect.jvm.internal.impl.protobuf.ByteString, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.WireFormat.FieldType INT32'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.WireFormat.FieldType MESSAGE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.WireFormat.JavaType ENUM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.CodedOutputStream void writeBytesNoTag(kotlin.reflect.jvm.internal.impl.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.MessageLiteOrBuilder kotlin.reflect.jvm.internal.impl.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.WireFormat.JavaType LONG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.AbstractMessageLite.Builder kotlin.reflect.jvm.internal.impl.protobuf.MessageLite.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.Internal EMPTY_BYTE_ARRAY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.ByteString byte[] toByteArray()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.MessageLite.Builder kotlin.reflect.jvm.internal.impl.protobuf.MessageLite build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.ExtendableBuilder kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.WireFormat.FieldType UINT32'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.ExtendableMessage ExtendableMessage(kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.ExtendableBuilder&lt;MessageType,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.CodedOutputStream kotlin.reflect.jvm.internal.impl.protobuf.CodedOutputStream newInstance(java.io.OutputStream, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.AbstractParser java.lang.Object parseDelimitedFrom(java.io.InputStream, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream java.lang.String readStringRequireUtf8()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.WireFormat.FieldType GROUP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.WireFormat.JavaType BOOLEAN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.Builder kotlin.reflect.jvm.internal.impl.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.GeneratedExtension&lt;ContainingType,Type&gt; newSingularGeneratedExtension(ContainingType, Type, kotlin.reflect.jvm.internal.impl.protobuf.MessageLite, kotlin.reflect.jvm.internal.impl.protobuf.Internal.EnumLiteMap&lt;?&gt;, int, kotlin.reflect.jvm.internal.impl.protobuf.WireFormat.FieldType, java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.AbstractMessageLite.Builder BuilderType mergeFrom(kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.AbstractMessageLite.Builder kotlin.reflect.jvm.internal.impl.protobuf.UninitializedMessageException newUninitializedMessageException(kotlin.reflect.jvm.internal.impl.protobuf.MessageLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.MessageLite kotlin.reflect.jvm.internal.impl.protobuf.MessageLite.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.ExtendableMessage boolean hasExtension(kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.GeneratedExtension&lt;MessageType,Type&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.WireFormat.FieldType BOOL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.GeneratedExtension&lt;ContainingType,Type&gt; newRepeatedGeneratedExtension(ContainingType, kotlin.reflect.jvm.internal.impl.protobuf.MessageLite, kotlin.reflect.jvm.internal.impl.protobuf.Internal.EnumLiteMap&lt;?&gt;, int, kotlin.reflect.jvm.internal.impl.protobuf.WireFormat.FieldType, boolean, java.lang.Class)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.ByteString java.util.Iterator iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.WireFormat.JavaType MESSAGE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.WireFormat.JavaType INT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.InvalidProtocolBufferException kotlin.reflect.jvm.internal.impl.protobuf.InvalidProtocolBufferException setUnfinishedMessage(kotlin.reflect.jvm.internal.impl.protobuf.MessageLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.WireFormat.FieldType DOUBLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.GeneratedExtension&lt;ContainingType,Type&gt; newRepeatedGeneratedExtension(ContainingType, kotlin.reflect.jvm.internal.impl.protobuf.MessageLite, kotlin.reflect.jvm.internal.impl.protobuf.Internal.EnumLiteMap&lt;?&gt;, int, kotlin.reflect.jvm.internal.impl.protobuf.WireFormat.FieldType, boolean, java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.ByteString kotlin.reflect.jvm.internal.impl.protobuf.ByteString copyFrom(byte[], int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.ExtendableBuilder kotlin.reflect.jvm.internal.impl.protobuf.AbstractMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.ExtendableBuilder BuilderType clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.WireFormat.JavaType BYTE_STRING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.AbstractMessageLite.Builder BuilderType clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.WireFormat.FieldType SINT32'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.AbstractParser MessageType parseFrom(kotlin.reflect.jvm.internal.impl.protobuf.ByteString, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.ByteString kotlin.reflect.jvm.internal.impl.protobuf.ByteString copyFrom(java.lang.Iterable&lt;kotlin.reflect.jvm.internal.impl.protobuf.ByteString&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.AbstractParser MessageType parseDelimitedFrom(java.io.InputStream, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.Builder MessageType getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.Builder kotlin.reflect.jvm.internal.impl.protobuf.AbstractMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.Internal boolean isValidUtf8(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.LazyStringArrayList kotlin.reflect.jvm.internal.impl.protobuf.LazyStringList getUnmodifiableView()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.AbstractParser java.lang.Object parseFrom(kotlin.reflect.jvm.internal.impl.protobuf.ByteString, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.ByteString void copyTo(byte[], int, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.WireFormat.FieldType FLOAT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.ByteString kotlin.reflect.jvm.internal.impl.protobuf.ByteString concat(kotlin.reflect.jvm.internal.impl.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.Builder BuilderType clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.LazyStringArrayList LazyStringArrayList(kotlin.reflect.jvm.internal.impl.protobuf.LazyStringList) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.WireFormat.FieldType FIXED32'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.LazyStringArrayList EMPTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.WireFormat.FieldType SFIXED32'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.ByteString EMPTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream java.lang.String readString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.UninitializedMessageException kotlin.reflect.jvm.internal.impl.protobuf.InvalidProtocolBufferException asInvalidProtocolBufferException()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.WireFormat.FieldType INT64'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.Builder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite getEmptyRegistry()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.GeneratedExtension&lt;ContainingType,Type&gt; newSingularGeneratedExtension(ContainingType, Type, kotlin.reflect.jvm.internal.impl.protobuf.MessageLite, kotlin.reflect.jvm.internal.impl.protobuf.Internal.EnumLiteMap&lt;?&gt;, int, kotlin.reflect.jvm.internal.impl.protobuf.WireFormat.FieldType, java.lang.Class)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.ByteString kotlin.reflect.jvm.internal.impl.protobuf.ByteString.ByteIterator iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.Parser MessageType parsePartialFrom(kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream T readMessage(kotlin.reflect.jvm.internal.impl.protobuf.Parser&lt;T&gt;, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite void add(kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.GeneratedExtension&lt;?,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.WireFormat.FieldType UINT64'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite newInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.Builder BuilderType mergeFrom(MessageType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.ExtendableMessage Type getExtension(kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.GeneratedExtension&lt;MessageType,java.util.List&lt;Type&gt;&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.WireFormat.FieldType STRING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.MessageLite.Builder kotlin.reflect.jvm.internal.impl.protobuf.MessageLite.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.CodedOutputStream void writeRawBytes(kotlin.reflect.jvm.internal.impl.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.ByteString kotlin.reflect.jvm.internal.impl.protobuf.ByteString.Output newOutput()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.ExtendableMessage Type getExtension(kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.GeneratedExtension&lt;MessageType,Type&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.LazyStringList kotlin.reflect.jvm.internal.impl.protobuf.LazyStringList getUnmodifiableView()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.FieldSet.FieldDescriptorLite kotlin.reflect.jvm.internal.impl.protobuf.MessageLite.Builder internalMergeFrom(kotlin.reflect.jvm.internal.impl.protobuf.MessageLite.Builder, kotlin.reflect.jvm.internal.impl.protobuf.MessageLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.AbstractParser MessageType parsePartialFrom(kotlin.reflect.jvm.internal.impl.protobuf.ByteString, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.ExtendableMessage boolean parseUnknownField(kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream, kotlin.reflect.jvm.internal.impl.protobuf.CodedOutputStream, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite, int) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.WireFormat.FieldType BYTES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream void readGroup(int, kotlin.reflect.jvm.internal.impl.protobuf.MessageLite.Builder, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.protobuf.AbstractParser MessageType parsePartialDelimitedFrom(java.io.InputStream, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

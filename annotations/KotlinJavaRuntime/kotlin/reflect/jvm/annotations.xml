@@ -1,0 +1,62 @@
+<root>
+    <item name='kotlin.reflect.jvm.KTypesJvm kotlin.reflect.KClass&lt;?&gt; getJvmErasure(kotlin.reflect.KClassifier) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.ReflectJvmMapping java.lang.reflect.Constructor&lt;T&gt; getJavaConstructor(kotlin.reflect.KFunction&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.ReflectJvmMapping java.lang.reflect.Type getJavaType(kotlin.reflect.KType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.KClassesJvm java.lang.String getJvmName(kotlin.reflect.KClass&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.ReflectJvmMapping java.lang.reflect.Field getJavaField(kotlin.reflect.KProperty&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.ReflectJvmMapping java.lang.reflect.Method getJavaMethod(kotlin.reflect.KFunction&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.ReflectLambdaKt kotlin.reflect.KFunction&lt;R&gt; reflect(kotlin.Function&lt;? extends R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.ReflectJvmMapping java.lang.reflect.Method getJavaGetter(kotlin.reflect.KProperty&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.KTypesJvm kotlin.reflect.KClass&lt;?&gt; getJvmErasure(kotlin.reflect.KType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.ReflectJvmMapping kotlin.reflect.KFunction&lt;T&gt; getKotlinFunction(java.lang.reflect.Constructor&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.KTypesJvm kotlin.reflect.KClass&lt;?&gt; getJvmErasure(kotlin.reflect.KClassifier)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.KCallablesJvm void setAccessible(kotlin.reflect.KCallable&lt;?&gt;, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.ReflectJvmMapping java.lang.reflect.Method getJavaSetter(kotlin.reflect.KMutableProperty&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.ReflectJvmMapping kotlin.reflect.KProperty&lt;?&gt; getKotlinProperty(java.lang.reflect.Field) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.ReflectJvmMapping.WhenMappings $EnumSwitchMapping$0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.KTypesJvm kotlin.reflect.KClass&lt;?&gt; getJvmErasure(kotlin.reflect.KType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.ReflectJvmMapping kotlin.reflect.KFunction&lt;?&gt; getKotlinFunction(java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.KCallablesJvm boolean isAccessible(kotlin.reflect.KCallable&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.ReflectJvmMapping java.lang.reflect.Type getJavaType(kotlin.reflect.KType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.KClassesJvm java.lang.String getJvmName(kotlin.reflect.KClass&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

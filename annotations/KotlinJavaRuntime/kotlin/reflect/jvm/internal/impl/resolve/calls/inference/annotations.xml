@@ -1,0 +1,122 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType CapturedType(kotlin.reflect.jvm.internal.impl.types.TypeProjection, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedTypeConstructor, boolean, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType kotlin.reflect.jvm.internal.impl.types.SimpleType replaceAnnotations(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType CapturedType(kotlin.reflect.jvm.internal.impl.types.TypeProjection, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedTypeConstructor, boolean, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, int, kotlin.jvm.internal.DefaultConstructorMarker) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType replaceAnnotations(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedTypeConstructorKt.wrapWithCapturingSubstitution.2 kotlin.reflect.jvm.internal.impl.types.TypeProjection get(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedTypeConstructorKt kotlin.reflect.jvm.internal.impl.types.TypeSubstitution wrapWithCapturingSubstitution(kotlin.reflect.jvm.internal.impl.types.TypeSubstitution, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType makeNullableAsSpecified(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType replaceAnnotations(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType kotlin.reflect.jvm.internal.impl.types.TypeConstructor getConstructor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedTypeConstructorKt kotlin.reflect.jvm.internal.impl.types.TypeSubstitution wrapWithCapturingSubstitution$default(kotlin.reflect.jvm.internal.impl.types.TypeSubstitution, boolean, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope getMemberScope()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType CapturedType(kotlin.reflect.jvm.internal.impl.types.TypeProjection, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedTypeConstructor, boolean, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType kotlin.reflect.jvm.internal.impl.types.SimpleType replaceAnnotations(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType kotlin.reflect.jvm.internal.impl.types.SimpleType makeNullableAsSpecified(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedTypeConstructorKt kotlin.reflect.jvm.internal.impl.types.TypeSubstitution wrapWithCapturingSubstitution(kotlin.reflect.jvm.internal.impl.types.TypeSubstitution, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType kotlin.reflect.jvm.internal.impl.types.KotlinType getSubTypeRepresentative()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType kotlin.reflect.jvm.internal.impl.types.KotlinType getSuperTypeRepresentative()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType CapturedType(kotlin.reflect.jvm.internal.impl.types.TypeProjection, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedTypeConstructor, boolean, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType java.util.List&lt;kotlin.reflect.jvm.internal.impl.types.TypeProjection&gt; getArguments()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType CapturedType(kotlin.reflect.jvm.internal.impl.types.TypeProjection, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedTypeConstructor, boolean, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, int, kotlin.jvm.internal.DefaultConstructorMarker) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedTypeConstructor kotlin.reflect.jvm.internal.impl.types.TypeProjection getTypeProjection()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType CapturedType(kotlin.reflect.jvm.internal.impl.types.TypeProjection, kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedTypeConstructor, boolean, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, int, kotlin.jvm.internal.DefaultConstructorMarker) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType kotlin.reflect.jvm.internal.impl.types.UnwrappedType makeNullableAsSpecified(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedTypeConstructor kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns getBuiltIns()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedTypeConstructorKt kotlin.reflect.jvm.internal.impl.types.TypeProjection access$createCapturedIfNeeded(kotlin.reflect.jvm.internal.impl.types.TypeProjection, kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedTypeConstructorKt kotlin.reflect.jvm.internal.impl.types.KotlinType createCapturedType(kotlin.reflect.jvm.internal.impl.types.TypeProjection)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType kotlin.reflect.jvm.internal.impl.types.UnwrappedType replaceAnnotations(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedTypeConstructor java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.types.KotlinType&gt; getSupertypes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations getAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType boolean sameTypeConstructor(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedTypeConstructorKt kotlin.reflect.jvm.internal.impl.types.KotlinType createCapturedType(kotlin.reflect.jvm.internal.impl.types.TypeProjection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedTypeConstructor java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedTypeConstructor getConstructor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedTypeConstructor CapturedTypeConstructor(kotlin.reflect.jvm.internal.impl.types.TypeProjection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedTypeConstructor java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt; getParameters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedTypeConstructorKt kotlin.reflect.jvm.internal.impl.types.TypeProjection access$createCapturedIfNeeded(kotlin.reflect.jvm.internal.impl.types.TypeProjection, kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedTypeConstructorKt boolean isCaptured(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedType kotlin.reflect.jvm.internal.impl.types.UnwrappedType replaceAnnotations(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.calls.inference.CapturedTypeConstructorKt kotlin.reflect.jvm.internal.impl.types.TypeSubstitution wrapWithCapturingSubstitution$default(kotlin.reflect.jvm.internal.impl.types.TypeSubstitution, boolean, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

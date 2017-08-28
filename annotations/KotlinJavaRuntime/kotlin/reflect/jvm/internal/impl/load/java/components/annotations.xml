@@ -1,0 +1,290 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.DescriptorResolverUtils kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor getAnnotationParameterByName(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaPropertyInitializerEvaluator.DoNothing java.lang.Void getInitializerConstant(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaField, kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaAnnotationDescriptor JavaAnnotationDescriptor(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotation, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.DescriptorResolverUtils java.util.Collection&lt;D&gt; resolveOverridesForStaticMembers(kotlin.reflect.jvm.internal.impl.name.Name, java.util.Collection&lt;D&gt;, java.util.Collection&lt;D&gt;, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaPropertyInitializerEvaluator kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt; getInitializerConstant(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaField, kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaAnnotationMapper INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator.PropagatedSignature java.util.List&lt;java.lang.String&gt; getErrors()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.DescriptorResolverUtils java.util.Collection&lt;D&gt; resolveOverridesForNonStaticMembers(kotlin.reflect.jvm.internal.impl.name.Name, java.util.Collection&lt;D&gt;, java.util.Collection&lt;D&gt;, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaAnnotationDescriptor java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor&gt; getValueParameters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache void recordField(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaField, kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.RuntimeErrorReporter void reportCannotInferVisibility(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator.PropagatedSignature PropagatedSignature(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt;, java.util.List&lt;java.lang.String&gt;, boolean) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaAnnotationTargetMapper kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt; mapJavaRetentionArgument(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotationArgument, kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver EMPTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaRetentionAnnotationDescriptor java.util.Map&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor,kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt;&gt; getAllValueArguments()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaAnnotationMapper kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor findMappedJavaAnnotation(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotationOwner, kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator void reportSignatureErrors(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor, java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaAnnotationMapper kotlin.reflect.jvm.internal.impl.name.Name getTARGET_ANNOTATION_ALLOWED_TARGETS$kotlin_reflection()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.DescriptorResolverUtils java.util.Collection&lt;D&gt; resolveOverridesForStaticMembers(kotlin.reflect.jvm.internal.impl.name.Name, java.util.Collection&lt;D&gt;, java.util.Collection&lt;D&gt;, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaAnnotationTargetMapper kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt; mapJavaTargetArguments(java.util.List&lt;? extends kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotationArgument&gt;, kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator.PropagatedSignature PropagatedSignature(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt;, java.util.List&lt;java.lang.String&gt;, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaAnnotationTargetMapper kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt; mapJavaTargetArguments(java.util.List&lt;? extends kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotationArgument&gt;, kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.DescriptorResolverUtils kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor getAnnotationParameterByName(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaPropertyInitializerEvaluator.DoNothing java.lang.Void getInitializerConstant(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaField, kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.RuntimeSourceElementFactory.RuntimeSourceElement kotlin.reflect.jvm.internal.impl.load.java.structure.JavaElement getJavaElement()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.DescriptorResolverUtils java.util.Collection&lt;D&gt; resolveOverridesForNonStaticMembers(kotlin.reflect.jvm.internal.impl.name.Name, java.util.Collection&lt;D&gt;, java.util.Collection&lt;D&gt;, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.DescriptorResolverUtils java.util.Collection&lt;D&gt; resolveOverridesForStaticMembers(kotlin.reflect.jvm.internal.impl.name.Name, java.util.Collection&lt;D&gt;, java.util.Collection&lt;D&gt;, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaTargetAnnotationDescriptor JavaTargetAnnotationDescriptor(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotation, kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaPropertyInitializerEvaluator kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt; getInitializerConstant(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaField, kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator.PropagatedSignature java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor&gt; getValueParameters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.DescriptorResolverUtils java.util.Collection&lt;D&gt; resolveOverridesForNonStaticMembers(kotlin.reflect.jvm.internal.impl.name.Name, java.util.Collection&lt;D&gt;, java.util.Collection&lt;D&gt;, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.DescriptorResolverUtils java.util.Collection&lt;D&gt; resolveOverridesForStaticMembers(kotlin.reflect.jvm.internal.impl.name.Name, java.util.Collection&lt;D&gt;, java.util.Collection&lt;D&gt;, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaAnnotationDescriptor kotlin.reflect.jvm.internal.impl.types.KotlinType getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache void recordConstructor(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaElement, kotlin.reflect.jvm.internal.impl.descriptors.ConstructorDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator.PropagatedSignature resolvePropagatedSignature(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaMethod, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.DescriptorResolverUtils boolean isObjectMethodInInterface(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaMember) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaAnnotationTargetMapper kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt; mapJavaRetentionArgument(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotationArgument, kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.RuntimeErrorReporter void reportIncompleteHierarchy(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, java.util.List&lt;java.lang.String&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator.PropagatedSignature resolvePropagatedSignature(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaMethod, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator.PropagatedSignature resolvePropagatedSignature(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaMethod, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaAnnotationMapper kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor findMappedJavaAnnotation(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotationOwner, kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaDeprecatedAnnotationDescriptor java.util.Map&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor,kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt;&gt; getAllValueArguments()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.DescriptorResolverUtils java.util.Collection&lt;D&gt; resolveOverridesForNonStaticMembers(kotlin.reflect.jvm.internal.impl.name.Name, java.util.Collection&lt;D&gt;, java.util.Collection&lt;D&gt;, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache void recordMethod(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaMethod, kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.TypeUsage COMMON'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.DescriptorResolverUtils boolean isObjectMethod(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaTargetAnnotationDescriptor java.util.Map&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor,kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt;&gt; getAllValueArguments()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaAnnotationMapper kotlin.reflect.jvm.internal.impl.name.Name getDEPRECATED_ANNOTATION_MESSAGE$kotlin_reflection()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaPropertyInitializerEvaluator.DoNothing INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.ExternalAnnotationResolver EMPTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaDeprecatedAnnotationDescriptor JavaDeprecatedAnnotationDescriptor(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotation, kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaAnnotationDescriptor JavaAnnotationDescriptor(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotation, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaAnnotationDescriptor java.util.Map&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor,kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt;&gt; getAllValueArguments()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.DescriptorResolverUtils java.util.Collection&lt;D&gt; resolveOverridesForNonStaticMembers(kotlin.reflect.jvm.internal.impl.name.Name, java.util.Collection&lt;D&gt;, java.util.Collection&lt;D&gt;, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.DescriptorResolverUtils java.util.Collection&lt;D&gt; resolveOverridesForStaticMembers(kotlin.reflect.jvm.internal.impl.name.Name, java.util.Collection&lt;D&gt;, java.util.Collection&lt;D&gt;, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaAnnotationTargetMapper INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaPropertyInitializerEvaluator.DoNothing kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue getInitializerConstant(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaField, kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaRetentionAnnotationDescriptor JavaRetentionAnnotationDescriptor(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotation, kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.RuntimeErrorReporter void reportIncompleteHierarchy(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaTargetAnnotationDescriptor JavaTargetAnnotationDescriptor(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotation, kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.RuntimeErrorReporter INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.RuntimeSourceElementFactory.RuntimeSourceElement kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaElement getJavaElement()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator.PropagatedSignature kotlin.reflect.jvm.internal.impl.types.KotlinType getReturnType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.TypeUsage SUPERTYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaAnnotationTargetMapper java.util.Set&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget&gt; mapJavaTargetArgumentByName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.RuntimeSourceElementFactory kotlin.reflect.jvm.internal.impl.load.java.sources.JavaSourceElement source(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaElement)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator.PropagatedSignature resolvePropagatedSignature(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaMethod, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt;) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaAnnotationDescriptor kotlin.reflect.jvm.internal.impl.types.SimpleType getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator.PropagatedSignature resolvePropagatedSignature(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaMethod, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaAnnotationMapper kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor findMappedJavaAnnotation(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotationOwner, kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaAnnotationMapper kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor mapOrResolveJavaAnnotation(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotation, kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache EMPTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getClassResolvedFromSource(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache void recordMethod(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaMethod, kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator.PropagatedSignature PropagatedSignature(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt;, java.util.List&lt;java.lang.String&gt;, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache void recordConstructor(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaElement, kotlin.reflect.jvm.internal.impl.descriptors.ConstructorDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator.PropagatedSignature java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt; getTypeParameters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache void recordClass(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClass, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaRetentionAnnotationDescriptor JavaRetentionAnnotationDescriptor(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotation, kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaAnnotationDescriptor kotlin.reflect.jvm.internal.impl.descriptors.SourceElement getSource()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.RuntimeSourceElementFactory.RuntimeSourceElement kotlin.reflect.jvm.internal.impl.descriptors.SourceFile getContainingFile()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.DescriptorResolverUtils java.util.Collection&lt;D&gt; resolveOverridesForNonStaticMembers(kotlin.reflect.jvm.internal.impl.name.Name, java.util.Collection&lt;D&gt;, java.util.Collection&lt;D&gt;, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.DescriptorResolverUtils java.util.Collection&lt;D&gt; resolveOverridesForStaticMembers(kotlin.reflect.jvm.internal.impl.name.Name, java.util.Collection&lt;D&gt;, java.util.Collection&lt;D&gt;, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaPropertyInitializerEvaluator.DoNothing kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue getInitializerConstant(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaField, kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator DO_NOTHING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache void recordField(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaField, kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator.PropagatedSignature resolvePropagatedSignature(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaMethod, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.RuntimeSourceElementFactory.RuntimeSourceElement RuntimeSourceElement(kotlin.reflect.jvm.internal.impl.load.java.structure.reflect.ReflectJavaElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.RuntimeSourceElementFactory INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator void reportSignatureErrors(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor, java.util.List&lt;java.lang.String&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaAnnotationMapper kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor mapOrResolveJavaAnnotation(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotation, kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.RuntimeSourceElementFactory.RuntimeSourceElement java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator.PropagatedSignature PropagatedSignature(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor&gt;, java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt;, java.util.List&lt;java.lang.String&gt;, boolean) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaAnnotationTargetMapper kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt; mapJavaTargetArguments(java.util.List&lt;? extends kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotationArgument&gt;, kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache void recordClass(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClass, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.components.RuntimeSourceElementFactory kotlin.reflect.jvm.internal.impl.load.java.sources.JavaSourceElement source(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

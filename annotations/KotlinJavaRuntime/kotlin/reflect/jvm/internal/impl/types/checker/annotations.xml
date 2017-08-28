@@ -1,0 +1,461 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.KotlinTypeCheckerImpl boolean equalTypes(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NullabilityChecker boolean isPossibleSubtype(kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext, kotlin.reflect.jvm.internal.impl.types.SimpleType, kotlin.reflect.jvm.internal.impl.types.SimpleType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedTypeKt kotlin.reflect.jvm.internal.impl.types.SimpleType captureFromArguments(kotlin.reflect.jvm.internal.impl.types.SimpleType, kotlin.reflect.jvm.internal.impl.types.checker.CaptureStatus, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedType,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedType java.util.List&lt;kotlin.reflect.jvm.internal.impl.types.TypeProjection&gt; getArguments()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext.SupertypesPolicy.LowerIfFlexibleWithCustomSubstitutor LowerIfFlexibleWithCustomSubstitutor(kotlin.reflect.jvm.internal.impl.types.TypeSubstitutor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedureCallbacks boolean assertEqualTypeConstructors(kotlin.reflect.jvm.internal.impl.types.TypeConstructor, kotlin.reflect.jvm.internal.impl.types.TypeConstructor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewKotlinTypeChecker boolean equalTypes(kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext, kotlin.reflect.jvm.internal.impl.types.UnwrappedType, kotlin.reflect.jvm.internal.impl.types.UnwrappedType) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.KotlinTypeChecker.TypeConstructorEquality boolean equals(kotlin.reflect.jvm.internal.impl.types.TypeConstructor, kotlin.reflect.jvm.internal.impl.types.TypeConstructor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure kotlin.reflect.jvm.internal.impl.types.KotlinType findCorrespondingSupertype(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedureCallbacks) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedureCallbacks boolean assertSubtype(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.KotlinTypeCheckerImpl KotlinTypeCheckerImpl(kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure boolean heterogeneousEquivalence(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.KotlinTypeCheckerImpl boolean equalTypes(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NullabilityChecker INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure.EnrichedProjectionKind STAR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext boolean anySupertype$kotlin_reflection(kotlin.reflect.jvm.internal.impl.types.SimpleType, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.types.SimpleType,java.lang.Boolean&gt;, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.types.SimpleType,? extends kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext.SupertypesPolicy&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NullabilityChecker boolean isPossibleSubtype(kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext, kotlin.reflect.jvm.internal.impl.types.SimpleType, kotlin.reflect.jvm.internal.impl.types.SimpleType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext java.lang.Boolean addSubtypeConstraint(kotlin.reflect.jvm.internal.impl.types.UnwrappedType, kotlin.reflect.jvm.internal.impl.types.UnwrappedType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedTypeConstructor java.util.List&lt;kotlin.reflect.jvm.internal.impl.types.UnwrappedType&gt; getSupertypes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewKotlinTypeCheckerKt boolean access$isIntersectionType$p(kotlin.reflect.jvm.internal.impl.types.SimpleType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext.SupertypesPolicy.LowerIfFlexibleWithCustomSubstitutor kotlin.reflect.jvm.internal.impl.types.SimpleType transformType(kotlin.reflect.jvm.internal.impl.types.KotlinType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewKotlinTypeChecker boolean equalTypes(kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext, kotlin.reflect.jvm.internal.impl.types.UnwrappedType, kotlin.reflect.jvm.internal.impl.types.UnwrappedType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.StrictEqualityTypeChecker boolean strictEqualTypes(kotlin.reflect.jvm.internal.impl.types.UnwrappedType, kotlin.reflect.jvm.internal.impl.types.UnwrappedType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext.SupertypesPolicy.None java.lang.Void transformType(kotlin.reflect.jvm.internal.impl.types.KotlinType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext int access$getArgumentsDepth$p(kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NullabilityChecker boolean isPossibleSubtype(kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext, kotlin.reflect.jvm.internal.impl.types.SimpleType, kotlin.reflect.jvm.internal.impl.types.SimpleType) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewKotlinTypeChecker boolean equalTypes(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure boolean heterogeneousEquivalence(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedureCallbacks boolean assertSubtype(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedTypeConstructor java.util.Collection getSupertypes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure kotlin.reflect.jvm.internal.impl.types.KotlinType findCorrespondingSupertype(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext void access$setArgumentsDepth$p(kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext.SupertypesPolicy.None INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext.SupertypesPolicy.None java.lang.Void transformType(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedType kotlin.reflect.jvm.internal.impl.types.UnwrappedType replaceAnnotations(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedTypeConstructor java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedureCallbacks boolean noCorrespondingSupertype(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.IntersectionTypeKt kotlin.reflect.jvm.internal.impl.types.UnwrappedType intersectTypes(java.util.List&lt;? extends kotlin.reflect.jvm.internal.impl.types.UnwrappedType&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewKotlinTypeCheckerKt boolean access$isClassType$p(kotlin.reflect.jvm.internal.impl.types.SimpleType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedTypeKt kotlin.reflect.jvm.internal.impl.types.SimpleType captureFromArguments$default(kotlin.reflect.jvm.internal.impl.types.SimpleType, kotlin.reflect.jvm.internal.impl.types.checker.CaptureStatus, kotlin.jvm.functions.Function2, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewKotlinTypeChecker java.util.List access$selectOnlyPureKotlinSupertypes(kotlin.reflect.jvm.internal.impl.types.checker.NewKotlinTypeChecker, java.util.List) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext.SupertypesPolicy.None kotlin.reflect.jvm.internal.impl.types.SimpleType transformType(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedureCallbacks boolean noCorrespondingSupertype(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewKotlinTypeChecker java.util.List access$collectAllSupertypesWithGivenTypeConstructor(kotlin.reflect.jvm.internal.impl.types.checker.NewKotlinTypeChecker, kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext, kotlin.reflect.jvm.internal.impl.types.SimpleType, kotlin.reflect.jvm.internal.impl.types.TypeConstructor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure kotlin.reflect.jvm.internal.impl.types.KotlinType findCorrespondingSupertype(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedureCallbacks) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.KotlinTypeCheckerImpl kotlin.reflect.jvm.internal.impl.types.checker.KotlinTypeChecker withAxioms(kotlin.reflect.jvm.internal.impl.types.checker.KotlinTypeChecker.TypeConstructorEquality) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewKotlinTypeChecker kotlin.reflect.jvm.internal.impl.types.SimpleType transformToNewType(kotlin.reflect.jvm.internal.impl.types.SimpleType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedureCallbacks boolean assertEqualTypes(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedTypeKt kotlin.reflect.jvm.internal.impl.types.SimpleType captureFromArguments(kotlin.reflect.jvm.internal.impl.types.SimpleType, kotlin.reflect.jvm.internal.impl.types.checker.CaptureStatus, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedType,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext.SupertypesPolicy.UpperIfFlexible kotlin.reflect.jvm.internal.impl.types.SimpleType transformType(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext.SupertypesPolicy.LowerIfFlexibleWithCustomSubstitutor kotlin.reflect.jvm.internal.impl.types.SimpleType transformType(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure.EnrichedProjectionKind IN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewKotlinTypeCheckerKt boolean access$isSingleClassifierType$p(kotlin.reflect.jvm.internal.impl.types.SimpleType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewKotlinTypeChecker kotlin.reflect.jvm.internal.impl.types.UnwrappedType transformToNewType(kotlin.reflect.jvm.internal.impl.types.UnwrappedType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedType NewCapturedType(kotlin.reflect.jvm.internal.impl.types.checker.CaptureStatus, kotlin.reflect.jvm.internal.impl.types.UnwrappedType, kotlin.reflect.jvm.internal.impl.types.TypeProjection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure.EnrichedProjectionKind INV'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedTypeKt kotlin.reflect.jvm.internal.impl.types.SimpleType captureFromArguments$default(kotlin.reflect.jvm.internal.impl.types.SimpleType, kotlin.reflect.jvm.internal.impl.types.checker.CaptureStatus, kotlin.jvm.functions.Function2, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure kotlin.reflect.jvm.internal.impl.types.KotlinType findCorrespondingSupertype(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedureCallbacks) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure.EnrichedProjectionKind getEffectiveProjectionKind(kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor, kotlin.reflect.jvm.internal.impl.types.TypeProjection)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext boolean areEqualTypeConstructors(kotlin.reflect.jvm.internal.impl.types.TypeConstructor, kotlin.reflect.jvm.internal.impl.types.TypeConstructor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewKotlinTypeChecker boolean isSubtypeOf(kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext, kotlin.reflect.jvm.internal.impl.types.UnwrappedType, kotlin.reflect.jvm.internal.impl.types.UnwrappedType) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedTypeConstructor java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt; getParameters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure.EnrichedProjectionKind kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure.EnrichedProjectionKind fromVariance(kotlin.reflect.jvm.internal.impl.types.Variance) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.UtilsKt kotlin.reflect.jvm.internal.impl.types.KotlinType findCorrespondingSupertype(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedureCallbacks) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext.SupertypesPolicy.UpperIfFlexible INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedType kotlin.reflect.jvm.internal.impl.types.TypeConstructor getConstructor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedType NewCapturedType(kotlin.reflect.jvm.internal.impl.types.checker.CaptureStatus, kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedTypeConstructor, kotlin.reflect.jvm.internal.impl.types.UnwrappedType, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, boolean, int, kotlin.jvm.internal.DefaultConstructorMarker) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure.EnrichedProjectionKind getEffectiveProjectionKind(kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor, kotlin.reflect.jvm.internal.impl.types.TypeProjection) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.KotlinTypeCheckerImpl boolean isSubtypeOf(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedType NewCapturedType(kotlin.reflect.jvm.internal.impl.types.checker.CaptureStatus, kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedTypeConstructor, kotlin.reflect.jvm.internal.impl.types.UnwrappedType, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext.SupertypesPolicy.UpperIfFlexible kotlin.reflect.jvm.internal.impl.types.SimpleType transformType(kotlin.reflect.jvm.internal.impl.types.KotlinType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext.SupertypesPolicy kotlin.reflect.jvm.internal.impl.types.SimpleType transformType(kotlin.reflect.jvm.internal.impl.types.KotlinType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewKotlinTypeChecker.WhenMappings $EnumSwitchMapping$0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedureCallbacks boolean assertEqualTypes(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewKotlinTypeChecker java.util.List access$collectAllSupertypesWithGivenTypeConstructor(kotlin.reflect.jvm.internal.impl.types.checker.NewKotlinTypeChecker, kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext, kotlin.reflect.jvm.internal.impl.types.SimpleType, kotlin.reflect.jvm.internal.impl.types.TypeConstructor) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedType kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedType replaceAnnotations(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewKotlinTypeChecker boolean isSubtypeOf(kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext, kotlin.reflect.jvm.internal.impl.types.UnwrappedType, kotlin.reflect.jvm.internal.impl.types.UnwrappedType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedType kotlin.reflect.jvm.internal.impl.types.SimpleType replaceAnnotations(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedType kotlin.reflect.jvm.internal.impl.types.SimpleType makeNullableAsSpecified(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure.EnrichedProjectionKind kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure.EnrichedProjectionKind fromVariance(kotlin.reflect.jvm.internal.impl.types.Variance)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext boolean areEqualTypeConstructors(kotlin.reflect.jvm.internal.impl.types.TypeConstructor, kotlin.reflect.jvm.internal.impl.types.TypeConstructor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedType kotlin.reflect.jvm.internal.impl.types.SimpleType replaceAnnotations(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedType kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations getAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedType kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedType replaceAnnotations(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedTypeConstructor void initializeSupertypes(java.util.List&lt;? extends kotlin.reflect.jvm.internal.impl.types.UnwrappedType&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure.EnrichedProjectionKind OUT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewKotlinTypeChecker boolean isSubtypeOf(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedType NewCapturedType(kotlin.reflect.jvm.internal.impl.types.checker.CaptureStatus, kotlin.reflect.jvm.internal.impl.types.UnwrappedType, kotlin.reflect.jvm.internal.impl.types.TypeProjection) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewKotlinTypeChecker java.util.List access$selectOnlyPureKotlinSupertypes(kotlin.reflect.jvm.internal.impl.types.checker.NewKotlinTypeChecker, java.util.List) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedType NewCapturedType(kotlin.reflect.jvm.internal.impl.types.checker.CaptureStatus, kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedTypeConstructor, kotlin.reflect.jvm.internal.impl.types.UnwrappedType, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, boolean, int, kotlin.jvm.internal.DefaultConstructorMarker) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedTypeConstructor NewCapturedTypeConstructor(kotlin.reflect.jvm.internal.impl.types.TypeProjection, java.util.List&lt;? extends kotlin.reflect.jvm.internal.impl.types.UnwrappedType&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.KotlinTypeCheckerImpl boolean isSubtypeOf(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedureCallbacks boolean assertEqualTypes(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedType NewCapturedType(kotlin.reflect.jvm.internal.impl.types.checker.CaptureStatus, kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedTypeConstructor, kotlin.reflect.jvm.internal.impl.types.UnwrappedType, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedTypeKt kotlin.reflect.jvm.internal.impl.types.SimpleType captureFromArguments$default(kotlin.reflect.jvm.internal.impl.types.SimpleType, kotlin.reflect.jvm.internal.impl.types.checker.CaptureStatus, kotlin.jvm.functions.Function2, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewKotlinTypeChecker java.util.List access$selectOnlyPureKotlinSupertypes(kotlin.reflect.jvm.internal.impl.types.checker.NewKotlinTypeChecker, java.util.List)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext.SupertypesPolicy.LowerIfFlexible kotlin.reflect.jvm.internal.impl.types.SimpleType transformType(kotlin.reflect.jvm.internal.impl.types.KotlinType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.CaptureStatus FROM_EXPRESSION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewKotlinTypeChecker java.util.List access$collectAllSupertypesWithGivenTypeConstructor(kotlin.reflect.jvm.internal.impl.types.checker.NewKotlinTypeChecker, kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext, kotlin.reflect.jvm.internal.impl.types.SimpleType, kotlin.reflect.jvm.internal.impl.types.TypeConstructor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure.EnrichedProjectionKind getEffectiveProjectionKind(kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor, kotlin.reflect.jvm.internal.impl.types.TypeProjection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewKotlinTypeChecker boolean isSubtypeOf(kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext, kotlin.reflect.jvm.internal.impl.types.UnwrappedType, kotlin.reflect.jvm.internal.impl.types.UnwrappedType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext.SupertypesPolicy.LowerIfFlexible kotlin.reflect.jvm.internal.impl.types.SimpleType transformType(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.CaptureStatus FOR_SUBTYPING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewKotlinTypeChecker java.util.List access$collectAllSupertypesWithGivenTypeConstructor(kotlin.reflect.jvm.internal.impl.types.checker.NewKotlinTypeChecker, kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext, kotlin.reflect.jvm.internal.impl.types.SimpleType, kotlin.reflect.jvm.internal.impl.types.TypeConstructor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext boolean anySupertype$kotlin_reflection(kotlin.reflect.jvm.internal.impl.types.SimpleType, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.types.SimpleType,java.lang.Boolean&gt;, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.types.SimpleType,? extends kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext.SupertypesPolicy&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.KotlinTypeChecker boolean equalTypes(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.StrictEqualityTypeChecker boolean strictEqualTypes(kotlin.reflect.jvm.internal.impl.types.SimpleType, kotlin.reflect.jvm.internal.impl.types.SimpleType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.StrictEqualityTypeChecker boolean strictEqualTypes(kotlin.reflect.jvm.internal.impl.types.UnwrappedType, kotlin.reflect.jvm.internal.impl.types.UnwrappedType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext java.lang.Boolean addSubtypeConstraint(kotlin.reflect.jvm.internal.impl.types.UnwrappedType, kotlin.reflect.jvm.internal.impl.types.UnwrappedType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure boolean equalTypes(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewKotlinTypeChecker boolean isSubtypeOf(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedTypeKt kotlin.reflect.jvm.internal.impl.types.SimpleType captureFromArguments$default(kotlin.reflect.jvm.internal.impl.types.SimpleType, kotlin.reflect.jvm.internal.impl.types.checker.CaptureStatus, kotlin.jvm.functions.Function2, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedTypeKt kotlin.reflect.jvm.internal.impl.types.SimpleType captureFromArguments(kotlin.reflect.jvm.internal.impl.types.SimpleType, kotlin.reflect.jvm.internal.impl.types.checker.CaptureStatus, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedType,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.UtilsKt kotlin.reflect.jvm.internal.impl.types.KotlinType findCorrespondingSupertype(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedureCallbacks) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewKotlinTypeChecker boolean equalTypes(kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext, kotlin.reflect.jvm.internal.impl.types.UnwrappedType, kotlin.reflect.jvm.internal.impl.types.UnwrappedType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext.SupertypesPolicy.None kotlin.reflect.jvm.internal.impl.types.SimpleType transformType(kotlin.reflect.jvm.internal.impl.types.KotlinType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedureCallbacks boolean capture(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.TypeProjection) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedType NewCapturedType(kotlin.reflect.jvm.internal.impl.types.checker.CaptureStatus, kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedTypeConstructor, kotlin.reflect.jvm.internal.impl.types.UnwrappedType, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, boolean, int, kotlin.jvm.internal.DefaultConstructorMarker) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedType kotlin.reflect.jvm.internal.impl.types.UnwrappedType replaceAnnotations(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.KotlinTypeChecker DEFAULT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedTypeConstructor NewCapturedTypeConstructor(kotlin.reflect.jvm.internal.impl.types.TypeProjection, java.util.List, int, kotlin.jvm.internal.DefaultConstructorMarker) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewKotlinTypeChecker boolean equalTypes(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedureCallbacks boolean assertSubtype(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.KotlinTypeChecker boolean isSubtypeOf(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedType kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedTypeConstructor getConstructor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedTypeConstructor kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns getBuiltIns()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext.SupertypesPolicy.LowerIfFlexible INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure kotlin.reflect.jvm.internal.impl.types.KotlinType findCorrespondingSupertype(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure boolean isSubtypeOf(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.IntersectionTypeKt kotlin.reflect.jvm.internal.impl.types.UnwrappedType intersectTypes(java.util.List&lt;? extends kotlin.reflect.jvm.internal.impl.types.UnwrappedType&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewKotlinTypeChecker kotlin.reflect.jvm.internal.impl.types.UnwrappedType transformToNewType(kotlin.reflect.jvm.internal.impl.types.UnwrappedType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedType kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope getMemberScope()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewKotlinTypeChecker kotlin.reflect.jvm.internal.impl.types.SimpleType transformToNewType(kotlin.reflect.jvm.internal.impl.types.SimpleType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext boolean isAllowedTypeVariable(kotlin.reflect.jvm.internal.impl.types.UnwrappedType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext.SupertypesPolicy kotlin.reflect.jvm.internal.impl.types.SimpleType transformType(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext boolean anySupertype$kotlin_reflection(kotlin.reflect.jvm.internal.impl.types.SimpleType, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.types.SimpleType,java.lang.Boolean&gt;, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.types.SimpleType,? extends kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext.SupertypesPolicy&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure boolean equalTypes(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.StrictEqualityTypeChecker boolean strictEqualTypes(kotlin.reflect.jvm.internal.impl.types.SimpleType, kotlin.reflect.jvm.internal.impl.types.SimpleType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.KotlinTypeChecker boolean equalTypes(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.StrictEqualityTypeChecker INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.KotlinTypeChecker.TypeConstructorEquality boolean equals(kotlin.reflect.jvm.internal.impl.types.TypeConstructor, kotlin.reflect.jvm.internal.impl.types.TypeConstructor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedureCallbacks boolean capture(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.TypeProjection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.KotlinTypeCheckerImpl kotlin.reflect.jvm.internal.impl.types.checker.KotlinTypeChecker withAxioms(kotlin.reflect.jvm.internal.impl.types.checker.KotlinTypeChecker.TypeConstructorEquality)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedTypeKt kotlin.reflect.jvm.internal.impl.types.SimpleType captureFromArguments(kotlin.reflect.jvm.internal.impl.types.SimpleType, kotlin.reflect.jvm.internal.impl.types.checker.CaptureStatus, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedType,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedureCallbacks boolean assertEqualTypeConstructors(kotlin.reflect.jvm.internal.impl.types.TypeConstructor, kotlin.reflect.jvm.internal.impl.types.TypeConstructor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.UtilsKt kotlin.reflect.jvm.internal.impl.types.KotlinType findCorrespondingSupertype(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedureCallbacks) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedType kotlin.reflect.jvm.internal.impl.types.UnwrappedType makeNullableAsSpecified(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedType kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedType makeNullableAsSpecified(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedType NewCapturedType(kotlin.reflect.jvm.internal.impl.types.checker.CaptureStatus, kotlin.reflect.jvm.internal.impl.types.checker.NewCapturedTypeConstructor, kotlin.reflect.jvm.internal.impl.types.UnwrappedType, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, boolean) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.KotlinTypeChecker boolean isSubtypeOf(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewKotlinTypeChecker java.util.List access$collectAllSupertypesWithGivenTypeConstructor(kotlin.reflect.jvm.internal.impl.types.checker.NewKotlinTypeChecker, kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckerContext, kotlin.reflect.jvm.internal.impl.types.SimpleType, kotlin.reflect.jvm.internal.impl.types.TypeConstructor) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.NewKotlinTypeChecker INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.types.checker.TypeCheckingProcedure boolean isSubtypeOf(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

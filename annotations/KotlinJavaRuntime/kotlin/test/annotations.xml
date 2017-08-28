@@ -1,0 +1,182 @@
+<root>
+    <item name='kotlin.test.Asserter.DefaultImpls void assertTrue(kotlin.test.Asserter, java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.AssertionsKt T assertFailsWith(kotlin.reflect.KClass&lt;T&gt;, java.lang.String, kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.CollectionAssertionsKt void shouldBeSet$default(kotlin.test.CollectionAssertionSession, java.util.Set, java.lang.String, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.CollectionAssertionsKt void shouldBe$default(kotlin.test.CollectionAssertionSession, java.lang.Iterable, java.lang.String, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.CollectionAssertionsKt void shouldBe(kotlin.test.CollectionAssertionSession&lt;T,C&gt;, java.lang.Iterable&lt;? extends T&gt;, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.DefaultAsserter void assertTrue(kotlin.jvm.functions.Function0&lt;java.lang.String&gt;, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.CollectionAssertionsKt void assert(C, kotlin.jvm.functions.Function1&lt;? super kotlin.test.CollectionAssertionSession&lt;E,C&gt;,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.Asserter.DefaultImpls void assertNotEquals(kotlin.test.Asserter, java.lang.String, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.Asserter.DefaultImpls void assertNull(kotlin.test.Asserter, java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.AssertionsKt java.lang.Throwable assertFails(java.lang.String, kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.AssertionsKt java.lang.Throwable assertFails(kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.CollectionAssertionsKt void shouldBeSet(kotlin.test.CollectionAssertionSession&lt;T,C&gt;, T...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.DefaultAsserter java.lang.Void fail(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.CollectionAssertionsKt void containsAll(kotlin.test.CollectionAssertionSession&lt;T,?&gt;, T...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.AssertionsKt java.lang.Throwable assertFails(java.lang.String, kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.CollectionAssertionsKt void elementAtShouldComply$default(kotlin.test.CollectionAssertionSession, int, java.lang.String, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.AssertionsKt java.lang.Void fail$default(java.lang.String, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.CollectionAssertionsKt void elementAtShouldBe$default(kotlin.test.CollectionAssertionSession, int, java.lang.Object, java.lang.String, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.CollectionAssertionsKt void shouldBeSet$default(kotlin.test.CollectionAssertionSession, java.util.Set, java.lang.String, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.AssertionsKt java.lang.Void fail(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.CollectionAssertionsKt void elementAtShouldComply(kotlin.test.CollectionAssertionSession&lt;T,C&gt;, int, java.lang.String, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.CollectionAssertionsKt void lastElementShouldBe$default(kotlin.test.CollectionAssertionSession, java.lang.Object, java.lang.String, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.CollectionAssertionsKt void shouldBeSet(kotlin.test.CollectionAssertionSession&lt;T,C&gt;, java.util.Set&lt;? extends T&gt;, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.CollectionAssertionsKt void sizeShouldBe$default(kotlin.test.CollectionAssertionSession, int, java.lang.String, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.AsserterLookupKt kotlin.test.Asserter lookup()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.CollectionAssertionsKt void containsAll(kotlin.test.CollectionAssertionSession&lt;T,?&gt;, T...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.AssertionsKt void assertFalse(java.lang.String, kotlin.jvm.functions.Function0&lt;java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.AssertionsKt void assertTrue(java.lang.String, kotlin.jvm.functions.Function0&lt;java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.Asserter.DefaultImpls void assertEquals(kotlin.test.Asserter, java.lang.String, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.CollectionAssertionsKt void shouldBeSet(kotlin.test.CollectionAssertionSession&lt;T,C&gt;, T...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.Asserter.DefaultImpls void assertTrue(kotlin.test.Asserter, kotlin.jvm.functions.Function0&lt;java.lang.String&gt;, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.Asserter java.lang.Void fail(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.AssertionsKt T assertFailsWith(kotlin.reflect.KClass&lt;T&gt;, java.lang.String, kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.AssertionsKt void expect(T, java.lang.String, kotlin.jvm.functions.Function0&lt;? extends T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.AssertionsKt void assertNotNull(T, java.lang.String, kotlin.jvm.functions.Function1&lt;? super T,? extends R&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.Asserter.DefaultImpls void assertNotNull(kotlin.test.Asserter, java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.AssertionsKt T assertFailsWith(kotlin.reflect.KClass&lt;T&gt;, kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.AssertionsKt T assertFailsWith(kotlin.reflect.KClass&lt;T&gt;, kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.CollectionAssertionsKt void lastElementShouldBe(kotlin.test.CollectionAssertionSession&lt;T,?&gt;, T, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.AssertionsKt void assertFalse$default(java.lang.String, kotlin.jvm.functions.Function0, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.AsserterLookupKt kotlin.test.Asserter lookupAsserter()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.CollectionAssertionsKt void shouldBeSet(kotlin.test.CollectionAssertionSession&lt;T,C&gt;, java.util.Set&lt;? extends T&gt;, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.CollectionAssertionSession C getCollection()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.Asserter void assertTrue(kotlin.jvm.functions.Function0&lt;java.lang.String&gt;, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.AssertionsKt kotlin.test.Asserter getAsserter()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.AssertionsKt void assertNotNull$default(java.lang.Object, java.lang.String, kotlin.jvm.functions.Function1, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.AssertionsKt void assertTrue$default(java.lang.String, kotlin.jvm.functions.Function0, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.CollectionAssertionsKt void elementAtShouldComply(kotlin.test.CollectionAssertionSession&lt;T,C&gt;, int, java.lang.String, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.AssertionsKt java.lang.Throwable assertFails(kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.CollectionAssertionsKt void sizeShouldBe(kotlin.test.CollectionAssertionSession&lt;?,C&gt;, int, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.CollectionAssertionsKt void shouldBe$default(kotlin.test.CollectionAssertionSession, java.lang.Iterable, java.lang.String, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.AssertionsKt T assertFailsWith(kotlin.reflect.KClass&lt;T&gt;, kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.CollectionAssertionsKt void shouldBe(kotlin.test.CollectionAssertionSession&lt;T,C&gt;, java.lang.Iterable&lt;? extends T&gt;, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.CollectionAssertionsKt void assert(C, kotlin.jvm.functions.Function1&lt;? super kotlin.test.CollectionAssertionSession&lt;E,C&gt;,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.AssertionsKt T assertFailsWith(kotlin.reflect.KClass&lt;T&gt;, java.lang.String, kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.CollectionAssertionSession CollectionAssertionSession(C) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.AssertionsKt void expect(T, kotlin.jvm.functions.Function0&lt;? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.CollectionAssertionsKt void elementAtShouldBe(kotlin.test.CollectionAssertionSession&lt;T,?&gt;, int, T, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.CollectionAssertionsKt void elementAtShouldComply$default(kotlin.test.CollectionAssertionSession, int, java.lang.String, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.test.UtilsKt java.lang.String messagePrefix(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

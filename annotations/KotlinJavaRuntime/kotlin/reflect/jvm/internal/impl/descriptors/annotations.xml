@@ -1,0 +1,890 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.SupertypeLoopChecker.EMPTY INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ConstructorDescriptor java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt; getTypeParameters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder&lt;D&gt; setHiddenForResolutionEverywhereBesideSupercalls()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorVisitor R visitModuleDeclaration(kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, D) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor.DefaultImpls R accept(kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorVisitor&lt;R,D&gt;, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.SourceElement kotlin.reflect.jvm.internal.impl.descriptors.SourceFile getContainingFile()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.PropertyAccessorDescriptor&gt; getAccessors()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor copy(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.name.Name, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FindClassInModuleKt kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor findClassAcrossModuleDependencies(kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.name.ClassId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.Visibilities INHERITED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor R accept(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorVisitor&lt;R,D&gt;, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorVisitor R visitTypeParameterDescriptor(kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor, D) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.Visibilities kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorWithVisibility findInvisibleMember(kotlin.reflect.jvm.internal.impl.resolve.scopes.receivers.ReceiverValue, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorWithVisibility, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorVisitor R visitPropertySetterDescriptor(kotlin.reflect.jvm.internal.impl.descriptors.PropertySetterDescriptor, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ConstUtil boolean canBeUsedForConstVal(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor copy(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.name.Name, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.Visibility kotlin.reflect.jvm.internal.impl.descriptors.Visibility normalize()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProviderImpl java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentDescriptor&gt; getPackageFragments(kotlin.reflect.jvm.internal.impl.name.FqName)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder&lt;D&gt; setSignatureChange()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder&lt;D&gt; setReturnType(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ModalityKt boolean isFinalClass(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder&lt;D&gt; setReturnType(kotlin.reflect.jvm.internal.impl.types.KotlinType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.Visibilities kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorWithVisibility findInvisibleMember(kotlin.reflect.jvm.internal.impl.resolve.scopes.receivers.ReceiverValue, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorWithVisibility, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorVisitor R visitTypeParameterDescriptor(kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProviderImpl java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentDescriptor&gt; getPackageFragments(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorVisitor R visitPropertySetterDescriptor(kotlin.reflect.jvm.internal.impl.descriptors.PropertySetterDescriptor, D) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor void setOverriddenDescriptors(java.util.Collection&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ClassKind ANNOTATION_CLASS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses.MockClassDescriptor kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations getAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses.MockClassDescriptor kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope.Empty getStaticScope()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.Visibility java.lang.Integer compareTo(kotlin.reflect.jvm.internal.impl.descriptors.Visibility) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.PropertyAccessorDescriptor kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor getCorrespondingProperty()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.Visibilities PRIVATE_TO_THIS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorVisitor R visitReceiverParameterDescriptor(kotlin.reflect.jvm.internal.impl.descriptors.ReceiverParameterDescriptor, D) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor getContainingDeclaration()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder&lt;D&gt; setVisibility(kotlin.reflect.jvm.internal.impl.descriptors.Visibility)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses.MockClassDescriptor java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.PackageViewDescriptor kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor getModule()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder&lt;D&gt; setModality(kotlin.reflect.jvm.internal.impl.descriptors.Modality)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope getUnsubstitutedInnerClassesScope()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.Visibility java.lang.String getDisplayName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder&lt;D&gt; setHiddenToOvercomeSignatureClash()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProviderImpl java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.name.FqName&gt; getSubPackagesOf(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.name.FqName&gt; getSubPackagesOf(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.Modality FINAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.SourceElement NO_SOURCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorVisitor R visitReceiverParameterDescriptor(kotlin.reflect.jvm.internal.impl.descriptors.ReceiverParameterDescriptor, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ClassKind INTERFACE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder&lt;D&gt; setPreserveSourceElement()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor java.util.Collection&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor&gt; getOverriddenDescriptors()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ClassConstructorDescriptor kotlin.reflect.jvm.internal.impl.descriptors.ClassConstructorDescriptor copy(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.Modality, kotlin.reflect.jvm.internal.impl.descriptors.Visibility, kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor.Kind, boolean) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses.MockClassDescriptor kotlin.reflect.jvm.internal.impl.types.ClassTypeConstructorImpl getTypeConstructor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.Visibilities INTERNAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder&lt;D&gt; setValueParameters(java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses.MockClassDescriptor java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt; getDeclaredTypeParameters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor&gt; getOverriddenDescriptors()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor getOriginal()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope getUnsubstitutedMemberScope()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FindClassInModuleKt kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor findNonGenericClassAcrossDependencies(kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.name.ClassId, kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.name.FqName&gt; getSubPackagesOf(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProviderImpl java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.name.FqName&gt; getSubPackagesOf(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProviderImpl java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.name.FqName&gt; getSubPackagesOf(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor access$getModule$p(kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope getMemberScope(kotlin.reflect.jvm.internal.impl.types.TypeSubstitution) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder&lt;D&gt; setAdditionalAnnotations(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor getOriginal()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.PackageViewDescriptor kotlin.reflect.jvm.internal.impl.name.FqName getFqName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ClassConstructorDescriptor kotlin.reflect.jvm.internal.impl.descriptors.ClassConstructorDescriptor copy(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.Modality, kotlin.reflect.jvm.internal.impl.descriptors.Visibility, kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor.Kind, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ReceiverParameterDescriptor kotlin.reflect.jvm.internal.impl.resolve.scopes.receivers.ReceiverValue getValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.Visibilities PROTECTED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ClassConstructorDescriptor kotlin.reflect.jvm.internal.impl.descriptors.ClassConstructorDescriptor substitute(kotlin.reflect.jvm.internal.impl.types.TypeSubstitutor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.SupertypeLoopChecker.EMPTY java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.types.KotlinType&gt; findLoopsInSupertypesAndDisconnect(kotlin.reflect.jvm.internal.impl.types.TypeConstructor, java.util.Collection&lt;? extends kotlin.reflect.jvm.internal.impl.types.KotlinType&gt;, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.types.TypeConstructor,? extends java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.types.KotlinType&gt;&gt;, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.types.KotlinType,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor substitute(kotlin.reflect.jvm.internal.impl.types.TypeSubstitutor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.Visibility Visibility(java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorVisitor R visitPackageViewDescriptor(kotlin.reflect.jvm.internal.impl.descriptors.PackageViewDescriptor, D) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder&lt;D&gt; setName(kotlin.reflect.jvm.internal.impl.name.Name) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor access$getModule$p(kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder&lt;D&gt; setKind(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor.Kind) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor kotlin.reflect.jvm.internal.impl.types.Variance getVariance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ConstUtilKt boolean canBeUsedForConstVal(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.DescriptorUtilKt kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor resolveClassByFqName(kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.Modality ABSTRACT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.Visibilities boolean isPrivate(kotlin.reflect.jvm.internal.impl.descriptors.Visibility) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.Modality SEALED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder&lt;D&gt; setOwner(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor&gt; getValueParameters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ClassConstructorDescriptor kotlin.reflect.jvm.internal.impl.descriptors.ClassConstructorDescriptor copy(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.Modality, kotlin.reflect.jvm.internal.impl.descriptors.Visibility, kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor.Kind, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt; getDeclaredTypeParameters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor kotlin.reflect.jvm.internal.impl.descriptors.PackageViewDescriptor getPackage(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.SupertypeLoopChecker java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.types.KotlinType&gt; findLoopsInSupertypesAndDisconnect(kotlin.reflect.jvm.internal.impl.types.TypeConstructor, java.util.Collection&lt;? extends kotlin.reflect.jvm.internal.impl.types.KotlinType&gt;, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.types.TypeConstructor,? extends java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.types.KotlinType&gt;&gt;, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.types.KotlinType,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor getOriginal()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorVisitor R visitPackageViewDescriptor(kotlin.reflect.jvm.internal.impl.descriptors.PackageViewDescriptor, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.Modality.Companion kotlin.reflect.jvm.internal.impl.descriptors.Modality convertFromFlags(boolean, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor java.util.Collection&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor&gt; getOverriddenDescriptors()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorNonRoot kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor getContainingDeclaration()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder&lt;D&gt; setExtensionReceiverType(kotlin.reflect.jvm.internal.impl.types.KotlinType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.SupertypeLoopChecker java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.types.KotlinType&gt; findLoopsInSupertypesAndDisconnect(kotlin.reflect.jvm.internal.impl.types.TypeConstructor, java.util.Collection&lt;? extends kotlin.reflect.jvm.internal.impl.types.KotlinType&gt;, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.types.TypeConstructor,? extends java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.types.KotlinType&gt;&gt;, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.types.KotlinType,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.Visibilities INVISIBLE_FAKE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor kotlin.reflect.jvm.internal.impl.descriptors.PackageViewDescriptor getPackage(kotlin.reflect.jvm.internal.impl.name.FqName)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.DescriptorUtilKt kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor resolveClassByFqName(kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.Visibilities DEFAULT_VISIBILITY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.name.FqName&gt; getSubPackagesOf(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.Visibilities PRIVATE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ClassKind ENUM_ENTRY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor.Kind FAKE_OVERRIDE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.Visibility java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ClassConstructorDescriptor kotlin.reflect.jvm.internal.impl.descriptors.ClassConstructorDescriptor copy(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.Modality, kotlin.reflect.jvm.internal.impl.descriptors.Visibility, kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor.Kind, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder&lt;D&gt; setModality(kotlin.reflect.jvm.internal.impl.descriptors.Modality) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.Substitutable T substitute(kotlin.reflect.jvm.internal.impl.types.TypeSubstitutor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder&lt;D&gt; setSubstitution(kotlin.reflect.jvm.internal.impl.types.TypeSubstitution)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.PossiblyInnerType kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptorWithTypeParameters getClassifierDescriptor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.Visibilities LOCAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.DescriptorUtilKt kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor resolveClassByFqName(kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor getOriginal()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor kotlin.reflect.jvm.internal.impl.descriptors.ReceiverParameterDescriptor getThisAsReceiverParameter()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorVisitor R visitModuleDeclaration(kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor.DefaultImpls R accept(kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorVisitor&lt;R,D&gt;, D) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor kotlin.reflect.jvm.internal.impl.types.TypeConstructor getTypeConstructor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FindClassInModuleKt kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor findClassAcrossModuleDependencies(kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.name.ClassId) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor java.util.List&lt;kotlin.reflect.jvm.internal.impl.types.KotlinType&gt; getUpperBounds()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt; getTypeParameters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.SourceFile NO_SOURCE_FILE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder&lt;D&gt; setValueParameters(java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses.MockClassDescriptor kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope getStaticScope()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FindClassInModuleKt kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor findNonGenericClassAcrossDependencies(kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.name.ClassId, kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor copy(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.name.Name, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor getContainingDeclaration()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses kotlin.reflect.jvm.internal.impl.storage.StorageManager access$getStorageManager$p(kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.PackageViewDescriptor kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope getMemberScope()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ClassKind ENUM_CLASS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ClassKind CLASS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getClass(kotlin.reflect.jvm.internal.impl.name.ClassId, java.util.List&lt;java.lang.Integer&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor getOriginal()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses.MockClassDescriptor kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope getUnsubstitutedMemberScope()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterUtilsKt java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt; computeConstructorTypeParameters(kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptorWithTypeParameters) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor.Capability Capability(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor kotlin.reflect.jvm.internal.impl.descriptors.ClassKind getKind()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getClass(kotlin.reflect.jvm.internal.impl.name.ClassId, java.util.List&lt;java.lang.Integer&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor&gt; newCopyBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses.MockClassDescriptor kotlin.reflect.jvm.internal.impl.descriptors.ClassKind getKind()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses.MockClassDescriptor kotlin.reflect.jvm.internal.impl.descriptors.Modality getModality()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder&lt;D&gt; setTypeParameters(java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope getMemberScope(java.util.List&lt;? extends kotlin.reflect.jvm.internal.impl.types.TypeProjection&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorVisitor R visitPropertyDescriptor(kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses.MockClassDescriptor kotlin.reflect.jvm.internal.impl.types.TypeConstructor getTypeConstructor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor copy(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.Modality, kotlin.reflect.jvm.internal.impl.descriptors.Visibility, kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor.Kind, boolean) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.PossiblyInnerType PossiblyInnerType(kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptorWithTypeParameters, java.util.List&lt;? extends kotlin.reflect.jvm.internal.impl.types.TypeProjection&gt;, kotlin.reflect.jvm.internal.impl.descriptors.PossiblyInnerType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor.Kind DECLARATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder&lt;D&gt; setTypeParameters(java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterUtilsKt java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor&gt; computeConstructorTypeParameters(kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptorWithTypeParameters)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.SupertypeLoopChecker java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.types.KotlinType&gt; findLoopsInSupertypesAndDisconnect(kotlin.reflect.jvm.internal.impl.types.TypeConstructor, java.util.Collection&lt;? extends kotlin.reflect.jvm.internal.impl.types.KotlinType&gt;, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.types.TypeConstructor,? extends java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.types.KotlinType&gt;&gt;, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.types.KotlinType,kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.PackagePartProvider java.util.List&lt;java.lang.String&gt; findPackageParts(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor.Kind SYNTHESIZED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorVisitor R visitPropertyDescriptor(kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor, D) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder&lt;D&gt; setCopyOverrides(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor.Kind DELEGATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.PackageViewDescriptor java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentDescriptor&gt; getFragments()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor.Capability java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses kotlin.reflect.jvm.internal.impl.storage.MemoizedFunctionToNotNull access$getPackageFragments$p(kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder&lt;D&gt; setSubstitution(kotlin.reflect.jvm.internal.impl.types.TypeSubstitution) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorVisitor R visitPackageFragmentDescriptor(kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentDescriptor, D) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ClassKind OBJECT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.ClassConstructorDescriptor&gt; getConstructors()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getOriginal()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.Named kotlin.reflect.jvm.internal.impl.name.Name getName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses NotFoundClasses(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder&lt;D&gt; setDispatchReceiverParameter(kotlin.reflect.jvm.internal.impl.descriptors.ReceiverParameterDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.Visibilities java.lang.Integer compare(kotlin.reflect.jvm.internal.impl.descriptors.Visibility, kotlin.reflect.jvm.internal.impl.descriptors.Visibility) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses.MockClassDescriptor java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.ClassConstructorDescriptor&gt; getConstructors()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses.MockClassDescriptor MockClassDescriptor(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.name.Name, boolean, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.PossiblyInnerType java.util.List&lt;kotlin.reflect.jvm.internal.impl.types.TypeProjection&gt; getArguments()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.SupertypeLoopChecker java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.types.KotlinType&gt; findLoopsInSupertypesAndDisconnect(kotlin.reflect.jvm.internal.impl.types.TypeConstructor, java.util.Collection&lt;? extends kotlin.reflect.jvm.internal.impl.types.KotlinType&gt;, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.types.TypeConstructor,? extends java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.types.KotlinType&gt;&gt;, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.types.KotlinType,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FindClassInModuleKt kotlin.reflect.jvm.internal.impl.descriptors.TypeAliasDescriptor findTypeAliasAcrossModuleDependencies(kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.name.ClassId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.Visibility boolean isVisible(kotlin.reflect.jvm.internal.impl.resolve.scopes.receivers.ReceiverValue, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorWithVisibility, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.Visibilities ALWAYS_SUITABLE_RECEIVER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses kotlin.reflect.jvm.internal.impl.storage.StorageManager access$getStorageManager$p(kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getClass(kotlin.reflect.jvm.internal.impl.name.ClassId, java.util.List&lt;java.lang.Integer&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorVisitor R visitPackageFragmentDescriptor(kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentDescriptor, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentDescriptor&gt; getPackageFragments(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor kotlin.reflect.jvm.internal.impl.descriptors.Modality getModality()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses NotFoundClasses(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope getMemberScope(java.util.List&lt;? extends kotlin.reflect.jvm.internal.impl.types.TypeProjection&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterUtilsKt kotlin.reflect.jvm.internal.impl.descriptors.PossiblyInnerType buildPossiblyInnerType(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.PossiblyInnerType PossiblyInnerType(kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptorWithTypeParameters, java.util.List&lt;? extends kotlin.reflect.jvm.internal.impl.types.TypeProjection&gt;, kotlin.reflect.jvm.internal.impl.descriptors.PossiblyInnerType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ValueDescriptor kotlin.reflect.jvm.internal.impl.types.KotlinType getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ConstructorDescriptor kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptorWithTypeParameters getContainingDeclaration()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor boolean shouldSeeInternalsOf(kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.Visibilities java.lang.Integer compare(kotlin.reflect.jvm.internal.impl.descriptors.Visibility, kotlin.reflect.jvm.internal.impl.descriptors.Visibility) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FindClassInModuleKt kotlin.reflect.jvm.internal.impl.descriptors.TypeAliasDescriptor findTypeAliasAcrossModuleDependencies(kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.name.ClassId) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.SupertypeLoopChecker java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.types.KotlinType&gt; findLoopsInSupertypesAndDisconnect(kotlin.reflect.jvm.internal.impl.types.TypeConstructor, java.util.Collection&lt;? extends kotlin.reflect.jvm.internal.impl.types.KotlinType&gt;, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.types.TypeConstructor,? extends java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.types.KotlinType&gt;&gt;, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.types.KotlinType,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder&lt;D&gt; setKind(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor.Kind)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.Visibilities boolean isVisibleIgnoringReceiver(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorWithVisibility, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder&lt;D&gt; setName(kotlin.reflect.jvm.internal.impl.name.Name)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope getMemberScope(kotlin.reflect.jvm.internal.impl.types.TypeSubstitution)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.Visibilities UNKNOWN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.Visibilities FALSE_IF_PROTECTED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.Modality Companion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses.MockClassDescriptor MockClassDescriptor(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.name.Name, boolean, int) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.name.FqName&gt; getSubPackagesOf(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.PackageViewDescriptor.DefaultImpls boolean isEmpty(kotlin.reflect.jvm.internal.impl.descriptors.PackageViewDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorVisitor R visitClassDescriptor(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder&lt;D&gt; setAdditionalAnnotations(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor kotlin.reflect.jvm.internal.impl.types.SimpleType getDefaultType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FindClassInModuleKt kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor findNonGenericClassAcrossDependencies(kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.name.ClassId, kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor.Kind getKind()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.name.FqName&gt; getSubPackagesOf(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.SupertypeLoopChecker.EMPTY java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.types.KotlinType&gt; findLoopsInSupertypesAndDisconnect(kotlin.reflect.jvm.internal.impl.types.TypeConstructor, java.util.Collection&lt;? extends kotlin.reflect.jvm.internal.impl.types.KotlinType&gt;, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.types.TypeConstructor,? extends java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.types.KotlinType&gt;&gt;, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.types.KotlinType,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ReceiverParameterDescriptor kotlin.reflect.jvm.internal.impl.descriptors.ReceiverParameterDescriptor substitute(kotlin.reflect.jvm.internal.impl.types.TypeSubstitutor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor&gt; newCopyBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorVisitor R visitFunctionDescriptor(kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor, D) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope getStaticScope()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder&lt;D&gt; setOwner(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses.MockClassDescriptor MockClassDescriptor(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.name.Name, boolean, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.name.FqName&gt; getSubPackagesOf(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ValueDescriptor kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor getContainingDeclaration()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor java.util.Collection&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor&gt; getOverriddenDescriptors()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorVisitor R visitClassDescriptor(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, D) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder&lt;D&gt; setDropOriginalInContainingParts()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor copy(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.Modality, kotlin.reflect.jvm.internal.impl.descriptors.Visibility, kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor.Kind, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FindClassInModuleKt kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor findNonGenericClassAcrossDependencies(kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.name.ClassId, kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentDescriptor kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope getMemberScope()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.Visibility boolean isVisible(kotlin.reflect.jvm.internal.impl.resolve.scopes.receivers.ReceiverValue, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorWithVisibility, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.SupertypeLoopChecker.EMPTY java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.types.KotlinType&gt; findLoopsInSupertypesAndDisconnect(kotlin.reflect.jvm.internal.impl.types.TypeConstructor, java.util.Collection&lt;? extends kotlin.reflect.jvm.internal.impl.types.KotlinType&gt;, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.types.TypeConstructor,? extends java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.types.KotlinType&gt;&gt;, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.types.KotlinType,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.Visibilities boolean isVisibleIgnoringReceiver(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorWithVisibility, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.MemberDescriptor kotlin.reflect.jvm.internal.impl.descriptors.Modality getModality()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor java.util.Collection&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor&gt; getOverriddenDescriptors()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorVisitor R visitFunctionDescriptor(kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor getOriginal()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor getOriginal()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.Visibilities boolean inSameFile(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorVisitor R visitTypeAliasDescriptor(kotlin.reflect.jvm.internal.impl.descriptors.TypeAliasDescriptor, D) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorVisitor R visitValueParameterDescriptor(kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.Modality OPEN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor substitute(kotlin.reflect.jvm.internal.impl.types.TypeSubstitutor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor kotlin.reflect.jvm.internal.impl.descriptors.Visibility getVisibility()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorVisitor R visitPropertyGetterDescriptor(kotlin.reflect.jvm.internal.impl.descriptors.PropertyGetterDescriptor, D) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProvider java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentDescriptor&gt; getPackageFragments(kotlin.reflect.jvm.internal.impl.name.FqName)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor getContainingDeclaration()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor copy(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.Modality, kotlin.reflect.jvm.internal.impl.descriptors.Visibility, kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor.Kind, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentProviderImpl PackageFragmentProviderImpl(java.util.Collection&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentDescriptor&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentDescriptor kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor getContainingDeclaration()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.PackageFragmentDescriptor kotlin.reflect.jvm.internal.impl.name.FqName getFqName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorVisitor R visitConstructorDescriptor(kotlin.reflect.jvm.internal.impl.descriptors.ConstructorDescriptor, D) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor.CopyBuilder&lt;D&gt; setVisibility(kotlin.reflect.jvm.internal.impl.descriptors.Visibility) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.PackagePartProvider java.util.List&lt;java.lang.String&gt; findPackageParts(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.Visibilities PUBLIC'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ConstructorDescriptor kotlin.reflect.jvm.internal.impl.descriptors.ConstructorDescriptor substitute(kotlin.reflect.jvm.internal.impl.types.TypeSubstitutor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.MemberDescriptor kotlin.reflect.jvm.internal.impl.descriptors.Visibility getVisibility()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.SupertypeLoopChecker.EMPTY java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.types.KotlinType&gt; findLoopsInSupertypesAndDisconnect(kotlin.reflect.jvm.internal.impl.types.TypeConstructor, java.util.Collection&lt;? extends kotlin.reflect.jvm.internal.impl.types.KotlinType&gt;, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.types.TypeConstructor,? extends java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.types.KotlinType&gt;&gt;, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.types.KotlinType,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorWithVisibility kotlin.reflect.jvm.internal.impl.descriptors.Visibility getVisibility()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptor kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptor getOriginal()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.Visibilities boolean inSameFile(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorVisitor R visitTypeAliasDescriptor(kotlin.reflect.jvm.internal.impl.descriptors.TypeAliasDescriptor, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorVisitor R visitValueParameterDescriptor(kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor, D) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ConstUtil INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses.MockClassDescriptor kotlin.reflect.jvm.internal.impl.resolve.scopes.MemberScope.Empty getUnsubstitutedMemberScope()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorWithSource kotlin.reflect.jvm.internal.impl.descriptors.SourceElement getSource()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses kotlin.reflect.jvm.internal.impl.storage.MemoizedFunctionToNotNull access$getPackageFragments$p(kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorVisitor R visitPropertyGetterDescriptor(kotlin.reflect.jvm.internal.impl.descriptors.PropertyGetterDescriptor, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.NotFoundClasses.MockClassDescriptor kotlin.reflect.jvm.internal.impl.descriptors.Visibility getVisibility()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor copy(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.Modality, kotlin.reflect.jvm.internal.impl.descriptors.Visibility, kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor.Kind, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptor kotlin.reflect.jvm.internal.impl.types.TypeConstructor getTypeConstructor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.ClassConstructorDescriptor kotlin.reflect.jvm.internal.impl.descriptors.ClassConstructorDescriptor getOriginal()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptorVisitor R visitConstructorDescriptor(kotlin.reflect.jvm.internal.impl.descriptors.ConstructorDescriptor, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.SupertypeLoopChecker.EMPTY java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.types.KotlinType&gt; findLoopsInSupertypesAndDisconnect(kotlin.reflect.jvm.internal.impl.types.TypeConstructor, java.util.Collection&lt;? extends kotlin.reflect.jvm.internal.impl.types.KotlinType&gt;, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.types.TypeConstructor,? extends java.lang.Iterable&lt;? extends kotlin.reflect.jvm.internal.impl.types.KotlinType&gt;&gt;, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.types.KotlinType,kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

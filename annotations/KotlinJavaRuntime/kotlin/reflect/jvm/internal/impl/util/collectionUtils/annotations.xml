@@ -1,0 +1,5 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.util.collectionUtils.ScopeUtilsKt java.util.Collection&lt;T&gt; concat(java.util.Collection&lt;? extends T&gt;, java.util.Collection&lt;? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

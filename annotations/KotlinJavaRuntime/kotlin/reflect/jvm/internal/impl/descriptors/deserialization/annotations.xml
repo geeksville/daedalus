@@ -1,0 +1,101 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor&gt; getAllContributedClassesIfPossible(kotlin.reflect.jvm.internal.impl.name.FqName)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider.None java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor&gt; getFunctions(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor&gt; getAllContributedClassesIfPossible(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor&gt; getFunctions(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory boolean shouldCreateClass(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.reflect.jvm.internal.impl.name.Name) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor&gt; getFunctions(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.ClassConstructorDescriptor&gt; getConstructors(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter boolean isFunctionAvailable(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider.None java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt; getFunctionsNames(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider.None java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.types.KotlinType&gt; getSupertypes(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter.NoPlatformDependent boolean isFunctionAvailable(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilterKt kotlin.reflect.jvm.internal.impl.name.FqName getPLATFORM_DEPENDENT_ANNOTATION_FQ_NAME()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter.All boolean isFunctionAvailable(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider.None INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt; getFunctionsNames(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider.None java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor&gt; getFunctions(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.ClassConstructorDescriptor&gt; getConstructors(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory boolean shouldCreateClass(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.reflect.jvm.internal.impl.name.Name) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter.All INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider.None java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.ClassConstructorDescriptor&gt; getConstructors(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor&gt; getFunctions(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.types.KotlinType&gt; getSupertypes(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider.None java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.types.KotlinType&gt; getSupertypes(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter.NoPlatformDependent INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider.None java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt; getFunctionsNames(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider.None java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.ClassConstructorDescriptor&gt; getConstructors(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider.None java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor&gt; getFunctions(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.types.KotlinType&gt; getSupertypes(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.deserialization.ClassDescriptorFactory kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor createClass(kotlin.reflect.jvm.internal.impl.name.ClassId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.deserialization.AdditionalClassPartsProvider java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt; getFunctionsNames(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter boolean isFunctionAvailable(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter.NoPlatformDependent boolean isFunctionAvailable(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.deserialization.PlatformDependentDeclarationFilter.All boolean isFunctionAvailable(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

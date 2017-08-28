@@ -1,0 +1,182 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.DFS java.lang.Boolean ifAny(java.util.Collection&lt;N&gt;, kotlin.reflect.jvm.internal.impl.utils.DFS.Neighbors&lt;N&gt;, kotlin.jvm.functions.Function1&lt;N,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.SmartSet kotlin.reflect.jvm.internal.impl.utils.SmartSet&lt;T&gt; create()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.ExceptionUtilsKt java.lang.RuntimeException rethrow(java.lang.Throwable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.SmartSet.Companion int access$getARRAY_THRESHOLD$p(kotlin.reflect.jvm.internal.impl.utils.SmartSet.Companion) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.DFS.CollectingNodeHandler result'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.DFS.NodeHandler void afterChildren(N) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.CollectionsKt java.util.HashSet&lt;E&gt; newHashSetWithExpectedSize(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.SmartSet.Companion kotlin.reflect.jvm.internal.impl.utils.SmartSet&lt;T&gt; create(java.util.Collection&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.CollectionsKt java.util.Map&lt;K,java.lang.Integer&gt; mapToIndex(java.lang.Iterable&lt;? extends K&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.DFS R dfs(java.util.Collection&lt;N&gt;, kotlin.reflect.jvm.internal.impl.utils.DFS.Neighbors&lt;N&gt;, kotlin.reflect.jvm.internal.impl.utils.DFS.Visited&lt;N&gt;, kotlin.reflect.jvm.internal.impl.utils.DFS.NodeHandler&lt;N,R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.DFS.Neighbors java.lang.Iterable&lt;? extends N&gt; getNeighbors(N) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.DFS.AbstractNodeHandler boolean beforeChildren(N) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.DFS.CollectingNodeHandler C result()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.WrappedValues java.lang.Object escapeThrowable(java.lang.Throwable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.SmartSet.Companion kotlin.reflect.jvm.internal.impl.utils.SmartSet&lt;T&gt; create()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.StringsKt java.lang.String join(java.lang.Iterable&lt;? extends java.lang.Object&gt;, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.CollectionsKt java.util.Map&lt;K,java.lang.Integer&gt; mapToIndex(java.lang.Iterable&lt;? extends K&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.WrappedValues java.lang.Object escapeThrowable(java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.CollectionsKt java.util.HashMap&lt;K,V&gt; newHashMapWithExpectedSize(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.DFS java.lang.Boolean ifAny(java.util.Collection&lt;N&gt;, kotlin.reflect.jvm.internal.impl.utils.DFS.Neighbors&lt;N&gt;, kotlin.jvm.functions.Function1&lt;N,java.lang.Boolean&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.FunctionsKt kotlin.jvm.functions.Function2&lt;java.lang.Object,java.lang.Object,kotlin.Unit&gt; getDO_NOTHING_2()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.StringsKt java.lang.String join(java.lang.Iterable&lt;? extends java.lang.Object&gt;, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.CollectionsKt java.util.List&lt;T&gt; compact(java.util.ArrayList&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.WrappedValues V unescapeExceptionOrNull(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.SmartSet Companion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.DFS.NodeHandler boolean beforeChildren(N) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.DFS R dfs(java.util.Collection&lt;N&gt;, kotlin.reflect.jvm.internal.impl.utils.DFS.Neighbors&lt;N&gt;, kotlin.reflect.jvm.internal.impl.utils.DFS.Visited&lt;N&gt;, kotlin.reflect.jvm.internal.impl.utils.DFS.NodeHandler&lt;N,R&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.SmartSet java.util.Iterator&lt;T&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.StringsKt java.lang.String join(java.lang.Iterable&lt;? extends java.lang.Object&gt;, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.CollectionsKt java.util.List&lt;T&gt; compact(java.util.ArrayList&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.DFS.CollectingNodeHandler CollectingNodeHandler(C) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.DFS.CollectingNodeHandler java.lang.Object result()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.DFS R dfs(java.util.Collection&lt;N&gt;, kotlin.reflect.jvm.internal.impl.utils.DFS.Neighbors&lt;N&gt;, kotlin.reflect.jvm.internal.impl.utils.DFS.NodeHandler&lt;N,R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.CollectionsKt java.util.Map&lt;K,V&gt; keysToMapExceptNulls(java.lang.Iterable&lt;? extends K&gt;, kotlin.jvm.functions.Function1&lt;? super K,? extends V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.SmartList T[] toArray(T[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.CollectionsKt java.util.Map&lt;K,V&gt; keysToMapExceptNulls(java.lang.Iterable&lt;? extends K&gt;, kotlin.jvm.functions.Function1&lt;? super K,? extends V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.SmartList T[] toArray(T[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.FunctionsKt kotlin.jvm.functions.Function1&lt;T,java.lang.Boolean&gt; alwaysTrue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.CollectionsKt java.util.Map&lt;K,V&gt; keysToMapExceptNulls(java.lang.Iterable&lt;? extends K&gt;, kotlin.jvm.functions.Function1&lt;? super K,? extends V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.DFS.AbstractNodeHandler void afterChildren(N) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.DFS R dfs(java.util.Collection&lt;N&gt;, kotlin.reflect.jvm.internal.impl.utils.DFS.Neighbors&lt;N&gt;, kotlin.reflect.jvm.internal.impl.utils.DFS.Visited&lt;N&gt;, kotlin.reflect.jvm.internal.impl.utils.DFS.NodeHandler&lt;N,R&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.DFS R dfs(java.util.Collection&lt;N&gt;, kotlin.reflect.jvm.internal.impl.utils.DFS.Neighbors&lt;N&gt;, kotlin.reflect.jvm.internal.impl.utils.DFS.NodeHandler&lt;N,R&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.SmartSet.Companion kotlin.reflect.jvm.internal.impl.utils.SmartSet&lt;T&gt; create(java.util.Collection&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.DFS.VisitedWithSet VisitedWithSet(java.util.Set&lt;N&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.DFS.Neighbors java.lang.Iterable&lt;? extends N&gt; getNeighbors(N)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.DFS java.lang.Boolean ifAny(java.util.Collection&lt;N&gt;, kotlin.reflect.jvm.internal.impl.utils.DFS.Neighbors&lt;N&gt;, kotlin.jvm.functions.Function1&lt;N,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.FunctionsKt kotlin.jvm.functions.Function3&lt;java.lang.Object,java.lang.Object,java.lang.Object,kotlin.Unit&gt; getDO_NOTHING_3()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.SmartList java.util.Iterator&lt;E&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.WrappedValues java.lang.Object escapeNull(V)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.WrappedValues V unescapeNull(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.ExceptionUtilsKt java.lang.RuntimeException rethrow(java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.CollectionsKt void addIfNotNull(java.util.Collection&lt;T&gt;, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.DFS R dfs(java.util.Collection&lt;N&gt;, kotlin.reflect.jvm.internal.impl.utils.DFS.Neighbors&lt;N&gt;, kotlin.reflect.jvm.internal.impl.utils.DFS.Visited&lt;N&gt;, kotlin.reflect.jvm.internal.impl.utils.DFS.NodeHandler&lt;N,R&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.DFS R dfs(java.util.Collection&lt;N&gt;, kotlin.reflect.jvm.internal.impl.utils.DFS.Neighbors&lt;N&gt;, kotlin.reflect.jvm.internal.impl.utils.DFS.NodeHandler&lt;N,R&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.utils.ExceptionUtilsKt boolean isProcessCanceledException(java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

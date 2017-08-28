@@ -1,0 +1,230 @@
+<root>
+    <item name='kotlin.reflect.full.KClasses.allSupertypes.2 boolean beforeChildren(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClassifiers kotlin.reflect.KType createType$default(kotlin.reflect.KClassifier, java.util.List, boolean, java.util.List, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KTypes kotlin.reflect.KType withNullability(kotlin.reflect.KType, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses java.util.Collection&lt;kotlin.reflect.KFunction&lt;?&gt;&gt; getDeclaredFunctions(kotlin.reflect.KClass&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses java.util.Collection&lt;kotlin.reflect.KFunction&lt;?&gt;&gt; getDeclaredMemberExtensionFunctions(kotlin.reflect.KClass&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses java.util.Collection&lt;kotlin.reflect.KFunction&lt;?&gt;&gt; getMemberFunctions(kotlin.reflect.KClass&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses java.util.Collection&lt;kotlin.reflect.KProperty1&lt;T,?&gt;&gt; getMemberProperties(kotlin.reflect.KClass&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClassifiers kotlin.reflect.KType createType(kotlin.reflect.KClassifier, java.util.List&lt;kotlin.reflect.KTypeProjection&gt;, boolean, java.util.List&lt;? extends java.lang.annotation.Annotation&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KCallables kotlin.reflect.KParameter getInstanceParameter(kotlin.reflect.KCallable&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KCallables kotlin.reflect.KParameter findParameterByName(kotlin.reflect.KCallable&lt;?&gt;, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses java.util.Collection&lt;kotlin.reflect.KFunction&lt;?&gt;&gt; getFunctions(kotlin.reflect.KClass&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KProperties java.lang.Object getExtensionDelegate(kotlin.reflect.KProperty1&lt;?,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses kotlin.reflect.KClass&lt;?&gt; getCompanionObject(kotlin.reflect.KClass&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses java.util.Collection&lt;kotlin.reflect.KFunction&lt;?&gt;&gt; getDeclaredMemberExtensionFunctions(kotlin.reflect.KClass&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses java.util.Collection&lt;kotlin.reflect.KFunction&lt;?&gt;&gt; getStaticFunctions(kotlin.reflect.KClass&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses java.util.Collection&lt;kotlin.reflect.KClass&lt;?&gt;&gt; getAllSuperclasses(kotlin.reflect.KClass&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClassifiers kotlin.reflect.KType createType$default(kotlin.reflect.KClassifier, java.util.List, boolean, java.util.List, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses java.util.Collection&lt;kotlin.reflect.KFunction&lt;?&gt;&gt; getFunctions(kotlin.reflect.KClass&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses T createInstance(kotlin.reflect.KClass&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses.allSupertypes.2 boolean beforeChildren(kotlin.reflect.KType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses java.util.Collection&lt;kotlin.reflect.KFunction&lt;?&gt;&gt; getMemberExtensionFunctions(kotlin.reflect.KClass&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses java.util.Collection&lt;kotlin.reflect.KFunction&lt;?&gt;&gt; getStaticFunctions(kotlin.reflect.KClass&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses java.util.Collection&lt;kotlin.reflect.KProperty1&lt;T,?&gt;&gt; getMemberProperties(kotlin.reflect.KClass&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KProperties java.lang.Object getExtensionDelegate(kotlin.reflect.KProperty2&lt;D,?,?&gt;, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses java.util.Collection&lt;kotlin.reflect.KCallable&lt;?&gt;&gt; getDeclaredMembers(kotlin.reflect.KClass&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses java.util.Collection&lt;kotlin.reflect.KClass&lt;?&gt;&gt; getAllSuperclasses(kotlin.reflect.KClass&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClassifiers.WhenMappings $EnumSwitchMapping$0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses T createInstance(kotlin.reflect.KClass&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.IllegalPropertyDelegateAccessException IllegalPropertyDelegateAccessException(java.lang.IllegalAccessException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses java.util.Collection&lt;kotlin.reflect.KProperty2&lt;T,?,?&gt;&gt; getMemberExtensionProperties(kotlin.reflect.KClass&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.IllegalCallableAccessException IllegalCallableAccessException(java.lang.IllegalAccessException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses java.util.Collection&lt;kotlin.reflect.KFunction&lt;?&gt;&gt; getMemberExtensionFunctions(kotlin.reflect.KClass&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses java.util.Collection&lt;kotlin.reflect.KProperty2&lt;T,?,?&gt;&gt; getDeclaredMemberExtensionProperties(kotlin.reflect.KClass&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses boolean isSubclassOf(kotlin.reflect.KClass&lt;?&gt;, kotlin.reflect.KClass&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClassifiers kotlin.reflect.KType createType(kotlin.reflect.KClassifier, java.util.List&lt;kotlin.reflect.KTypeProjection&gt;, boolean, java.util.List&lt;? extends java.lang.annotation.Annotation&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClassifiers kotlin.reflect.KType getStarProjectedType(kotlin.reflect.KClassifier) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses T safeCast(kotlin.reflect.KClass&lt;T&gt;, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses java.util.Collection&lt;kotlin.reflect.KProperty2&lt;T,?,?&gt;&gt; getMemberExtensionProperties(kotlin.reflect.KClass&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClassifiers kotlin.reflect.KType createType$default(kotlin.reflect.KClassifier, java.util.List, boolean, java.util.List, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses java.util.Collection&lt;kotlin.reflect.KFunction&lt;?&gt;&gt; getDeclaredFunctions(kotlin.reflect.KClass&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClassifiers kotlin.reflect.KType getStarProjectedType(kotlin.reflect.KClassifier)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses java.util.Collection&lt;kotlin.reflect.KType&gt; getAllSupertypes(kotlin.reflect.KClass&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses java.util.Collection&lt;kotlin.reflect.KProperty1&lt;T,?&gt;&gt; getDeclaredMemberProperties(kotlin.reflect.KClass&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses java.util.Collection&lt;kotlin.reflect.KCallable&lt;?&gt;&gt; getDeclaredMembers(kotlin.reflect.KClass&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses boolean isSuperclassOf(kotlin.reflect.KClass&lt;?&gt;, kotlin.reflect.KClass&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses java.util.Collection&lt;kotlin.reflect.KProperty0&lt;?&gt;&gt; getStaticProperties(kotlin.reflect.KClass&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses boolean isSubclassOf(kotlin.reflect.KClass&lt;?&gt;, kotlin.reflect.KClass&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KCallables java.util.List&lt;kotlin.reflect.KParameter&gt; getValueParameters(kotlin.reflect.KCallable&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses kotlin.reflect.KFunction&lt;T&gt; getPrimaryConstructor(kotlin.reflect.KClass&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClassifiers kotlin.reflect.KType createType(kotlin.reflect.KClassifier, java.util.List&lt;kotlin.reflect.KTypeProjection&gt;, boolean, java.util.List&lt;? extends java.lang.annotation.Annotation&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KCallables java.util.List&lt;kotlin.reflect.KParameter&gt; getValueParameters(kotlin.reflect.KCallable&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses java.util.Collection&lt;kotlin.reflect.KProperty2&lt;T,?,?&gt;&gt; getDeclaredMemberExtensionProperties(kotlin.reflect.KClass&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KTypes boolean isSubtypeOf(kotlin.reflect.KType, kotlin.reflect.KType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses T cast(kotlin.reflect.KClass&lt;T&gt;, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses java.util.Collection&lt;kotlin.reflect.KFunction&lt;?&gt;&gt; getDeclaredMemberFunctions(kotlin.reflect.KClass&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClassifiers kotlin.reflect.KType createType$default(kotlin.reflect.KClassifier, java.util.List, boolean, java.util.List, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClassifiers kotlin.reflect.KType createType(kotlin.reflect.KClassifier, java.util.List&lt;kotlin.reflect.KTypeProjection&gt;, boolean, java.util.List&lt;? extends java.lang.annotation.Annotation&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KCallables kotlin.reflect.KParameter getExtensionReceiverParameter(kotlin.reflect.KCallable&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses java.util.Collection&lt;kotlin.reflect.KFunction&lt;?&gt;&gt; getDeclaredMemberFunctions(kotlin.reflect.KClass&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses java.util.Collection&lt;kotlin.reflect.KProperty0&lt;?&gt;&gt; getStaticProperties(kotlin.reflect.KClass&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses java.util.List&lt;kotlin.reflect.KClass&lt;?&gt;&gt; getSuperclasses(kotlin.reflect.KClass&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses java.util.Collection&lt;kotlin.reflect.KType&gt; getAllSupertypes(kotlin.reflect.KClass&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses java.util.Collection&lt;kotlin.reflect.KProperty1&lt;T,?&gt;&gt; getDeclaredMemberProperties(kotlin.reflect.KClass&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses boolean isSuperclassOf(kotlin.reflect.KClass&lt;?&gt;, kotlin.reflect.KClass&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KTypes boolean isSupertypeOf(kotlin.reflect.KType, kotlin.reflect.KType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KTypes kotlin.reflect.KType withNullability(kotlin.reflect.KType, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KTypes boolean isSupertypeOf(kotlin.reflect.KType, kotlin.reflect.KType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KCallables kotlin.reflect.KParameter findParameterByName(kotlin.reflect.KCallable&lt;?&gt;, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses T cast(kotlin.reflect.KClass&lt;T&gt;, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses kotlin.reflect.KType getDefaultType(kotlin.reflect.KClass&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses java.util.Collection&lt;kotlin.reflect.KFunction&lt;?&gt;&gt; getMemberFunctions(kotlin.reflect.KClass&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses java.lang.Object getCompanionObjectInstance(kotlin.reflect.KClass&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KTypes boolean isSubtypeOf(kotlin.reflect.KType, kotlin.reflect.KType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses T cast(kotlin.reflect.KClass&lt;T&gt;, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses java.util.List&lt;kotlin.reflect.KClass&lt;?&gt;&gt; getSuperclasses(kotlin.reflect.KClass&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.full.KClasses kotlin.reflect.KType getDefaultType(kotlin.reflect.KClass&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

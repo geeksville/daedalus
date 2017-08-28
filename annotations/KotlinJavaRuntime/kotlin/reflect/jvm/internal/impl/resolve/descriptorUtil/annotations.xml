@@ -1,0 +1,110 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil.DescriptorUtilsKt kotlin.reflect.jvm.internal.impl.name.FqName fqNameOrNull(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil.DescriptorUtilsKt kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getSuperClassNotAny(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil.DescriptorUtilsKt kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor getModule(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil.DescriptorUtilsKt kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor firstOverridden(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor, boolean, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor,java.lang.Boolean&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil.DescriptorUtilsKt kotlin.reflect.jvm.internal.impl.name.FqNameUnsafe getFqNameUnsafe(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil.DescriptorUtilsKt kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor firstOverridden(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor, boolean, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil.DescriptorUtilsKt kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getClassValueTypeDescriptor(kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptorWithTypeParameters) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil.DescriptorUtilsKt kotlin.sequences.Sequence&lt;kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor&gt; getParentsWithSelf(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil.DescriptorUtilsKt java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor&gt; computeSealedSubclasses(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil.DescriptorUtilsKt kotlin.sequences.Sequence&lt;kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor&gt; getParents(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil.DescriptorUtilsKt kotlin.reflect.jvm.internal.impl.types.KotlinType getClassValueType(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil.DescriptorUtilsKt boolean hasDefaultValue(kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil.DescriptorUtilsKt kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor getPropertyIfAccessor(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil.DescriptorUtilsKt kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns getBuiltIns(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil.DescriptorUtilsKt kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor getPropertyIfAccessor(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil.DescriptorUtilsKt kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor resolveTopLevelClass(kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil.DescriptorUtilsKt kotlin.sequences.Sequence&lt;kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor&gt; getParents(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil.DescriptorUtilsKt.firstOverridden.2 void afterChildren(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil.DescriptorUtilsKt kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor getModule(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil.DescriptorUtilsKt kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns getBuiltIns(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil.DescriptorUtilsKt kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor firstOverridden$default(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor, boolean, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil.DescriptorUtilsKt kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor resolveTopLevelClass(kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil.DescriptorUtilsKt java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor&gt; computeSealedSubclasses(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil.DescriptorUtilsKt kotlin.reflect.jvm.internal.impl.name.ClassId getClassId(kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptorWithTypeParameters) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil.DescriptorUtilsKt kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor firstOverridden$default(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor, boolean, kotlin.jvm.functions.Function1, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil.DescriptorUtilsKt kotlin.reflect.jvm.internal.impl.name.FqName getFqNameSafe(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil.DescriptorUtilsKt.firstOverridden.2 boolean beforeChildren(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil.DescriptorUtilsKt.firstOverridden.2 boolean beforeChildren(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil.DescriptorUtilsKt kotlin.reflect.jvm.internal.impl.name.FqName getFqNameSafe(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil.DescriptorUtilsKt kotlin.reflect.jvm.internal.impl.name.FqNameUnsafe getFqNameUnsafe(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil.DescriptorUtilsKt kotlin.sequences.Sequence&lt;kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor&gt; getParentsWithSelf(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil.DescriptorUtilsKt kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getAnnotationClass(kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil.DescriptorUtilsKt kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getDenotedClassDescriptor(kotlin.reflect.jvm.internal.impl.descriptors.ClassifierDescriptorWithTypeParameters) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil.DescriptorUtilsKt.firstOverridden.2 void afterChildren(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil.DescriptorUtilsKt kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor resolveTopLevelClass(kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.reflect.jvm.internal.impl.incremental.components.LookupLocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.descriptorUtil.DescriptorUtilsKt.WhenMappings $EnumSwitchMapping$0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

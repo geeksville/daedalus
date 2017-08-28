@@ -1,0 +1,35 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.builtins.BuiltInsProtoBuf packageFqName'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.builtins.BuiltInsProtoBuf typeParameterAnnotation'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.builtins.BuiltInsProtoBuf compileTimeValue'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.builtins.BuiltInsProtoBuf parameterAnnotation'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.builtins.BuiltInsProtoBuf enumEntryAnnotation'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.builtins.BuiltInsProtoBuf classAnnotation'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.builtins.BuiltInsProtoBuf functionAnnotation'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.builtins.BuiltInsProtoBuf void registerAllExtensions(kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.builtins.BuiltInsProtoBuf constructorAnnotation'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.builtins.BuiltInsProtoBuf typeAnnotation'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.builtins.BuiltInsProtoBuf propertyAnnotation'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

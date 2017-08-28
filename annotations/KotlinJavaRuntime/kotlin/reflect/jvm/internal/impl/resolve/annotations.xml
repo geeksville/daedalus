@@ -1,0 +1,524 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorFactory kotlin.reflect.jvm.internal.impl.descriptors.impl.PropertySetterDescriptorImpl createDefaultSetter(kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.MemberComparator int compare(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil void generateOverridesInFunctionGroup(kotlin.reflect.jvm.internal.impl.name.Name, java.util.Collection&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor&gt;, java.util.Collection&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor&gt;, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.resolve.OverridingStrategy) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorEquivalenceForOverrides boolean access$areTypeParametersEquivalent(kotlin.reflect.jvm.internal.impl.resolve.DescriptorEquivalenceForOverrides, kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor, kotlin.jvm.functions.Function2) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils boolean isLocal(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorFactory kotlin.reflect.jvm.internal.impl.descriptors.impl.PropertyGetterDescriptorImpl createGetter(kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, boolean, boolean, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorEquivalenceForOverrides boolean areCallableDescriptorsEquivalent(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils CONTINUATION_INTERFACE_FQ_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils boolean isEnumEntry(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.ExternalOverridabilityCondition.Result UNKNOWN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils boolean areInSameModule(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil.OverrideCompatibilityInfo.Result INCOMPATIBLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil.OverrideCompatibilityInfo getBasicOverridabilityProblem(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil java.util.Set&lt;D&gt; filterOverrides(java.util.Set&lt;D&gt;, kotlin.jvm.functions.Function2&lt;? super D,? super D,kotlin.Pair&lt;kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor,kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil boolean isMoreSpecific(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils D unwrapFakeOverrideToAnyDeclaration(D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.NonReportingOverrideStrategy void overrideConflict(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorFactory kotlin.reflect.jvm.internal.impl.descriptors.impl.PropertyGetterDescriptorImpl createGetter(kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, boolean, boolean, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil createWithEqualityAxioms(kotlin.reflect.jvm.internal.impl.types.checker.KotlinTypeChecker.TypeConstructorEquality)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils kotlin.reflect.jvm.internal.impl.name.FqNameUnsafe getFqName(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil createWithEqualityAxioms(kotlin.reflect.jvm.internal.impl.types.checker.KotlinTypeChecker.TypeConstructorEquality) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils kotlin.reflect.jvm.internal.impl.name.FqNameUnsafe getFqName(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.MultiTargetPlatform CAPABILITY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil java.util.Set&lt;kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor&gt; getOverriddenDeclarations(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.ExternalOverridabilityCondition kotlin.reflect.jvm.internal.impl.resolve.ExternalOverridabilityCondition.Result isOverridable(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorFactory kotlin.reflect.jvm.internal.impl.descriptors.impl.PropertySetterDescriptorImpl createDefaultSetter(kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorFactory kotlin.reflect.jvm.internal.impl.descriptors.impl.PropertySetterDescriptorImpl createSetter(kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, boolean, boolean, boolean, kotlin.reflect.jvm.internal.impl.descriptors.Visibility, kotlin.reflect.jvm.internal.impl.descriptors.SourceElement) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorFactory kotlin.reflect.jvm.internal.impl.descriptors.impl.PropertySetterDescriptorImpl createSetter(kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, boolean, boolean, boolean, kotlin.reflect.jvm.internal.impl.descriptors.Visibility, kotlin.reflect.jvm.internal.impl.descriptors.SourceElement) 6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorFactory kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor createEnumValuesMethod(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil java.util.Set&lt;D&gt; filterOverrides(java.util.Set&lt;D&gt;, kotlin.jvm.functions.Function2&lt;? super D,? super D,kotlin.Pair&lt;kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor,kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils COROUTINES_PACKAGE_FQ_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorEquivalenceForOverrides boolean access$areTypeParametersEquivalent(kotlin.reflect.jvm.internal.impl.resolve.DescriptorEquivalenceForOverrides, kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor, kotlin.jvm.functions.Function2) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.ExternalOverridabilityCondition.Contract SUCCESS_ONLY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorEquivalenceForOverrides boolean areCallableDescriptorsEquivalent(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil.OverrideCompatibilityInfo kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil.OverrideCompatibilityInfo success()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil.OverrideCompatibilityInfo getBasicOverridabilityProblem(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils boolean areInSameModule(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.NonReportingOverrideStrategy void inheritanceConflict(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils JVM_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils boolean isDirectSubclass(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil.OverrideCompatibilityInfo kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil.OverrideCompatibilityInfo conflict(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil java.util.Set&lt;kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor&gt; getOverriddenDeclarations(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getClassDescriptorForTypeConstructor(kotlin.reflect.jvm.internal.impl.types.TypeConstructor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil.OverrideCompatibilityInfo isOverridableByWithoutExternalConditions(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorFactory kotlin.reflect.jvm.internal.impl.descriptors.impl.PropertyGetterDescriptorImpl createGetter(kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, boolean, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil.OverrideCompatibilityInfo kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil.OverrideCompatibilityInfo.Result getResult()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil.OverrideCompatibilityInfo kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil.OverrideCompatibilityInfo incompatible(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil DEFAULT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorFactory kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor createEnumValuesMethod(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorEquivalenceForOverrides boolean access$areTypeParametersEquivalent(kotlin.reflect.jvm.internal.impl.resolve.DescriptorEquivalenceForOverrides, kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor, kotlin.jvm.functions.Function2) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil.OverrideCompatibilityInfo kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil.OverrideCompatibilityInfo conflict(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil java.util.Set&lt;D&gt; filterOutOverridden(java.util.Set&lt;D&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorFactory kotlin.reflect.jvm.internal.impl.descriptors.impl.PropertySetterDescriptorImpl createDefaultSetter(kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils kotlin.reflect.jvm.internal.impl.descriptors.Visibility getDefaultConstructorVisibility(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils boolean isAnonymousObject(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil void generateOverridesInFunctionGroup(kotlin.reflect.jvm.internal.impl.name.Name, java.util.Collection&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor&gt;, java.util.Collection&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor&gt;, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.resolve.OverridingStrategy) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorEquivalenceForOverrides boolean areCallableDescriptorsEquivalent$default(kotlin.reflect.jvm.internal.impl.resolve.DescriptorEquivalenceForOverrides, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, boolean, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtilsKt java.util.Collection&lt;H&gt; selectMostSpecificInEachOverridableGroup(java.util.Collection&lt;? extends H&gt;, kotlin.jvm.functions.Function1&lt;? super H,? extends kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingStrategy void setOverriddenDescriptors(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor, java.util.Collection&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil.OverrideCompatibilityInfo isOverridableByWithoutExternalConditions(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorFactory kotlin.reflect.jvm.internal.impl.descriptors.impl.PropertyGetterDescriptorImpl createGetter(kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, boolean, boolean, boolean, kotlin.reflect.jvm.internal.impl.descriptors.SourceElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorFactory kotlin.reflect.jvm.internal.impl.descriptors.impl.PropertySetterDescriptorImpl createSetter(kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, boolean, boolean, boolean, kotlin.reflect.jvm.internal.impl.descriptors.SourceElement) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils D getParentOfType(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, java.lang.Class&lt;D&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil H selectMostSpecificMember(java.util.Collection&lt;H&gt;, kotlin.jvm.functions.Function1&lt;H,kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getSuperClassDescriptor(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil.OverrideCompatibilityInfo isOverridableBy(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil boolean overrides(D, D) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorFactory kotlin.reflect.jvm.internal.impl.descriptors.impl.PropertyGetterDescriptorImpl createGetter(kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, boolean, boolean, boolean, kotlin.reflect.jvm.internal.impl.descriptors.SourceElement) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.ExternalOverridabilityCondition.Result INCOMPATIBLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils ENUM_VALUES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil.OverrideCompatibilityInfo OverrideCompatibilityInfo(kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil.OverrideCompatibilityInfo.Result, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.MemberComparator INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil void generateOverridesInFunctionGroup(kotlin.reflect.jvm.internal.impl.name.Name, java.util.Collection&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor&gt;, java.util.Collection&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor&gt;, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.resolve.OverridingStrategy) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingStrategy void addFakeOverride(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorEquivalenceForOverrides boolean areCallableDescriptorsEquivalent$default(kotlin.reflect.jvm.internal.impl.resolve.DescriptorEquivalenceForOverrides, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, boolean, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.MemberComparator int compare(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingStrategy void setOverriddenDescriptors(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor, java.util.Collection&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil.OverrideCompatibilityInfo isOverridableByWithoutExternalConditions(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorEquivalenceForOverrides boolean access$areTypeParametersEquivalent(kotlin.reflect.jvm.internal.impl.resolve.DescriptorEquivalenceForOverrides, kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor, kotlin.jvm.functions.Function2) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorFactory kotlin.reflect.jvm.internal.impl.descriptors.impl.PropertyGetterDescriptorImpl createDefaultGetter(kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil boolean isVisibleForOverride(kotlin.reflect.jvm.internal.impl.descriptors.MemberDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.MemberDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil kotlin.reflect.jvm.internal.impl.descriptors.Visibility findMaxVisibility(java.util.Collection&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil boolean overrides(D, D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil.OverrideCompatibilityInfo.Result getBothWaysOverridability(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorFactory kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor createEnumValueOfMethod(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor getDirectMember(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils boolean isSubclass(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils D unwrapFakeOverride(D)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil.OverrideCompatibilityInfo isOverridableBy(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils boolean shouldRecordInitializerForProperty(kotlin.reflect.jvm.internal.impl.descriptors.VariableDescriptor, kotlin.reflect.jvm.internal.impl.types.KotlinType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorEquivalenceForOverrides boolean areCallableDescriptorsEquivalent$default(kotlin.reflect.jvm.internal.impl.resolve.DescriptorEquivalenceForOverrides, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, boolean, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil java.util.Collection&lt;H&gt; extractMembersOverridableInBothWays(H, java.util.Collection&lt;H&gt;, kotlin.jvm.functions.Function1&lt;H,kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor&gt;, kotlin.jvm.functions.Function1&lt;H,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorFactory kotlin.reflect.jvm.internal.impl.descriptors.impl.PropertyGetterDescriptorImpl createDefaultGetter(kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil.OverrideCompatibilityInfo.Result OVERRIDABLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingStrategy void inheritanceConflict(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil boolean isVisibleForOverride(kotlin.reflect.jvm.internal.impl.descriptors.MemberDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.MemberDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorFactory kotlin.reflect.jvm.internal.impl.descriptors.impl.PropertySetterDescriptorImpl createSetter(kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, boolean, boolean, boolean, kotlin.reflect.jvm.internal.impl.descriptors.Visibility, kotlin.reflect.jvm.internal.impl.descriptors.SourceElement)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils kotlin.reflect.jvm.internal.impl.name.FqName getFqNameSafe(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil void generateOverridesInFunctionGroup(kotlin.reflect.jvm.internal.impl.name.Name, java.util.Collection&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor&gt;, java.util.Collection&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor&gt;, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.resolve.OverridingStrategy) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor getDirectMember(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil void resolveUnknownVisibilityForMember(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor, kotlin.jvm.functions.Function1&lt;kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil.OverrideCompatibilityInfo isOverridableBy(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils kotlin.reflect.jvm.internal.impl.name.FqName getFqNameSafe(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil.OverrideCompatibilityInfo.Result getBothWaysOverridability(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil.OverrideCompatibilityInfo isOverridableBy(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.ExternalOverridabilityCondition kotlin.reflect.jvm.internal.impl.resolve.ExternalOverridabilityCondition.Contract getContract()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils kotlin.reflect.jvm.internal.impl.descriptors.SourceFile getContainingSourceFile(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils boolean isSubclass(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils D unwrapFakeOverride(D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorFactory kotlin.reflect.jvm.internal.impl.descriptors.impl.PropertySetterDescriptorImpl createSetter(kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, boolean, boolean, boolean, kotlin.reflect.jvm.internal.impl.descriptors.Visibility, kotlin.reflect.jvm.internal.impl.descriptors.SourceElement) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil.OverrideCompatibilityInfo.Result getBothWaysOverridability(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorFactory kotlin.reflect.jvm.internal.impl.descriptors.impl.PropertyGetterDescriptorImpl createDefaultGetter(kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.ExternalOverridabilityCondition.Contract BOTH'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorEquivalenceForOverrides INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils ENUM_VALUE_OF'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorFactory kotlin.reflect.jvm.internal.impl.descriptors.impl.ClassConstructorDescriptorImpl createPrimaryConstructorForObject(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.SourceElement)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil java.util.Collection&lt;H&gt; extractMembersOverridableInBothWays(H, java.util.Collection&lt;H&gt;, kotlin.jvm.functions.Function1&lt;H,kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor&gt;, kotlin.jvm.functions.Function1&lt;H,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil.OverrideCompatibilityInfo isOverridableBy(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorFactory kotlin.reflect.jvm.internal.impl.descriptors.impl.PropertySetterDescriptorImpl createSetter(kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, boolean, boolean, boolean, kotlin.reflect.jvm.internal.impl.descriptors.SourceElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils D getParentOfType(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, java.lang.Class&lt;D&gt;, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtilsKt void retainMostSpecificInEachOverridableGroup(java.util.Collection&lt;D&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils java.util.Set&lt;D&gt; getAllOverriddenDescriptors(D) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil void generateOverridesInFunctionGroup(kotlin.reflect.jvm.internal.impl.name.Name, java.util.Collection&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor&gt;, java.util.Collection&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor&gt;, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.resolve.OverridingStrategy) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorFactory kotlin.reflect.jvm.internal.impl.descriptors.impl.PropertySetterDescriptorImpl createSetter(kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, boolean, boolean, boolean, kotlin.reflect.jvm.internal.impl.descriptors.SourceElement)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor getContainingModule(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil java.util.Set&lt;D&gt; filterOutOverridden(java.util.Set&lt;D&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.MemberComparator int compare(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingStrategy void overrideConflict(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils boolean isSubtypeOfClass(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils java.util.Set&lt;D&gt; getAllOverriddenDescriptors(D)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.ExternalOverridabilityCondition.Result CONFLICT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil.OverrideCompatibilityInfo.Result CONFLICT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil.OverrideCompatibilityInfo OverrideCompatibilityInfo(kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil.OverrideCompatibilityInfo.Result, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil java.util.Collection&lt;H&gt; extractMembersOverridableInBothWays(H, java.util.Collection&lt;H&gt;, kotlin.jvm.functions.Function1&lt;H,kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor&gt;, kotlin.jvm.functions.Function1&lt;H,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtilsKt java.util.Collection&lt;H&gt; selectMostSpecificInEachOverridableGroup(java.util.Collection&lt;? extends H&gt;, kotlin.jvm.functions.Function1&lt;? super H,? extends kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils kotlin.reflect.jvm.internal.impl.descriptors.Visibility getDefaultConstructorVisibility(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil.OverrideCompatibilityInfo kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil.OverrideCompatibilityInfo incompatible(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil java.util.Collection&lt;H&gt; extractMembersOverridableInBothWays(H, java.util.Collection&lt;H&gt;, kotlin.jvm.functions.Function1&lt;H,kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor&gt;, kotlin.jvm.functions.Function1&lt;H,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.NonReportingOverrideStrategy void conflict(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorFactory kotlin.reflect.jvm.internal.impl.descriptors.impl.PropertySetterDescriptorImpl createSetter(kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, boolean, boolean, boolean, kotlin.reflect.jvm.internal.impl.descriptors.SourceElement) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.NonReportingOverrideStrategy void inheritanceConflict(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorFactory kotlin.reflect.jvm.internal.impl.descriptors.impl.ClassConstructorDescriptorImpl createPrimaryConstructorForObject(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.SourceElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils boolean isDirectSubclass(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.ExternalOverridabilityCondition.Contract CONFLICTS_ONLY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorFactory kotlin.reflect.jvm.internal.impl.descriptors.impl.PropertyGetterDescriptorImpl createGetter(kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, boolean, boolean, boolean, kotlin.reflect.jvm.internal.impl.descriptors.SourceElement) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils kotlin.reflect.jvm.internal.impl.descriptors.SourceFile getContainingSourceFile(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.ExternalOverridabilityCondition kotlin.reflect.jvm.internal.impl.resolve.ExternalOverridabilityCondition.Result isOverridable(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorFactory kotlin.reflect.jvm.internal.impl.descriptors.impl.PropertyGetterDescriptorImpl createGetter(kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, boolean, boolean, boolean, kotlin.reflect.jvm.internal.impl.descriptors.SourceElement)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils boolean isSubtypeOfClass(kotlin.reflect.jvm.internal.impl.types.KotlinType, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.MemberComparator int compare(java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingStrategy void overrideConflict(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.ExternalOverridabilityCondition.Result OVERRIDABLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor getClassDescriptorForType(kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil H selectMostSpecificMember(java.util.Collection&lt;H&gt;, kotlin.jvm.functions.Function1&lt;H,kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtilsKt java.util.Collection&lt;H&gt; selectMostSpecificInEachOverridableGroup(java.util.Collection&lt;? extends H&gt;, kotlin.jvm.functions.Function1&lt;? super H,? extends kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils boolean shouldRecordInitializerForProperty(kotlin.reflect.jvm.internal.impl.descriptors.VariableDescriptor, kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil java.util.Collection&lt;H&gt; extractMembersOverridableInBothWays(H, java.util.Collection&lt;H&gt;, kotlin.jvm.functions.Function1&lt;H,kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor&gt;, kotlin.jvm.functions.Function1&lt;H,kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor getContainingModuleOrNull(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.NonReportingOverrideStrategy void conflict(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorFactory kotlin.reflect.jvm.internal.impl.descriptors.impl.ClassConstructorDescriptorImpl createPrimaryConstructorForObject(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.SourceElement) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingStrategy void inheritanceConflict(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils D unwrapFakeOverrideToAnyDeclaration(D)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil java.util.Set&lt;D&gt; filterOverrides(java.util.Set&lt;D&gt;, kotlin.jvm.functions.Function2&lt;? super D,? super D,kotlin.Pair&lt;kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor,kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor&gt;&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorFactory kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor createEnumValueOfMethod(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.NonReportingOverrideStrategy void overrideConflict(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil.OverrideCompatibilityInfo isOverridableBy(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.ExternalOverridabilityCondition kotlin.reflect.jvm.internal.impl.resolve.ExternalOverridabilityCondition.Result isOverridable(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil H selectMostSpecificMember(java.util.Collection&lt;H&gt;, kotlin.jvm.functions.Function1&lt;H,kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.MultiTargetPlatform Companion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorFactory kotlin.reflect.jvm.internal.impl.descriptors.impl.PropertySetterDescriptorImpl createSetter(kotlin.reflect.jvm.internal.impl.descriptors.PropertyDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, boolean, boolean, boolean, kotlin.reflect.jvm.internal.impl.descriptors.Visibility, kotlin.reflect.jvm.internal.impl.descriptors.SourceElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorFactory kotlin.reflect.jvm.internal.impl.descriptors.ReceiverParameterDescriptor createExtensionReceiverParameterForCallable(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.types.KotlinType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.DescriptorUtils kotlin.reflect.jvm.internal.impl.descriptors.ReceiverParameterDescriptor getDispatchReceiverParameterIfNeeded(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.VisibilityUtilKt kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor findMemberWithMaxVisibility(java.util.Collection&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.resolve.OverridingUtil boolean isMoreSpecific(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

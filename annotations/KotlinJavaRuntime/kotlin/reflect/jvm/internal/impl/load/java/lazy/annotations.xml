@@ -1,0 +1,338 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents JavaResolverComponents(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.load.java.JavaClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.KotlinClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.DeserializedDescriptorResolver, kotlin.reflect.jvm.internal.impl.load.java.components.ExternalAnnotationResolver, kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter, kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache, kotlin.reflect.jvm.internal.impl.load.java.components.JavaPropertyInitializerEvaluator, kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver, kotlin.reflect.jvm.internal.impl.load.java.sources.JavaSourceElementFactory, kotlin.reflect.jvm.internal.impl.load.java.lazy.ModuleClassResolver, kotlin.reflect.jvm.internal.impl.descriptors.PackagePartProvider, kotlin.reflect.jvm.internal.impl.descriptors.SupertypeLoopChecker, kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.builtins.ReflectionTypes, kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver, kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancement) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents kotlin.reflect.jvm.internal.impl.storage.StorageManager getStorageManager()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.ContextKt kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext childForClassOrPackage$default(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, kotlin.reflect.jvm.internal.impl.descriptors.ClassOrPackageFragmentDescriptor, kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeParameterListOwner, int, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents JavaResolverComponents(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.load.java.JavaClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.KotlinClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.DeserializedDescriptorResolver, kotlin.reflect.jvm.internal.impl.load.java.components.ExternalAnnotationResolver, kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter, kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache, kotlin.reflect.jvm.internal.impl.load.java.components.JavaPropertyInitializerEvaluator, kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver, kotlin.reflect.jvm.internal.impl.load.java.sources.JavaSourceElementFactory, kotlin.reflect.jvm.internal.impl.load.java.lazy.ModuleClassResolver, kotlin.reflect.jvm.internal.impl.descriptors.PackagePartProvider, kotlin.reflect.jvm.internal.impl.descriptors.SupertypeLoopChecker, kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.builtins.ReflectionTypes, kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver, kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancement) 12'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaAnnotationsKt kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations resolveAnnotations(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotationOwner) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.ContextKt kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext childForClassOrPackage$default(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, kotlin.reflect.jvm.internal.impl.descriptors.ClassOrPackageFragmentDescriptor, kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeParameterListOwner, int, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaAnnotations java.util.Iterator&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents kotlin.reflect.jvm.internal.impl.load.java.JavaClassFinder getFinder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaAnnotationsKt kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations resolveAnnotations(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotationOwner)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext LazyJavaResolverContext(kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents, kotlin.reflect.jvm.internal.impl.load.java.lazy.TypeParameterResolver, kotlin.Lazy&lt;kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaTypeQualifiersByElementType&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.SingleModuleClassResolver void setResolver(kotlin.reflect.jvm.internal.impl.resolve.jvm.JavaDescriptorResolver) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaTypeParameterResolver LazyJavaTypeParameterResolver(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeParameterListOwner, int) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents JavaResolverComponents(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.load.java.JavaClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.KotlinClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.DeserializedDescriptorResolver, kotlin.reflect.jvm.internal.impl.load.java.components.ExternalAnnotationResolver, kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter, kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache, kotlin.reflect.jvm.internal.impl.load.java.components.JavaPropertyInitializerEvaluator, kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver, kotlin.reflect.jvm.internal.impl.load.java.sources.JavaSourceElementFactory, kotlin.reflect.jvm.internal.impl.load.java.lazy.ModuleClassResolver, kotlin.reflect.jvm.internal.impl.descriptors.PackagePartProvider, kotlin.reflect.jvm.internal.impl.descriptors.SupertypeLoopChecker, kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.builtins.ReflectionTypes, kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver, kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancement) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaTypeQualifiersByElementType JavaTypeQualifiersByElementType(java.util.EnumMap&lt;kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver.QualifierApplicabilityType,kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.NullabilityQualifier&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaPackageFragmentProvider java.util.List&lt;kotlin.reflect.jvm.internal.impl.name.FqName&gt; getSubPackagesOf(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaPackageFragmentProvider java.util.List&lt;kotlin.reflect.jvm.internal.impl.name.FqName&gt; getSubPackagesOf(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents JavaResolverComponents(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.load.java.JavaClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.KotlinClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.DeserializedDescriptorResolver, kotlin.reflect.jvm.internal.impl.load.java.components.ExternalAnnotationResolver, kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter, kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache, kotlin.reflect.jvm.internal.impl.load.java.components.JavaPropertyInitializerEvaluator, kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver, kotlin.reflect.jvm.internal.impl.load.java.sources.JavaSourceElementFactory, kotlin.reflect.jvm.internal.impl.load.java.lazy.ModuleClassResolver, kotlin.reflect.jvm.internal.impl.descriptors.PackagePartProvider, kotlin.reflect.jvm.internal.impl.descriptors.SupertypeLoopChecker, kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.builtins.ReflectionTypes, kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver, kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancement) 11'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaAnnotations kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext access$getC$p(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaAnnotations) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext LazyJavaResolverContext(kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents, kotlin.reflect.jvm.internal.impl.load.java.lazy.TypeParameterResolver, kotlin.Lazy&lt;kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaTypeQualifiersByElementType&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaTypeParameterResolver java.util.Map access$getTypeParameters$p(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaTypeParameterResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaTypeParameterResolver kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor access$getContainingDeclaration$p(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaTypeParameterResolver) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.ContextKt kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext childForMethod(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeParameterListOwner, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker getLookupTracker()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents JavaResolverComponents(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.load.java.JavaClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.KotlinClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.DeserializedDescriptorResolver, kotlin.reflect.jvm.internal.impl.load.java.components.ExternalAnnotationResolver, kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter, kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache, kotlin.reflect.jvm.internal.impl.load.java.components.JavaPropertyInitializerEvaluator, kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver, kotlin.reflect.jvm.internal.impl.load.java.sources.JavaSourceElementFactory, kotlin.reflect.jvm.internal.impl.load.java.lazy.ModuleClassResolver, kotlin.reflect.jvm.internal.impl.descriptors.PackagePartProvider, kotlin.reflect.jvm.internal.impl.descriptors.SupertypeLoopChecker, kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.builtins.ReflectionTypes, kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver, kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancement) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaPackageFragmentProvider kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext access$getC$p(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaPackageFragmentProvider) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents JavaResolverComponents(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.load.java.JavaClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.KotlinClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.DeserializedDescriptorResolver, kotlin.reflect.jvm.internal.impl.load.java.components.ExternalAnnotationResolver, kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter, kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache, kotlin.reflect.jvm.internal.impl.load.java.components.JavaPropertyInitializerEvaluator, kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver, kotlin.reflect.jvm.internal.impl.load.java.sources.JavaSourceElementFactory, kotlin.reflect.jvm.internal.impl.load.java.lazy.ModuleClassResolver, kotlin.reflect.jvm.internal.impl.descriptors.PackagePartProvider, kotlin.reflect.jvm.internal.impl.descriptors.SupertypeLoopChecker, kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.builtins.ReflectionTypes, kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver, kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancement) 10'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaAnnotations LazyJavaAnnotations(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotationOwner) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaAnnotations java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationWithTarget&gt; getUseSiteTargetedAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.ContextKt kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext childForMethod$default(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeParameterListOwner, int, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.ContextKt kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext replaceComponents(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaTypeParameterResolver LazyJavaTypeParameterResolver(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeParameterListOwner, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaTypeParameterResolver kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor access$getContainingDeclaration$p(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaTypeParameterResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.ModuleClassResolver kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor resolveClass(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClass) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.ContextKt kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext child(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, kotlin.reflect.jvm.internal.impl.load.java.lazy.TypeParameterResolver) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.ContextKt kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext childForMethod(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeParameterListOwner, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor getModule()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.TypeParameterResolver kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor resolveTypeParameter(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaAnnotations kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext access$getC$p(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaAnnotations)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaPackageFragmentProvider java.util.List&lt;kotlin.reflect.jvm.internal.impl.load.java.lazy.descriptors.LazyJavaPackageFragment&gt; getPackageFragments(kotlin.reflect.jvm.internal.impl.name.FqName)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents kotlin.reflect.jvm.internal.impl.load.kotlin.KotlinClassFinder getKotlinClassFinder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents JavaResolverComponents(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.load.java.JavaClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.KotlinClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.DeserializedDescriptorResolver, kotlin.reflect.jvm.internal.impl.load.java.components.ExternalAnnotationResolver, kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter, kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache, kotlin.reflect.jvm.internal.impl.load.java.components.JavaPropertyInitializerEvaluator, kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver, kotlin.reflect.jvm.internal.impl.load.java.sources.JavaSourceElementFactory, kotlin.reflect.jvm.internal.impl.load.java.lazy.ModuleClassResolver, kotlin.reflect.jvm.internal.impl.descriptors.PackagePartProvider, kotlin.reflect.jvm.internal.impl.descriptors.SupertypeLoopChecker, kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.builtins.ReflectionTypes, kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver, kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancement) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.ContextKt kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext childForClassOrPackage(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, kotlin.reflect.jvm.internal.impl.descriptors.ClassOrPackageFragmentDescriptor, kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeParameterListOwner, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.ContextKt kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaTypeQualifiersByElementType computeNewDefaultTypeQualifiers(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaPackageFragmentProvider LazyJavaPackageFragmentProvider(kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents JavaResolverComponents(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.load.java.JavaClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.KotlinClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.DeserializedDescriptorResolver, kotlin.reflect.jvm.internal.impl.load.java.components.ExternalAnnotationResolver, kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter, kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache, kotlin.reflect.jvm.internal.impl.load.java.components.JavaPropertyInitializerEvaluator, kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver, kotlin.reflect.jvm.internal.impl.load.java.sources.JavaSourceElementFactory, kotlin.reflect.jvm.internal.impl.load.java.lazy.ModuleClassResolver, kotlin.reflect.jvm.internal.impl.descriptors.PackagePartProvider, kotlin.reflect.jvm.internal.impl.descriptors.SupertypeLoopChecker, kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.builtins.ReflectionTypes, kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver, kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancement) 9'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaTypeParameterResolver LazyJavaTypeParameterResolver(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeParameterListOwner, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaAnnotations java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationWithTarget&gt; getAllAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents JavaResolverComponents(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.load.java.JavaClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.KotlinClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.DeserializedDescriptorResolver, kotlin.reflect.jvm.internal.impl.load.java.components.ExternalAnnotationResolver, kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter, kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache, kotlin.reflect.jvm.internal.impl.load.java.components.JavaPropertyInitializerEvaluator, kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver, kotlin.reflect.jvm.internal.impl.load.java.sources.JavaSourceElementFactory, kotlin.reflect.jvm.internal.impl.load.java.lazy.ModuleClassResolver, kotlin.reflect.jvm.internal.impl.descriptors.PackagePartProvider, kotlin.reflect.jvm.internal.impl.descriptors.SupertypeLoopChecker, kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.builtins.ReflectionTypes, kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver, kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancement) 18'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext kotlin.reflect.jvm.internal.impl.storage.StorageManager getStorageManager()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents kotlin.reflect.jvm.internal.impl.load.java.sources.JavaSourceElementFactory getSourceElementFactory()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaAnnotations kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor findAnnotation(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.ContextKt kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext child(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, kotlin.reflect.jvm.internal.impl.load.java.lazy.TypeParameterResolver) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.ContextKt kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext childForMethod(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeParameterListOwner, int) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter getErrorReporter()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaTypeQualifiersByElementType java.util.EnumMap&lt;kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver.QualifierApplicabilityType,kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.NullabilityQualifier&gt; getNullabilityQualifiers$kotlin_reflection()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.ContextKt kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaTypeQualifiersByElementType computeNewDefaultTypeQualifiers(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.ContextKt kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext childForClassOrPackage(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, kotlin.reflect.jvm.internal.impl.descriptors.ClassOrPackageFragmentDescriptor, kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeParameterListOwner, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents JavaResolverComponents(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.load.java.JavaClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.KotlinClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.DeserializedDescriptorResolver, kotlin.reflect.jvm.internal.impl.load.java.components.ExternalAnnotationResolver, kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter, kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache, kotlin.reflect.jvm.internal.impl.load.java.components.JavaPropertyInitializerEvaluator, kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver, kotlin.reflect.jvm.internal.impl.load.java.sources.JavaSourceElementFactory, kotlin.reflect.jvm.internal.impl.load.java.lazy.ModuleClassResolver, kotlin.reflect.jvm.internal.impl.descriptors.PackagePartProvider, kotlin.reflect.jvm.internal.impl.descriptors.SupertypeLoopChecker, kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.builtins.ReflectionTypes, kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver, kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext kotlin.reflect.jvm.internal.impl.load.java.lazy.TypeParameterResolver getTypeParameterResolver()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.ContextKt kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext childForMethod$default(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeParameterListOwner, int, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaPackageFragmentProvider java.util.Collection getSubPackagesOf(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.jvm.functions.Function1) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaTypeQualifiersByElementType kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.JavaTypeQualifiers get(kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver.QualifierApplicabilityType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents replace(kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents JavaResolverComponents(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.load.java.JavaClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.KotlinClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.DeserializedDescriptorResolver, kotlin.reflect.jvm.internal.impl.load.java.components.ExternalAnnotationResolver, kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter, kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache, kotlin.reflect.jvm.internal.impl.load.java.components.JavaPropertyInitializerEvaluator, kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver, kotlin.reflect.jvm.internal.impl.load.java.sources.JavaSourceElementFactory, kotlin.reflect.jvm.internal.impl.load.java.lazy.ModuleClassResolver, kotlin.reflect.jvm.internal.impl.descriptors.PackagePartProvider, kotlin.reflect.jvm.internal.impl.descriptors.SupertypeLoopChecker, kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.builtins.ReflectionTypes, kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver, kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancement) 8'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.TypeParameterResolver.EMPTY kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor resolveTypeParameter(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancement getSignatureEnhancement()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents JavaResolverComponents(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.load.java.JavaClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.KotlinClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.DeserializedDescriptorResolver, kotlin.reflect.jvm.internal.impl.load.java.components.ExternalAnnotationResolver, kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter, kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache, kotlin.reflect.jvm.internal.impl.load.java.components.JavaPropertyInitializerEvaluator, kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver, kotlin.reflect.jvm.internal.impl.load.java.sources.JavaSourceElementFactory, kotlin.reflect.jvm.internal.impl.load.java.lazy.ModuleClassResolver, kotlin.reflect.jvm.internal.impl.descriptors.PackagePartProvider, kotlin.reflect.jvm.internal.impl.descriptors.SupertypeLoopChecker, kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.builtins.ReflectionTypes, kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver, kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancement) 17'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaTypeParameterResolver kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext access$getC$p(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaTypeParameterResolver) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents kotlin.reflect.jvm.internal.impl.builtins.ReflectionTypes getReflectionTypes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.TypeParameterResolver.EMPTY INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents replace(kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents kotlin.reflect.jvm.internal.impl.descriptors.SupertypeLoopChecker getSupertypeLoopChecker()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.SingleModuleClassResolver kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor resolveClass(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClass) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext kotlin.reflect.jvm.internal.impl.load.java.lazy.types.JavaTypeResolver getTypeResolver()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents kotlin.reflect.jvm.internal.impl.load.java.components.JavaPropertyInitializerEvaluator getJavaPropertyInitializerEvaluator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext kotlin.Lazy&lt;kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaTypeQualifiersByElementType&gt; getDelegateForDefaultTypeQualifiers$kotlin_reflection()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaPackageFragmentProvider java.util.Collection getSubPackagesOf(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.jvm.functions.Function1) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaTypeParameterResolver kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext access$getC$p(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaTypeParameterResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaPackageFragmentProvider java.util.List&lt;kotlin.reflect.jvm.internal.impl.load.java.lazy.descriptors.LazyJavaPackageFragment&gt; getPackageFragments(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaAnnotations LazyJavaAnnotations(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotationOwner) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.ContextKt kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext replaceComponents(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents JavaResolverComponents(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.load.java.JavaClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.KotlinClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.DeserializedDescriptorResolver, kotlin.reflect.jvm.internal.impl.load.java.components.ExternalAnnotationResolver, kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter, kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache, kotlin.reflect.jvm.internal.impl.load.java.components.JavaPropertyInitializerEvaluator, kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver, kotlin.reflect.jvm.internal.impl.load.java.sources.JavaSourceElementFactory, kotlin.reflect.jvm.internal.impl.load.java.lazy.ModuleClassResolver, kotlin.reflect.jvm.internal.impl.descriptors.PackagePartProvider, kotlin.reflect.jvm.internal.impl.descriptors.SupertypeLoopChecker, kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.builtins.ReflectionTypes, kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver, kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancement) 7'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.ContextKt kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext childForMethod$default(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeParameterListOwner, int, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.ContextKt kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext childForMethod$default(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeParameterListOwner, int, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents kotlin.reflect.jvm.internal.impl.load.java.lazy.ModuleClassResolver getModuleClassResolver()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.ContextKt kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext replaceComponents(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents JavaResolverComponents(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.load.java.JavaClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.KotlinClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.DeserializedDescriptorResolver, kotlin.reflect.jvm.internal.impl.load.java.components.ExternalAnnotationResolver, kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter, kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache, kotlin.reflect.jvm.internal.impl.load.java.components.JavaPropertyInitializerEvaluator, kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver, kotlin.reflect.jvm.internal.impl.load.java.sources.JavaSourceElementFactory, kotlin.reflect.jvm.internal.impl.load.java.lazy.ModuleClassResolver, kotlin.reflect.jvm.internal.impl.descriptors.PackagePartProvider, kotlin.reflect.jvm.internal.impl.descriptors.SupertypeLoopChecker, kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.builtins.ReflectionTypes, kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver, kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancement) 16'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents kotlin.reflect.jvm.internal.impl.load.kotlin.DeserializedDescriptorResolver getDeserializedDescriptorResolver()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaAnnotations boolean hasAnnotation(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaPackageFragmentProvider java.util.Collection getSubPackagesOf(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.jvm.functions.Function1)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaTypeParameterResolver int access$getTypeParametersIndexOffset$p(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaTypeParameterResolver) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaTypeParameterResolver java.util.Map access$getTypeParameters$p(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaTypeParameterResolver) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaPackageFragmentProvider java.util.List&lt;kotlin.reflect.jvm.internal.impl.name.FqName&gt; getSubPackagesOf(kotlin.reflect.jvm.internal.impl.name.FqName, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.Name,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.ContextKt kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext child(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, kotlin.reflect.jvm.internal.impl.load.java.lazy.TypeParameterResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.ContextKt kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext childForMethod(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeParameterListOwner, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents JavaResolverComponents(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.load.java.JavaClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.KotlinClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.DeserializedDescriptorResolver, kotlin.reflect.jvm.internal.impl.load.java.components.ExternalAnnotationResolver, kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter, kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache, kotlin.reflect.jvm.internal.impl.load.java.components.JavaPropertyInitializerEvaluator, kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver, kotlin.reflect.jvm.internal.impl.load.java.sources.JavaSourceElementFactory, kotlin.reflect.jvm.internal.impl.load.java.lazy.ModuleClassResolver, kotlin.reflect.jvm.internal.impl.descriptors.PackagePartProvider, kotlin.reflect.jvm.internal.impl.descriptors.SupertypeLoopChecker, kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.builtins.ReflectionTypes, kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver, kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancement) 6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver getAnnotationTypeQualifierResolver()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents JavaResolverComponents(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.load.java.JavaClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.KotlinClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.DeserializedDescriptorResolver, kotlin.reflect.jvm.internal.impl.load.java.components.ExternalAnnotationResolver, kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter, kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache, kotlin.reflect.jvm.internal.impl.load.java.components.JavaPropertyInitializerEvaluator, kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver, kotlin.reflect.jvm.internal.impl.load.java.sources.JavaSourceElementFactory, kotlin.reflect.jvm.internal.impl.load.java.lazy.ModuleClassResolver, kotlin.reflect.jvm.internal.impl.descriptors.PackagePartProvider, kotlin.reflect.jvm.internal.impl.descriptors.SupertypeLoopChecker, kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.builtins.ReflectionTypes, kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver, kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancement) 15'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents JavaResolverComponents(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.load.java.JavaClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.KotlinClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.DeserializedDescriptorResolver, kotlin.reflect.jvm.internal.impl.load.java.components.ExternalAnnotationResolver, kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter, kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache, kotlin.reflect.jvm.internal.impl.load.java.components.JavaPropertyInitializerEvaluator, kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver, kotlin.reflect.jvm.internal.impl.load.java.sources.JavaSourceElementFactory, kotlin.reflect.jvm.internal.impl.load.java.lazy.ModuleClassResolver, kotlin.reflect.jvm.internal.impl.descriptors.PackagePartProvider, kotlin.reflect.jvm.internal.impl.descriptors.SupertypeLoopChecker, kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.builtins.ReflectionTypes, kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver, kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancement) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor getModule()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.ContextKt kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext childForClassOrPackage$default(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, kotlin.reflect.jvm.internal.impl.descriptors.ClassOrPackageFragmentDescriptor, kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeParameterListOwner, int, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents JavaResolverComponents(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.load.java.JavaClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.KotlinClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.DeserializedDescriptorResolver, kotlin.reflect.jvm.internal.impl.load.java.components.ExternalAnnotationResolver, kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter, kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache, kotlin.reflect.jvm.internal.impl.load.java.components.JavaPropertyInitializerEvaluator, kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver, kotlin.reflect.jvm.internal.impl.load.java.sources.JavaSourceElementFactory, kotlin.reflect.jvm.internal.impl.load.java.lazy.ModuleClassResolver, kotlin.reflect.jvm.internal.impl.descriptors.PackagePartProvider, kotlin.reflect.jvm.internal.impl.descriptors.SupertypeLoopChecker, kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.builtins.ReflectionTypes, kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver, kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancement) 13'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache getJavaResolverCache()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator getSignaturePropagator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaAnnotationsKt kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations resolveAnnotations(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, kotlin.reflect.jvm.internal.impl.load.java.structure.JavaAnnotationOwner) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.ContextKt kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext childForClassOrPackage(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext, kotlin.reflect.jvm.internal.impl.descriptors.ClassOrPackageFragmentDescriptor, kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeParameterListOwner, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaTypeParameterResolver kotlin.reflect.jvm.internal.impl.descriptors.TypeParameterDescriptor resolveTypeParameter(kotlin.reflect.jvm.internal.impl.load.java.structure.JavaTypeParameter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents JavaResolverComponents(kotlin.reflect.jvm.internal.impl.storage.StorageManager, kotlin.reflect.jvm.internal.impl.load.java.JavaClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.KotlinClassFinder, kotlin.reflect.jvm.internal.impl.load.kotlin.DeserializedDescriptorResolver, kotlin.reflect.jvm.internal.impl.load.java.components.ExternalAnnotationResolver, kotlin.reflect.jvm.internal.impl.load.java.components.SignaturePropagator, kotlin.reflect.jvm.internal.impl.serialization.deserialization.ErrorReporter, kotlin.reflect.jvm.internal.impl.load.java.components.JavaResolverCache, kotlin.reflect.jvm.internal.impl.load.java.components.JavaPropertyInitializerEvaluator, kotlin.reflect.jvm.internal.impl.load.java.components.SamConversionResolver, kotlin.reflect.jvm.internal.impl.load.java.sources.JavaSourceElementFactory, kotlin.reflect.jvm.internal.impl.load.java.lazy.ModuleClassResolver, kotlin.reflect.jvm.internal.impl.descriptors.PackagePartProvider, kotlin.reflect.jvm.internal.impl.descriptors.SupertypeLoopChecker, kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker, kotlin.reflect.jvm.internal.impl.descriptors.ModuleDescriptor, kotlin.reflect.jvm.internal.impl.builtins.ReflectionTypes, kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver, kotlin.reflect.jvm.internal.impl.load.java.typeEnhancement.SignatureEnhancement) 14'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaPackageFragmentProvider kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext access$getC$p(kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaPackageFragmentProvider)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext LazyJavaResolverContext(kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents, kotlin.reflect.jvm.internal.impl.load.java.lazy.TypeParameterResolver, kotlin.Lazy&lt;kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaTypeQualifiersByElementType&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents kotlin.reflect.jvm.internal.impl.descriptors.PackagePartProvider getPackageMapper()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.lazy.LazyJavaResolverContext kotlin.reflect.jvm.internal.impl.load.java.lazy.JavaResolverComponents getComponents()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

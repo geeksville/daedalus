@@ -1,0 +1,59 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.load.kotlin.header.KotlinClassHeader.Kind kotlin.reflect.jvm.internal.impl.load.kotlin.header.KotlinClassHeader.Kind getById(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.kotlin.header.KotlinClassHeader.Kind MULTIFILE_CLASS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.kotlin.header.KotlinClassHeader java.util.List&lt;java.lang.String&gt; getMultifilePartNames()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.kotlin.header.KotlinClassHeader.Kind SYNTHETIC_CLASS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.kotlin.header.KotlinClassHeader KotlinClassHeader(kotlin.reflect.jvm.internal.impl.load.kotlin.header.KotlinClassHeader.Kind, kotlin.reflect.jvm.internal.impl.load.kotlin.JvmMetadataVersion, kotlin.reflect.jvm.internal.impl.load.java.JvmBytecodeBinaryVersion, java.lang.String[], java.lang.String[], java.lang.String[], java.lang.String, int) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.kotlin.header.KotlinClassHeader kotlin.reflect.jvm.internal.impl.load.kotlin.header.KotlinClassHeader.Kind getKind()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.kotlin.header.KotlinClassHeader KotlinClassHeader(kotlin.reflect.jvm.internal.impl.load.kotlin.header.KotlinClassHeader.Kind, kotlin.reflect.jvm.internal.impl.load.kotlin.JvmMetadataVersion, kotlin.reflect.jvm.internal.impl.load.java.JvmBytecodeBinaryVersion, java.lang.String[], java.lang.String[], java.lang.String[], java.lang.String, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.kotlin.header.KotlinClassHeader KotlinClassHeader(kotlin.reflect.jvm.internal.impl.load.kotlin.header.KotlinClassHeader.Kind, kotlin.reflect.jvm.internal.impl.load.kotlin.JvmMetadataVersion, kotlin.reflect.jvm.internal.impl.load.java.JvmBytecodeBinaryVersion, java.lang.String[], java.lang.String[], java.lang.String[], java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.kotlin.header.KotlinClassHeader.Kind FILE_FACADE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.kotlin.header.KotlinClassHeader.Kind.Companion kotlin.reflect.jvm.internal.impl.load.kotlin.header.KotlinClassHeader.Kind getById(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.kotlin.header.KotlinClassHeader.Kind Companion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.kotlin.header.KotlinClassHeader.Kind MULTIFILE_CLASS_PART'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.kotlin.header.ReadKotlinClassHeaderAnnotationVisitor kotlin.reflect.jvm.internal.impl.load.kotlin.KotlinJvmBinaryClass.AnnotationArgumentVisitor visitAnnotation(kotlin.reflect.jvm.internal.impl.name.ClassId, kotlin.reflect.jvm.internal.impl.descriptors.SourceElement) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.kotlin.header.ReadKotlinClassHeaderAnnotationVisitor kotlin.reflect.jvm.internal.impl.load.kotlin.KotlinJvmBinaryClass.AnnotationArgumentVisitor visitAnnotation(kotlin.reflect.jvm.internal.impl.name.ClassId, kotlin.reflect.jvm.internal.impl.descriptors.SourceElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.kotlin.header.KotlinClassHeader kotlin.reflect.jvm.internal.impl.load.kotlin.JvmMetadataVersion getMetadataVersion()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.kotlin.header.KotlinClassHeader java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.kotlin.header.KotlinClassHeader.Kind CLASS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.kotlin.header.KotlinClassHeader.Kind java.util.Map access$getEntryById$cp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.kotlin.header.KotlinClassHeader.Kind UNKNOWN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,413 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationsKt boolean checkAnnotationName(kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor, kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations.Companion.EMPTY.1 kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor findAnnotation(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotated kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations getAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationUtilKt kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor createDeprecatedAnnotation$default(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns, java.lang.String, java.lang.String, java.lang.String, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget FILE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptorImpl AnnotationDescriptorImpl(kotlin.reflect.jvm.internal.impl.types.KotlinType, java.util.Map&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor,kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt;&gt;, kotlin.reflect.jvm.internal.impl.descriptors.SourceElement) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget TYPE_PROJECTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationWithTarget kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor component1()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget TYPEALIAS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations.Companion.EMPTY.1 java.util.Iterator&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget CLASS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationUtilKt boolean isInlineOnly(kotlin.reflect.jvm.internal.impl.descriptors.MemberDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationUtilKt kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor createDeprecatedAnnotation$default(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns, java.lang.String, java.lang.String, java.lang.String, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget DESTRUCTURING_DECLARATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.CompositeAnnotations CompositeAnnotations(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationsImpl java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationWithTarget&gt; getAllAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptorImpl AnnotationDescriptorImpl(kotlin.reflect.jvm.internal.impl.types.KotlinType, java.util.Map&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor,kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt;&gt;, kotlin.reflect.jvm.internal.impl.descriptors.SourceElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptorImpl java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations boolean hasAnnotation(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget LAMBDA_EXPRESSION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget ENUM_CLASS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget COMPANION_OBJECT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationUtilKt kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor createDeprecatedAnnotation$default(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns, java.lang.String, java.lang.String, java.lang.String, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinRetention RUNTIME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget.Companion java.util.HashMap access$getMap$p(kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget.Companion) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.CompositeAnnotations java.util.Iterator&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationWithTarget kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor getAnnotation()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget TOP_LEVEL_PROPERTY_WITHOUT_FIELD_OR_DELEGATE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationsImpl java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationWithTarget&gt; getUseSiteTargetedAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationUseSiteTarget PROPERTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.CompositeAnnotations java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationWithTarget&gt; getAllAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget STAR_PROJECTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationUtilKt kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor createDeprecatedAnnotation$default(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns, java.lang.String, java.lang.String, java.lang.String, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations.Companion.EMPTY.1 java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationWithTarget&gt; getUseSiteTargetedAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget LOCAL_CLASS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget MEMBER_PROPERTY_WITH_BACKING_FIELD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget FIELD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationUtilKt kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor createDeprecatedAnnotation(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns, java.lang.String, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget MEMBER_PROPERTY_WITH_DELEGATE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget PROPERTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationsImpl java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationUseSiteTarget.Companion kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationUseSiteTarget getAssociatedUseSiteTarget(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations.Companion kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations getEMPTY()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget LOCAL_FUNCTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.CompositeAnnotations java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationWithTarget&gt; getUseSiteTargetedAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptorImpl java.util.Map&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor,kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt;&gt; getAllValueArguments()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.CompositeAnnotations boolean hasAnnotation(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.CompositeAnnotations kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor findAnnotation(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget ENUM_ENTRY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationUseSiteTarget PROPERTY_DELEGATE_FIELD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinRetention SOURCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget INITIALIZER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationUseSiteTarget RECEIVER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationsImpl java.util.Iterator&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget TYPE_PARAMETER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationsKt boolean checkAnnotationName(kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor, kotlin.reflect.jvm.internal.impl.name.FqName) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationUtilKt kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor createDeprecatedAnnotation(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns, java.lang.String, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget FUNCTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationsImpl boolean hasAnnotation(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget TOP_LEVEL_FUNCTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.FilteredAnnotations FilteredAnnotations(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.FqName,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget PROPERTY_SETTER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptorImpl AnnotationDescriptorImpl(kotlin.reflect.jvm.internal.impl.types.KotlinType, java.util.Map&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor,kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt;&gt;, kotlin.reflect.jvm.internal.impl.descriptors.SourceElement) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptorImpl kotlin.reflect.jvm.internal.impl.types.KotlinType getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationWithTarget AnnotationWithTarget(kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationUseSiteTarget) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations.Companion.EMPTY.1 java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationWithTarget&gt; getAllAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.FilteredAnnotations java.util.Iterator&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotatedImpl kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations getAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationsKt kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations composeAnnotations(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinRetention BINARY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget Companion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationUtilKt kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor createDeprecatedAnnotation(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns, java.lang.String, java.lang.String, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationsImpl AnnotationsImpl(java.util.List&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationUseSiteTarget FILE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor findAnnotation(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.FilteredAnnotations boolean hasAnnotation(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor kotlin.reflect.jvm.internal.impl.descriptors.SourceElement getSource()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations.Companion kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor findUseSiteTargetedAnnotation(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationUseSiteTarget, kotlin.reflect.jvm.internal.impl.name.FqName) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations.DefaultImpls boolean hasAnnotation(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, kotlin.reflect.jvm.internal.impl.name.FqName) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationUseSiteTarget java.lang.String getRenderName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.FilteredAnnotations FilteredAnnotations(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.name.FqName,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget OBJECT_LITERAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget MEMBER_PROPERTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationUseSiteTarget PROPERTY_SETTER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationsKt kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations composeAnnotations(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationUseSiteTarget CONSTRUCTOR_PARAMETER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget ANONYMOUS_FUNCTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget MEMBER_PROPERTY_WITHOUT_FIELD_OR_DELEGATE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget TOP_LEVEL_PROPERTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationUtilKt kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor createDeprecatedAnnotation(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns, java.lang.String, java.lang.String, java.lang.String) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations.Companion.EMPTY.1 boolean hasAnnotation(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor kotlin.reflect.jvm.internal.impl.types.KotlinType getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations.Companion kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor findUseSiteTargetedAnnotation(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationUseSiteTarget, kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationsImpl Companion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations.DefaultImpls boolean hasAnnotation(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationUtilKt kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor createUnsafeVarianceAnnotation(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationUseSiteTarget SETTER_PARAMETER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations.Companion.EMPTY.1 java.lang.Void findAnnotation(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget EXPRESSION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget.Companion java.util.HashMap access$getMap$p(kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget.Companion)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget PROPERTY_GETTER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget TOP_LEVEL_PROPERTY_WITH_DELEGATE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget INTERFACE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationUseSiteTarget Companion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationsImpl kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor findAnnotation(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptorImpl kotlin.reflect.jvm.internal.impl.descriptors.SourceElement getSource()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotatedImpl AnnotatedImpl(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget KotlinTarget(java.lang.String, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget CONSTRUCTOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget OBJECT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationUtilKt boolean isEffectivelyInlineOnly(kotlin.reflect.jvm.internal.impl.descriptors.MemberDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationUseSiteTarget FIELD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationUtilKt kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor createDeprecatedAnnotation(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns, java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget PROPERTY_PARAMETER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationUtilKt kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor createUnsafeVarianceAnnotation(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationsKt kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations composeAnnotations(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationUtilKt kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor createDeprecatedAnnotation$default(kotlin.reflect.jvm.internal.impl.builtins.KotlinBuiltIns, java.lang.String, java.lang.String, java.lang.String, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations.Companion kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor findUseSiteTargetedAnnotation(kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations, kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationUseSiteTarget, kotlin.reflect.jvm.internal.impl.name.FqName) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.CompositeAnnotations CompositeAnnotations(java.util.List&lt;? extends kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.FilteredAnnotations java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationWithTarget&gt; getUseSiteTargetedAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget MEMBER_FUNCTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationUtilKt boolean isInlineOnlyOrReifiable(kotlin.reflect.jvm.internal.impl.descriptors.MemberDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.FilteredAnnotations kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor findAnnotation(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget VALUE_PARAMETER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor java.util.Map&lt;kotlin.reflect.jvm.internal.impl.descriptors.ValueParameterDescriptor,kotlin.reflect.jvm.internal.impl.resolve.constants.ConstantValue&lt;?&gt;&gt; getAllValueArguments()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationWithTarget&gt; getAllAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget ANNOTATION_CLASS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget CLASS_ONLY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationUseSiteTarget PROPERTY_GETTER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations Companion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget LOCAL_VARIABLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations.Companion.EMPTY.1 java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget TOP_LEVEL_PROPERTY_WITH_BACKING_FIELD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.KotlinTarget java.util.HashMap access$getMap$cp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.Annotations java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationWithTarget&gt; getUseSiteTargetedAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.descriptors.annotations.FilteredAnnotations java.util.List&lt;kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationWithTarget&gt; getAllAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,689 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature.Builder mergeGetter(kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBufUtil kotlin.reflect.jvm.internal.impl.serialization.PackageData readPackageDataFrom(byte[], java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature kotlin.reflect.jvm.internal.impl.protobuf.MessageLite.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature.Builder kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature.Builder kotlin.reflect.jvm.internal.impl.protobuf.AbstractMessageLite.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBufUtil.PropertySignature java.lang.String component2()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Builder kotlin.reflect.jvm.internal.impl.protobuf.MessageLite build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBufUtil kotlin.reflect.jvm.internal.impl.serialization.PackageData readPackageDataFrom(byte[], java.lang.String[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature.Builder mergeSetter(kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Builder kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record.Operation NONE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.UtfEncodingKt byte[] stringsToBytes(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBufUtil.PropertySignature PropertySignature(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record kotlin.reflect.jvm.internal.impl.protobuf.MessageLite.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBufUtil.PropertySignature java.lang.String getName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable kotlin.reflect.jvm.internal.impl.protobuf.MessageLite.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.UtfEncodingKt byte[] stringsToBytes(java.lang.String[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature.Builder kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature kotlin.reflect.jvm.internal.impl.protobuf.MessageLite.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record.Builder setOperation(kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record.Operation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature kotlin.reflect.jvm.internal.impl.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBufUtil kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite getEXTENSION_REGISTRY()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts.Builder kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature.Builder kotlin.reflect.jvm.internal.impl.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf isRaw'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts kotlin.reflect.jvm.internal.impl.protobuf.MessageLite.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes kotlin.reflect.jvm.internal.impl.protobuf.MessageLite.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature.Builder kotlin.reflect.jvm.internal.impl.protobuf.AbstractMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBufUtil.PropertySignature PropertySignature(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Builder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBufUtil kotlin.reflect.jvm.internal.impl.serialization.ClassData readClassDataFrom(byte[], java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBufUtil kotlin.reflect.jvm.internal.impl.serialization.PackageData readPackageDataFrom(java.lang.String[], java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature.Builder kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record.Builder setOperation(kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record.Operation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record.Builder kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBufUtil kotlin.reflect.jvm.internal.impl.serialization.PackageData readPackageDataFrom(byte[], java.lang.String[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature.Builder kotlin.reflect.jvm.internal.impl.protobuf.MessageLite.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record.Builder setPredefinedIndex(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBufUtil kotlin.reflect.jvm.internal.impl.serialization.ClassData readClassDataFrom(byte[], java.lang.String[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBufUtil kotlin.reflect.jvm.internal.impl.serialization.PackageData readPackageDataFrom(java.lang.String[], java.lang.String[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature.Builder newBuilder(kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature.Builder kotlin.reflect.jvm.internal.impl.protobuf.AbstractMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts.Builder kotlin.reflect.jvm.internal.impl.protobuf.MessageLite.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Builder kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable.Builder kotlin.reflect.jvm.internal.impl.protobuf.MessageLite.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBufUtil kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBufUtil.PropertySignature getJvmFieldSignature(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Property, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts.Builder kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBufUtil kotlin.reflect.jvm.internal.impl.serialization.ClassData readClassDataFrom(java.lang.String[], java.lang.String[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf classModuleName'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature.Builder kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature.Builder newBuilder(kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Builder kotlin.reflect.jvm.internal.impl.protobuf.MessageLite.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBufUtil kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBufUtil.PropertySignature getJvmFieldSignature(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Property, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.ClassMapperLite java.lang.String mapClass(kotlin.reflect.jvm.internal.impl.name.ClassId)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature.Builder mergeField(kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature.Builder kotlin.reflect.jvm.internal.impl.protobuf.AbstractMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature.Builder kotlin.reflect.jvm.internal.impl.protobuf.MessageLite build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable.Builder newBuilder(kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature.Builder kotlin.reflect.jvm.internal.impl.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf packageLocalVariable'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBufUtil java.lang.String getJvmMethodSignature(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Function, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBufUtil kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBufUtil.PropertySignature getJvmFieldSignature(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Property, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature.Builder mergeSyntheticMethod(kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Builder newBuilder(kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable kotlin.reflect.jvm.internal.impl.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf methodSignature'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record.Builder kotlin.reflect.jvm.internal.impl.protobuf.AbstractMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Builder kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBufUtil java.lang.String getJvmMethodSignature(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Function, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBufUtil kotlin.reflect.jvm.internal.impl.serialization.PackageData readPackageDataFrom(java.lang.String[], java.lang.String[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable.Builder kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Builder kotlin.reflect.jvm.internal.impl.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable.Builder kotlin.reflect.jvm.internal.impl.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature kotlin.reflect.jvm.internal.impl.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBufUtil.PropertySignature java.lang.String component1()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable.Builder kotlin.reflect.jvm.internal.impl.protobuf.MessageLite build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature kotlin.reflect.jvm.internal.impl.protobuf.MessageLite.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record.Builder setRange(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts.Builder kotlin.reflect.jvm.internal.impl.protobuf.MessageLite build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts kotlin.reflect.jvm.internal.impl.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature.Builder kotlin.reflect.jvm.internal.impl.protobuf.MessageLite build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record.Builder newBuilder(kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature.Builder setDesc(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable kotlin.reflect.jvm.internal.impl.protobuf.MessageLite.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record kotlin.reflect.jvm.internal.impl.protobuf.MessageLite.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature.Builder setName(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts.Builder kotlin.reflect.jvm.internal.impl.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature.Builder kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature.Builder kotlin.reflect.jvm.internal.impl.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record.Operation INTERNAL_TO_CLASS_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts kotlin.reflect.jvm.internal.impl.protobuf.MessageLite.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf void registerAllExtensions(kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable.Builder kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBufUtil java.lang.String getJvmMethodSignature(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Function, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature kotlin.reflect.jvm.internal.impl.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature kotlin.reflect.jvm.internal.impl.protobuf.MessageLite.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBufUtil INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature.Builder kotlin.reflect.jvm.internal.impl.protobuf.AbstractMessageLite.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts.Builder kotlin.reflect.jvm.internal.impl.protobuf.AbstractMessageLite.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBufUtil java.lang.String getJvmConstructorSignature(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Constructor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature.Builder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts.Builder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.BitEncoding byte[] decodeBytes(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record.Builder kotlin.reflect.jvm.internal.impl.protobuf.MessageLite build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record.Builder kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBufUtil java.lang.String getJvmConstructorSignature(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Constructor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record kotlin.reflect.jvm.internal.impl.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Builder kotlin.reflect.jvm.internal.impl.protobuf.AbstractMessageLite.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable.Builder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature.Builder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature kotlin.reflect.jvm.internal.impl.protobuf.MessageLite.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf packageModuleName'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBufUtil kotlin.reflect.jvm.internal.impl.serialization.ClassData readClassDataFrom(java.lang.String[], java.lang.String[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.ClassMapperLite java.lang.String mapClass(kotlin.reflect.jvm.internal.impl.name.ClassId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature.Builder kotlin.reflect.jvm.internal.impl.protobuf.MessageLite.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts.Builder kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBufUtil java.lang.String getJvmConstructorSignature(kotlin.reflect.jvm.internal.impl.serialization.ProtoBuf.Constructor, kotlin.reflect.jvm.internal.impl.serialization.deserialization.NameResolver, kotlin.reflect.jvm.internal.impl.serialization.deserialization.TypeTable) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable.Builder kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes kotlin.reflect.jvm.internal.impl.protobuf.MessageLite.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBufUtil kotlin.reflect.jvm.internal.impl.serialization.ClassData readClassDataFrom(java.lang.String[], java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable.Builder kotlin.reflect.jvm.internal.impl.protobuf.AbstractMessageLite.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature.Builder setDesc(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record.Builder kotlin.reflect.jvm.internal.impl.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature.Builder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf typeAnnotation'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable.Builder kotlin.reflect.jvm.internal.impl.protobuf.AbstractMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature.Builder newBuilderForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature.Builder newBuilder(kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record.Builder kotlin.reflect.jvm.internal.impl.protobuf.AbstractMessageLite.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf constructorSignature'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts.Builder kotlin.reflect.jvm.internal.impl.protobuf.AbstractMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageTable buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature.Builder setName(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record.Builder kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.BitEncoding byte[] decodeBytes(java.lang.String[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature.Builder kotlin.reflect.jvm.internal.impl.protobuf.MessageLite.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature.Builder kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature.Builder kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts.Builder newBuilder(kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record.Builder java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature.Builder kotlin.reflect.jvm.internal.impl.protobuf.AbstractMessageLite.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf classLocalVariable'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmPackageTable.PackageParts.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Builder kotlin.reflect.jvm.internal.impl.protobuf.AbstractMessageLite.Builder clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBufUtil kotlin.reflect.jvm.internal.impl.serialization.ClassData readClassDataFrom(byte[], java.lang.String[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record.Builder kotlin.reflect.jvm.internal.impl.protobuf.MessageLite.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.protobuf.CodedInputStream, kotlin.reflect.jvm.internal.impl.protobuf.ExtensionRegistryLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature kotlin.reflect.jvm.internal.impl.protobuf.MessageLite.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes.Record.Operation DESC_TO_CLASS_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf typeParameterAnnotation'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf propertySignature'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.ClassMapperLite INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature.Builder kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature.Builder kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmMethodSignature buildPartial()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmFieldSignature.Builder kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite.Builder mergeFrom(kotlin.reflect.jvm.internal.impl.protobuf.GeneratedMessageLite)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.JvmPropertySignature.Builder kotlin.reflect.jvm.internal.impl.protobuf.MessageLite build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.serialization.jvm.JvmProtoBuf.StringTableTypes kotlin.reflect.jvm.internal.impl.protobuf.MessageLite getDefaultInstanceForType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

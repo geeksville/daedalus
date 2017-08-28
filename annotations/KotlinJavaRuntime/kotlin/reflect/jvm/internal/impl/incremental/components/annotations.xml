@@ -1,0 +1,122 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.NoLookupLocation WHEN_GET_DECLARATION_SCOPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.NoLookupLocation FROM_JAVA_LOADER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.NoLookupLocation WHEN_TYPING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.NoLookupLocation WHEN_FIND_BY_FQNAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.NoLookupLocation WHEN_CHECK_OVERRIDES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.NoLookupLocation FOR_NON_TRACKED_SCOPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.LocationInfo kotlin.reflect.jvm.internal.impl.incremental.components.Position getPosition()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.Position Companion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.NoLookupLocation FROM_BUILTINS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.NoLookupLocation WHEN_GET_ALL_DESCRIPTORS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker.DO_NOTHING void record(java.lang.String, kotlin.reflect.jvm.internal.impl.incremental.components.Position, java.lang.String, kotlin.reflect.jvm.internal.impl.incremental.components.ScopeKind, java.lang.String) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker void record(java.lang.String, kotlin.reflect.jvm.internal.impl.incremental.components.Position, java.lang.String, kotlin.reflect.jvm.internal.impl.incremental.components.ScopeKind, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.NoLookupLocation WHEN_GET_LOCAL_VARIABLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker.DO_NOTHING void record(java.lang.String, kotlin.reflect.jvm.internal.impl.incremental.components.Position, java.lang.String, kotlin.reflect.jvm.internal.impl.incremental.components.ScopeKind, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.NoLookupLocation FROM_SYNTHETIC_SCOPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.NoLookupLocation WHEN_RESOLVE_DECLARATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker void record(java.lang.String, kotlin.reflect.jvm.internal.impl.incremental.components.Position, java.lang.String, kotlin.reflect.jvm.internal.impl.incremental.components.ScopeKind, java.lang.String) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.NoLookupLocation FROM_TEST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.Position.Companion kotlin.reflect.jvm.internal.impl.incremental.components.Position getNO_POSITION()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.NoLookupLocation FOR_SCRIPT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.NoLookupLocation WHEN_GET_SUPER_MEMBERS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.NoLookupLocation FOR_ALREADY_TRACKED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker.DO_NOTHING void record(java.lang.String, kotlin.reflect.jvm.internal.impl.incremental.components.Position, java.lang.String, kotlin.reflect.jvm.internal.impl.incremental.components.ScopeKind, java.lang.String) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.Position kotlin.reflect.jvm.internal.impl.incremental.components.Position access$getNO_POSITION$cp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.NoLookupLocation FROM_BACKEND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.ScopeKind CLASSIFIER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.NoLookupLocation WHEN_GET_COMPANION_OBJECT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.ScopeKind PACKAGE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.LocationInfo java.lang.String getFilePath()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.NoLookupLocation WHEN_CHECK_DECLARATION_CONFLICTS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker.DO_NOTHING void record(java.lang.String, kotlin.reflect.jvm.internal.impl.incremental.components.Position, java.lang.String, kotlin.reflect.jvm.internal.impl.incremental.components.ScopeKind, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker void record(java.lang.String, kotlin.reflect.jvm.internal.impl.incremental.components.Position, java.lang.String, kotlin.reflect.jvm.internal.impl.incremental.components.ScopeKind, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.NoLookupLocation FROM_IDE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker.DO_NOTHING void record(java.lang.String, kotlin.reflect.jvm.internal.impl.incremental.components.Position, java.lang.String, kotlin.reflect.jvm.internal.impl.incremental.components.ScopeKind, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker void record(java.lang.String, kotlin.reflect.jvm.internal.impl.incremental.components.Position, java.lang.String, kotlin.reflect.jvm.internal.impl.incremental.components.ScopeKind, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker.DO_NOTHING INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.NoLookupLocation WHEN_RESOLVING_DEFAULT_TYPE_ARGUMENTS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.LookupTracker void record(java.lang.String, kotlin.reflect.jvm.internal.impl.incremental.components.Position, java.lang.String, kotlin.reflect.jvm.internal.impl.incremental.components.ScopeKind, java.lang.String) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.NoLookupLocation FROM_DESERIALIZATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.incremental.components.NoLookupLocation FROM_REFLECTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

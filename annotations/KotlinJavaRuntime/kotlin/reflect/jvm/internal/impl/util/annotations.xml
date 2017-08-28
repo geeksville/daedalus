@@ -1,0 +1,293 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.util.OperatorNameConventions GET'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.OperatorNameConventions PROVIDE_DELEGATE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.OperatorNameConventions RANGE_TO'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.MemberKindCheck.Member boolean check(kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.OperatorNameConventions SET_VALUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.Checks Checks(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.util.Check[], kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor,java.lang.String&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.ReturnsCheck.ReturnsBoolean INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.OperatorNameConventions GET_VALUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.Check.DefaultImpls java.lang.String invoke(kotlin.reflect.jvm.internal.impl.util.Check, kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.OperatorNameConventions MINUS_ASSIGN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.AbstractModifierChecks kotlin.reflect.jvm.internal.impl.util.CheckResult check(kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.ValueParameterCountCheck.NoValueParameters boolean check(kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.OperatorNameConventions UNARY_MINUS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.Checks Checks(kotlin.text.Regex, kotlin.reflect.jvm.internal.impl.util.Check[], kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor,java.lang.String&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.ReturnsCheck java.lang.String invoke(kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.ValueParameterCountCheck java.lang.String getDescription()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.Checks Checks(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.util.Check[], kotlin.jvm.functions.Function1, int, kotlin.jvm.internal.DefaultConstructorMarker) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.OperatorNameConventions NOT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.OperatorNameConventions DIV'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.Checks Checks(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.util.Check[], kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor,java.lang.String&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.OperatorNameConventions COMPONENT_REGEX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.OperatorNameConventions COMPARE_TO'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.MemberKindCheck java.lang.String getDescription()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.Checks kotlin.reflect.jvm.internal.impl.util.CheckResult checkAll(kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.ModuleVisibilityHelper boolean isInFriendModule(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.OperatorNameConventions CONTAINS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.Checks Checks(java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt;, kotlin.reflect.jvm.internal.impl.util.Check[], kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor,java.lang.String&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.ValueParameterCountCheck.SingleValueParameter INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.OperatorNameConventions ITERATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.MemberKindCheck.Member INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.OperatorNameConventions TIMES_ASSIGN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.ValueParameterCountCheck ValueParameterCountCheck(java.lang.String, kotlin.jvm.internal.DefaultConstructorMarker) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.Checks Checks(java.util.Collection, kotlin.reflect.jvm.internal.impl.util.Check[], kotlin.jvm.functions.Function1, int, kotlin.jvm.internal.DefaultConstructorMarker) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.ModuleVisibilityHelper.EMPTY boolean isInFriendModule(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.ValueParameterCountCheck java.lang.String invoke(kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.AbstractModifierChecks java.util.List&lt;kotlin.reflect.jvm.internal.impl.util.Checks&gt; getChecks$kotlin_reflection()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.Checks Checks(kotlin.text.Regex, kotlin.reflect.jvm.internal.impl.util.Check[], kotlin.jvm.functions.Function1, int, kotlin.jvm.internal.DefaultConstructorMarker) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.ReturnsCheck java.lang.String getDescription()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.Checks boolean isApplicable(kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.ReturnsCheck ReturnsCheck(java.lang.String, kotlin.jvm.functions.Function1, kotlin.jvm.internal.DefaultConstructorMarker) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.OperatorNameConventions MOD_ASSIGN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.OperatorNameConventions MOD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.ValueParameterCountCheck.SingleValueParameter boolean check(kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.ReturnsCheck boolean check(kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.Check.DefaultImpls java.lang.String invoke(kotlin.reflect.jvm.internal.impl.util.Check, kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.AbstractModifierChecks kotlin.reflect.jvm.internal.impl.util.CheckResult check(kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.OperatorChecks java.util.List&lt;kotlin.reflect.jvm.internal.impl.util.Checks&gt; getChecks$kotlin_reflection()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.OperatorNameConventions DEC'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.OperatorNameConventions OR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.Checks Checks(java.util.Collection, kotlin.reflect.jvm.internal.impl.util.Check[], kotlin.jvm.functions.Function1, int, kotlin.jvm.internal.DefaultConstructorMarker) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.ReturnsCheck ReturnsCheck(java.lang.String, kotlin.jvm.functions.Function1, kotlin.jvm.internal.DefaultConstructorMarker) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.ModuleVisibilityHelper.EMPTY boolean isInFriendModule(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.OperatorNameConventions INVOKE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.Checks Checks(java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt;, kotlin.reflect.jvm.internal.impl.util.Check[], kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor,java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.OperatorNameConventions UNARY_PLUS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.OperatorNameConventions SET'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.OperatorNameConventions PLUS_ASSIGN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.Check boolean check(kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.OperatorNameConventions INC'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.Checks Checks(java.util.Collection, kotlin.reflect.jvm.internal.impl.util.Check[], kotlin.jvm.functions.Function1, int, kotlin.jvm.internal.DefaultConstructorMarker) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.ValueParameterCountCheck.Equals boolean check(kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.Checks Checks(kotlin.text.Regex, kotlin.reflect.jvm.internal.impl.util.Check[], kotlin.jvm.functions.Function1, int, kotlin.jvm.internal.DefaultConstructorMarker) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.ModuleVisibilityHelper boolean isInFriendModule(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.OperatorNameConventions NEXT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.CheckResult.SuccessCheck INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.Checks Checks(java.util.Collection&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt;, kotlin.reflect.jvm.internal.impl.util.Check[], kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor,java.lang.String&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.OperatorNameConventions EQUALS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.MemberKindCheck.MemberOrExtension INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.ModuleVisibilityHelper.EMPTY INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.ReturnsCheck.ReturnsInt INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.ValueParameterCountCheck.AtLeast boolean check(kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.ValueParameterCountCheck.NoValueParameters INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.OperatorChecks INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.Check java.lang.String invoke(kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.Checks Checks(kotlin.text.Regex, kotlin.reflect.jvm.internal.impl.util.Check[], kotlin.jvm.functions.Function1, int, kotlin.jvm.internal.DefaultConstructorMarker) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.OperatorNameConventions AND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.Checks Checks(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.util.Check[], kotlin.jvm.functions.Function1, int, kotlin.jvm.internal.DefaultConstructorMarker) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.ReturnsCheck.ReturnsUnit INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.CheckResult.IllegalFunctionName INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.OperatorNameConventions MINUS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.Checks kotlin.reflect.jvm.internal.impl.util.CheckResult checkAll(kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.OperatorNameConventions DIV_ASSIGN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.OperatorNameConventions PLUS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.OperatorNameConventions TIMES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.OperatorNameConventions INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.OperatorNameConventions REM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.OperatorNameConventions REM_ASSIGN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.Checks Checks(kotlin.text.Regex, kotlin.reflect.jvm.internal.impl.util.Check[], kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor,java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.MemberKindCheck java.lang.String invoke(kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.MemberKindCheck MemberKindCheck(java.lang.String, kotlin.jvm.internal.DefaultConstructorMarker) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.Checks Checks(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.util.Check[], kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor,java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.Checks Checks(kotlin.reflect.jvm.internal.impl.name.Name, kotlin.reflect.jvm.internal.impl.util.Check[], kotlin.jvm.functions.Function1, int, kotlin.jvm.internal.DefaultConstructorMarker) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.MemberKindCheck.MemberOrExtension boolean check(kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.CheckResult.IllegalSignature IllegalSignature(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.OperatorNameConventions HAS_NEXT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.Check java.lang.String getDescription()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.util.Checks Checks(kotlin.text.Regex, kotlin.reflect.jvm.internal.impl.util.Check[], kotlin.jvm.functions.Function1&lt;? super kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor,java.lang.String&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

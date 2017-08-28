@@ -1,0 +1,359 @@
+<root>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.ErasedOverridabilityCondition.WhenMappings $EnumSwitchMapping$0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JvmAnnotationNames ENHANCED_NULLABILITY_ANNOTATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver.Empty kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor resolveTypeQualifierAnnotation(kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.SpecialBuiltinMembers kotlin.reflect.jvm.internal.impl.name.FqName access$child(kotlin.reflect.jvm.internal.impl.name.FqName, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JvmAnnotationNamesKt java.util.List&lt;kotlin.reflect.jvm.internal.impl.name.FqName&gt; getNULLABLE_ANNOTATIONS()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.BuiltinMethodsWithDifferentJvmName boolean isBuiltinFunctionWithDifferentNameInJvm(kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JvmAnnotationNames JETBRAINS_READONLY_ANNOTATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.BuiltinMethodsWithSpecialGenericSignature.TypeSafeBarrierDescription MAP_GET_OR_DEFAULT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JavaIncompatibilityRulesOverridabilityCondition.Companion boolean doesJavaOverrideHaveIncompatibleValueParameterKinds(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JavaVisibilities PACKAGE_VISIBILITY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.SpecialBuiltinMembers kotlin.reflect.jvm.internal.impl.name.FqName access$child(kotlin.reflect.jvm.internal.impl.name.FqName, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.SpecialBuiltinMembers kotlin.reflect.jvm.internal.impl.load.java.NameAndSignature access$method(java.lang.String, java.lang.String, java.lang.String, java.lang.String) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver.QualifierApplicabilityType VALUE_PARAMETER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.SpecialBuiltinMembers boolean hasRealKotlinSuperClassWithOverrideOf(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JavaClassFinder java.util.Set&lt;java.lang.String&gt; knownClassNamesInPackage(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.BuiltinMethodsWithSpecialGenericSignature boolean access$getHasErasedValueParametersInJava$p(kotlin.reflect.jvm.internal.impl.load.java.BuiltinMethodsWithSpecialGenericSignature, kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.PropertiesConventionUtilKt java.util.List&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt; getPropertyNamesCandidatesByAccessorName(kotlin.reflect.jvm.internal.impl.name.Name)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JavaVisibilities PROTECTED_AND_PACKAGE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.BuiltinMethodsWithDifferentJvmName boolean getSameAsRenamedInJvmBuiltin(kotlin.reflect.jvm.internal.impl.name.Name) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.SpecialBuiltinMembers kotlin.reflect.jvm.internal.impl.name.FqName access$childSafe(kotlin.reflect.jvm.internal.impl.name.FqNameUnsafe, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JvmAbi REFLECTION_FACTORY_IMPL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.BuiltinMethodsWithSpecialGenericSignature.SpecialSignatureInfo OBJECT_PARAMETER_GENERIC'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JavaVisibilities PROTECTED_STATIC_VISIBILITY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver.Empty INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JavaIncompatibilityRulesOverridabilityCondition Companion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.BuiltinMethodsWithSpecialGenericSignature.SpecialSignatureInfo ONE_COLLECTION_PARAMETER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.PropertiesConventionUtilKt kotlin.reflect.jvm.internal.impl.name.Name propertyNameByGetMethodName(kotlin.reflect.jvm.internal.impl.name.Name) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.BuiltinOverridabilityCondition kotlin.reflect.jvm.internal.impl.resolve.ExternalOverridabilityCondition.Contract getContract()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JavaIncompatibilityRulesOverridabilityCondition kotlin.reflect.jvm.internal.impl.resolve.ExternalOverridabilityCondition.Result isOverridable(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.BuiltinMethodsWithSpecialGenericSignature boolean access$getHasErasedValueParametersInJava$p(kotlin.reflect.jvm.internal.impl.load.java.BuiltinMethodsWithSpecialGenericSignature, kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.PropertiesConventionUtilKt kotlin.reflect.jvm.internal.impl.name.Name propertyNameBySetMethodName(kotlin.reflect.jvm.internal.impl.name.Name, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JavaIncompatibilityRulesOverridabilityCondition kotlin.reflect.jvm.internal.impl.resolve.ExternalOverridabilityCondition.Result isOverridable(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor resolveTypeQualifierAnnotation(kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.BuiltinMethodsWithSpecialGenericSignature.TypeSafeBarrierDescription NULL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JvmAnnotationNames JETBRAINS_NOT_NULL_ANNOTATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.PropertiesConventionUtilKt java.util.List&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt; propertyNamesBySetMethodName(kotlin.reflect.jvm.internal.impl.name.Name) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.BuiltinSpecialProperties java.util.List&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt; getPropertyNameCandidatesBySpecialGetterName(kotlin.reflect.jvm.internal.impl.name.Name) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JvmAbi java.lang.String setterName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JvmAnnotationNames JETBRAINS_MUTABLE_ANNOTATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.BuiltinMethodsWithSpecialGenericSignature.TypeSafeBarrierDescription INDEX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JavaClassFinder kotlin.reflect.jvm.internal.impl.load.java.structure.JavaPackage findPackage(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JavaIncompatibilityRulesOverridabilityCondition kotlin.reflect.jvm.internal.impl.resolve.ExternalOverridabilityCondition.Contract getContract()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver.QualifierApplicabilityType FIELD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.BuiltinMethodsWithSpecialGenericSignature kotlin.reflect.jvm.internal.impl.load.java.BuiltinMethodsWithSpecialGenericSignature.SpecialSignatureInfo getSpecialSignatureInfo(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.SpecialBuiltinMembers boolean isFromJava(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver.Empty kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver.TypeQualifierWithApplicability resolveTypeQualifierDefaultAnnotation(kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JavaClassFinder kotlin.reflect.jvm.internal.impl.load.java.structure.JavaClass findClass(kotlin.reflect.jvm.internal.impl.name.ClassId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.BuiltinMethodsWithDifferentJvmName java.util.Map access$getSIGNATURE_TO_JVM_REPRESENTATION_NAME$p(kotlin.reflect.jvm.internal.impl.load.java.BuiltinMethodsWithDifferentJvmName)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.SpecialBuiltinMembers kotlin.reflect.jvm.internal.impl.name.FqName access$child(kotlin.reflect.jvm.internal.impl.name.FqName, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver.QualifierApplicabilityType METHOD_RETURN_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.SpecialBuiltinMembers boolean doesOverrideBuiltinWithDifferentJvmName(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JvmAbi boolean isCompanionObjectWithBackingFieldsInOuter(kotlin.reflect.jvm.internal.impl.descriptors.DeclarationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.BuiltinMethodsWithDifferentJvmName kotlin.reflect.jvm.internal.impl.name.Name getJvmName(kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JvmAnnotationNamesKt java.util.List&lt;kotlin.reflect.jvm.internal.impl.name.FqName&gt; getNOT_NULL_ANNOTATIONS()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JvmAbi boolean startsWithIsPrefix(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JvmAnnotationNames DEFAULT_ANNOTATION_MEMBER_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.BuiltinMethodsWithDifferentJvmName INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.BuiltinSpecialProperties java.util.Set&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt; getSPECIAL_SHORT_NAMES$kotlin_reflection()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.SpecialBuiltinMembers kotlin.reflect.jvm.internal.impl.name.FqName access$childSafe(kotlin.reflect.jvm.internal.impl.name.FqNameUnsafe, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JvmAnnotationNames PURELY_IMPLEMENTS_ANNOTATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.BuiltinSpecialProperties java.lang.String getBuiltinSpecialPropertyGetterName(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.BuiltinMethodsWithDifferentJvmName java.util.List&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt; getBuiltinFunctionNamesByJvmName(kotlin.reflect.jvm.internal.impl.name.Name)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.ErasedOverridabilityCondition kotlin.reflect.jvm.internal.impl.resolve.ExternalOverridabilityCondition.Result isOverridable(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver.TypeQualifierWithApplicability kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor component1()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.BuiltinMethodsWithSpecialGenericSignature.TypeSafeBarrierDescription FALSE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.BuiltinMethodsWithDifferentJvmName java.util.List&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt; getBuiltinFunctionNamesByJvmName(kotlin.reflect.jvm.internal.impl.name.Name) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.BuiltinMethodsWithSpecialGenericSignature INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.FieldOverridabilityCondition kotlin.reflect.jvm.internal.impl.resolve.ExternalOverridabilityCondition.Result isOverridable(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.FieldOverridabilityCondition kotlin.reflect.jvm.internal.impl.resolve.ExternalOverridabilityCondition.Result isOverridable(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JvmAbi java.lang.String setterName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JvmAnnotationNames JETBRAINS_NULLABLE_ANNOTATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.BuiltinMethodsWithDifferentJvmName boolean isRemoveAtByIndex(kotlin.reflect.jvm.internal.impl.descriptors.SimpleFunctionDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver.TypeQualifierWithApplicability java.util.List&lt;kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver.QualifierApplicabilityType&gt; component2()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.BuiltinMethodsWithSpecialGenericSignature boolean getSameAsBuiltinMethodWithErasedValueParameters(kotlin.reflect.jvm.internal.impl.name.Name) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.SpecialBuiltinMembers java.lang.String getJvmMethodNameIfSpecial(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.ErasedOverridabilityCondition kotlin.reflect.jvm.internal.impl.resolve.ExternalOverridabilityCondition.Result isOverridable(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.BuiltinMethodsWithSpecialGenericSignature.SpecialSignatureInfo OBJECT_PARAMETER_NON_GENERIC'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JvmAnnotationNames ENHANCED_MUTABILITY_ANNOTATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver.QualifierApplicabilityType TYPE_USE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.FakePureImplementationsProvider kotlin.reflect.jvm.internal.impl.name.FqName getPurelyImplementedInterface(kotlin.reflect.jvm.internal.impl.name.FqName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.BuiltinMethodsWithDifferentJvmName java.util.List&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt; getORIGINAL_SHORT_NAMES()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.ErasedOverridabilityCondition kotlin.reflect.jvm.internal.impl.resolve.ExternalOverridabilityCondition.Result isOverridable(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.SpecialBuiltinMembers T getOverriddenSpecialBuiltin(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.SpecialBuiltinMembers kotlin.reflect.jvm.internal.impl.load.java.NameAndSignature access$method(java.lang.String, java.lang.String, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JvmAbi java.lang.String getterName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.BuiltinOverridabilityCondition kotlin.reflect.jvm.internal.impl.resolve.ExternalOverridabilityCondition.Result isOverridable(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JvmBytecodeBinaryVersion INVALID_VERSION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JvmAbi java.lang.String getterName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.FieldOverridabilityCondition kotlin.reflect.jvm.internal.impl.resolve.ExternalOverridabilityCondition.Result isOverridable(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JvmAnnotationNames METADATA_FQ_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.BuiltinOverridabilityCondition kotlin.reflect.jvm.internal.impl.resolve.ExternalOverridabilityCondition.Result isOverridable(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JvmAbi boolean isSetterName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.SpecialBuiltinMembers kotlin.reflect.jvm.internal.impl.load.java.NameAndSignature access$method(java.lang.String, java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.BuiltinSpecialProperties boolean hasBuiltinSpecialPropertyFqName(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JvmBytecodeBinaryVersion JvmBytecodeBinaryVersion(int...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.BuiltinSpecialProperties java.util.List&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt; getPropertyNameCandidatesBySpecialGetterName(kotlin.reflect.jvm.internal.impl.name.Name)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JvmAbi boolean isGetterName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JvmAnnotationNamesKt java.util.List&lt;kotlin.reflect.jvm.internal.impl.name.FqName&gt; getREAD_ONLY_ANNOTATIONS()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.FakePureImplementationsProvider INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.SpecialBuiltinMembers kotlin.reflect.jvm.internal.impl.load.java.NameAndSignature access$method(java.lang.String, java.lang.String, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.BuiltinMethodsWithSpecialGenericSignature kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor getOverriddenBuiltinFunctionWithErasedValueParametersInJava(kotlin.reflect.jvm.internal.impl.descriptors.FunctionDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.BuiltinOverridabilityCondition kotlin.reflect.jvm.internal.impl.resolve.ExternalOverridabilityCondition.Result isOverridable(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.ErasedOverridabilityCondition kotlin.reflect.jvm.internal.impl.resolve.ExternalOverridabilityCondition.Contract getContract()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.FieldOverridabilityCondition kotlin.reflect.jvm.internal.impl.resolve.ExternalOverridabilityCondition.Contract getContract()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.PropertiesConventionUtilKt java.util.List&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt; propertyNamesBySetMethodName(kotlin.reflect.jvm.internal.impl.name.Name)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.PropertiesConventionUtilKt java.util.List&lt;kotlin.reflect.jvm.internal.impl.name.Name&gt; getPropertyNamesCandidatesByAccessorName(kotlin.reflect.jvm.internal.impl.name.Name) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.SpecialBuiltinMembers T getOverriddenBuiltinWithDifferentJvmName(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JvmBytecodeBinaryVersion INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.SpecialBuiltinMembers kotlin.reflect.jvm.internal.impl.name.FqName access$childSafe(kotlin.reflect.jvm.internal.impl.name.FqNameUnsafe, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JavaIncompatibilityRulesOverridabilityCondition.Companion boolean doesJavaOverrideHaveIncompatibleValueParameterKinds(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JvmAnnotationNamesKt kotlin.reflect.jvm.internal.impl.name.FqName getJAVAX_NONNULL_ANNOTATION()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.SpecialBuiltinMembers kotlin.reflect.jvm.internal.impl.load.java.NameAndSignature access$method(java.lang.String, java.lang.String, java.lang.String, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.SpecialBuiltinMembers boolean hasRealKotlinSuperClassWithOverrideOf(kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JvmAnnotationNamesKt java.util.List&lt;kotlin.reflect.jvm.internal.impl.name.FqName&gt; getMUTABLE_ANNOTATIONS()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver kotlin.reflect.jvm.internal.impl.load.java.AnnotationTypeQualifierResolver.TypeQualifierWithApplicability resolveTypeQualifierDefaultAnnotation(kotlin.reflect.jvm.internal.impl.descriptors.annotations.AnnotationDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JavaIncompatibilityRulesOverridabilityCondition kotlin.reflect.jvm.internal.impl.resolve.ExternalOverridabilityCondition.Result isOverridable(kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.CallableDescriptor, kotlin.reflect.jvm.internal.impl.descriptors.ClassDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.JvmBytecodeBinaryVersion Companion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.BuiltinSpecialProperties INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.reflect.jvm.internal.impl.load.java.SpecialBuiltinMembers boolean isFromJavaOrBuiltins(kotlin.reflect.jvm.internal.impl.descriptors.CallableMemberDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>
