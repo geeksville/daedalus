@@ -1,0 +1,3 @@
+# Lawicel CANUSB module - kevinh - place in /etc/udev/rules.d/90-slcan.rules
+ACTION=="add", ENV{ID_MODEL}=="CANUSB", ENV{SUBSYSTEM}=="tty", RUN+="/usr/bin/logger [udev] Lawicel CANUSB detected - running slcan_add.sh!", RUN+="/usr/local/bin/slcan_add.sh $kernel"
+ACTION=="remove", ENV{ID_MODEL}=="CANUSB", ENV{SUBSYSTEM}=="usb", RUN+="/usr/bin/logger [udev] Lawicel CANUSB removed - running slcan_remove.sh!", RUN+="/usr/local/bin/slcan_remove.sh"
